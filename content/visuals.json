@@ -1,0 +1,422 @@
+{
+  "hakikat": {
+    "alt": "Dua adegan: anak mengerjakan lembar tugas di meja; anak dan pendidik menyiapkan meja makan bersama.",
+    "observe": [
+      "Apa yang dilakukan anak pada masing-masing adegan?",
+      "Bukti apa yang diperlukan sebelum menyebut suatu kegiatan mendidik?"
+    ],
+    "read": "Aktivitas yang tampak rapi atau menyenangkan belum otomatis mendidik. Telusuri tujuan, pengalaman, tindakan pendidik, dan bukti perubahan anak.",
+    "a": [
+      "Mengukur kepatuhan saja",
+      "Meminta semua anak diam dan menyelesaikan lembar tugas.",
+      "Yang tampak: duduk tenang dan hasil lembar tugas."
+    ],
+    "b": [
+      "Mengamati pengalaman belajar",
+      "Mengajak anak membagi piring dan menjelaskan cara memastikan setiap teman mendapat satu.",
+      "Yang dicari: penalaran, kepedulian, dan bantuan yang masih diperlukan."
+    ],
+    "task": "Pilih satu tindakan anak dalam gambar. Pisahkan deskripsi yang terlihat dari dugaan tentang belajarnya.",
+    "answer": "“Anak membawa piring” adalah deskripsi adegan; “anak sudah peduli” adalah interpretasi yang perlu bukti tambahan. Tanyakan alasan tindakannya dan amati dalam situasi lain.",
+    "concept": "cycle",
+    "nodes": [
+      "Tujuan",
+      "Pengalaman",
+      "Pendampingan",
+      "Bukti belajar"
+    ],
+    "center": "Keputusan mendidik",
+    "relation": "Tujuan memberi arah pengalaman; bukti belajar digunakan untuk meninjau keputusan.",
+    "image": "assets/scenes/hakikat.webp"
+  },
+  "manusia": {
+    "alt": "Mahasiswa calon pendidik mengamati anak memilih balok dan mencoba membangun bersama pendidik yang mendampingi.",
+    "observe": [
+      "Di mana pilihan anak terlihat?",
+      "Bagian mana menunjukkan bahwa anak tetap memerlukan dukungan?"
+    ],
+    "read": "Anak dipahami sebagai subjek yang aktif, bertumbuh dalam relasi dan konteks. Gambar tidak membuktikan satu teori tentang hakikat manusia.",
+    "a": [
+      "Anak sebagai penerima",
+      "Menentukan seluruh bentuk bangunan dan meminta anak meniru.",
+      "Pilihan dan alasan anak belum diketahui."
+    ],
+    "b": [
+      "Anak sebagai pelaku yang didampingi",
+      "Menanyakan rencana anak lalu menawarkan bantuan saat diperlukan.",
+      "Amati pilihan, usaha, bahasa, dan respons terhadap bantuan."
+    ],
+    "task": "Tuliskan satu pertanyaan pendidik yang mengakui inisiatif anak tanpa membiarkannya kehilangan dukungan.",
+    "answer": "Contoh: “Kamu ingin membuat apa? Bagian mana yang ingin kamu coba sendiri, dan kapan kamu ingin dibantu?” Respons berikutnya disesuaikan dengan tindakan anak.",
+    "concept": "orbit",
+    "nodes": [
+      "Keunikan",
+      "Relasi sosial",
+      "Potensi tumbuh",
+      "Konteks budaya"
+    ],
+    "center": "Anak aktif",
+    "relation": "Keunikan, relasi, potensi, dan konteks dipertimbangkan bersama; bukan faktor yang bekerja sendiri-sendiri.",
+    "image": "assets/scenes/manusia.webp"
+  },
+  "tujuan": {
+    "alt": "Anak mengenali kartu huruf; dua anak menginginkan mainan yang sama; pendidik mendampingi giliran dan anak lain menuang air.",
+    "observe": [
+      "Kemampuan apa yang tampak selain mengenali huruf?",
+      "Mengapa satu capaian belum mewakili keseluruhan tujuan pendidikan?"
+    ],
+    "read": "Tujuan pendidikan memberi arah bagi pengalaman anak yang utuh. Ranah pada diagram merupakan contoh yang saling berhubungan, bukan instrumen penilaian atau pembagian resmi standar.",
+    "a": [
+      "Satu indikator untuk semua",
+      "Menyimpulkan keberhasilan hanya dari kelancaran membaca.",
+      "Kemampuan meminta bantuan dan merawat diri luput diamati."
+    ],
+    "b": [
+      "Tujuan yang lebih utuh",
+      "Merancang pengalaman berbahasa, bergiliran, membantu, dan merawat diri.",
+      "Amati perkembangan dalam beragam kegiatan dan konteks."
+    ],
+    "task": "Pilih dua tujuan berbeda dalam gambar dan tuliskan satu bukti perilaku untuk masing-masing.",
+    "answer": "Contoh: komunikasi—anak menyampaikan keinginannya; kerja sama—anak menyepakati giliran. Satu gambar hanya pemantik; bukti perkembangan memerlukan pengamatan nyata yang berulang.",
+    "concept": "orbit",
+    "nodes": [
+      "Bahasa & pikir",
+      "Kemandirian",
+      "Relasi & emosi",
+      "Nilai & adab"
+    ],
+    "center": "Tujuan utuh",
+    "relation": "Arah pendidikan diterjemahkan ke beberapa pengalaman yang saling mendukung, tidak direduksi menjadi satu skor.",
+    "image": "assets/scenes/tujuan.webp"
+  },
+  "landasan": {
+    "alt": "Adegan perbandingan: anak disorot di depan kelompok setelah balok jatuh; pendidik kemudian mendengarkan anak dan membantu memperbaiki bersama teman.",
+    "observe": [
+      "Apa perbedaan posisi dan relasi orang dewasa dengan anak?",
+      "Apakah alasan “sudah menjadi kebiasaan” cukup membenarkan tindakan?"
+    ],
+    "read": "Landasan berbeda menjawab pertanyaan berbeda. Dasar hukum tidak menggantikan penjelasan teori; penelitian juga tidak dengan sendirinya menentukan nilai yang harus dipilih.",
+    "a": [
+      "Kebiasaan sebagai satu-satunya alasan",
+      "Meminta anak meminta maaf di depan kelompok tanpa mendengar kejadian.",
+      "Risiko: mempermalukan dan mengabaikan konteks."
+    ],
+    "b": [
+      "Keputusan dengan alasan terbuka",
+      "Mendengar anak, menjaga martabat, lalu mendampingi pemulihan relasi.",
+      "Tinjau keamanan, respons anak, dan perbaikan hubungan."
+    ],
+    "task": "Pasangkan alasan tindakan dengan jenis sumber: hak anak, proses belajar, nilai tanggung jawab.",
+    "answer": "Hak anak: ketentuan hukum yang relevan. Proses belajar: teori dan bukti empiris sesuai konteks. Tanggung jawab: argumentasi nilai. Ketiganya dapat dipakai bersama tanpa menyamakan fungsinya.",
+    "concept": "converge",
+    "nodes": [
+      "Nilai: layak?",
+      "Hukum: wajib?",
+      "Teori: mengapa?",
+      "Bukti: terjadi?"
+    ],
+    "center": "Alasan keputusan",
+    "relation": "Empat jenis alasan perlu dibedakan fungsinya sebelum digunakan untuk menilai tindakan.",
+    "image": "assets/scenes/landasan.webp"
+  },
+  "pemikiran": {
+    "alt": "Tiga cara mendampingi bangunan balok: orang dewasa menyelesaikan, anak mencoba tanpa dukungan, dan anak menempatkan balok setelah mendapat petunjuk.",
+    "observe": [
+      "Pada adegan mana anak mengerjakan bagian penting dari tugas?",
+      "Kapan bantuan perlu ditambah atau dikurangi?"
+    ],
+    "read": "Scaffolding merupakan dukungan yang disesuaikan dan dikurangi ketika kemampuan berkembang. Urutan ini menyederhanakan penerapan, bukan tahapan perkembangan universal; lihat Wood, Bruner, dan Ross (1976) serta pembahasan Vygotsky.",
+    "a": [
+      "Mengambil alih atau melepas",
+      "Menyelesaikan bangunan anak, atau mundur tanpa memeriksa kebutuhannya.",
+      "Belum diketahui apa yang dapat dilakukan anak dengan bantuan."
+    ],
+    "b": [
+      "Menyesuaikan dukungan",
+      "Mengamati usaha, memberi petunjuk seperlunya, lalu mengurangi bantuan.",
+      "Amati bagian yang kemudian dapat dilakukan anak sendiri."
+    ],
+    "task": "Tulis petunjuk singkat untuk adegan ketiga dan syarat kapan Anda berhenti memberi petunjuk.",
+    "answer": "Contoh: “Apa yang bisa menopang bagian tengah?” Kurangi bantuan ketika anak mulai memilih dan menguji penopang sendiri; tambah dukungan bila petunjuk belum dapat digunakan.",
+    "concept": "steps",
+    "nodes": [
+      "Amati usaha",
+      "Beri petunjuk",
+      "Anak mencoba",
+      "Kurangi bantuan"
+    ],
+    "center": "Dukungan adaptif",
+    "relation": "Besarnya dukungan mengikuti respons anak, bukan urutan kaku untuk semua anak.",
+    "image": "assets/scenes/pemikiran.webp"
+  },
+  "komponen": {
+    "alt": "Pendidik menunjukkan gambar kota bersama tetapi anak mengerjakan lembar individual; adegan lain menunjukkan anak membangun kota balok secara kolaboratif.",
+    "observe": [
+      "Apakah tugas pada adegan pertama memberi kesempatan bekerja sama?",
+      "Bukti apa yang lebih sesuai untuk tujuan kolaborasi?"
+    ],
+    "read": "Keselarasan menghubungkan tujuan, pengalaman, dukungan, dan asesmen. Kegiatan yang menarik tetap perlu diperiksa kesesuaiannya dengan tujuan.",
+    "a": [
+      "Tujuan dan tugas terpisah",
+      "Menulis tujuan kerja sama, tetapi melarang interaksi selama tugas.",
+      "Kecepatan menyelesaikan lembar tidak menjelaskan kolaborasi."
+    ],
+    "b": [
+      "Menyelaraskan komponen",
+      "Mengajak anak merencanakan bangunan bersama dan mencatat proses negosiasinya.",
+      "Bukti: pembagian peran, usul, dan cara menyelesaikan perbedaan."
+    ],
+    "task": "Ubah satu unsur pada adegan pertama agar lebih selaras dengan tujuan kerja sama.",
+    "answer": "Contoh: ubah tugas menjadi rancangan bersama yang memerlukan keputusan kelompok. Asesmen ikut diubah: amati interaksi, bukan hanya jumlah hasil kerja.",
+    "concept": "cycle",
+    "nodes": [
+      "Tujuan",
+      "Kegiatan",
+      "Dukungan",
+      "Asesmen"
+    ],
+    "center": "Keselarasan",
+    "relation": "Asesmen memeriksa tujuan melalui pengalaman yang benar-benar memberi kesempatan menampilkan kemampuan.",
+    "image": "assets/scenes/komponen.webp"
+  },
+  "lingkungan": {
+    "alt": "Anak berbicara dengan nenek tentang daun di rumah; di sekolah, anak membawa daun dan gambar sementara nenek berbicara dengan pendidik.",
+    "observe": [
+      "Sumber pengalaman apa yang dibawa dari rumah?",
+      "Apa yang dapat dipelajari pendidik dari percakapan dengan keluarga?"
+    ],
+    "read": "Diagram menyederhanakan hubungan rumah–lembaga dan konteks sosial. Ini bukan gambar lengkap seluruh lapisan teori ekologi Bronfenbrenner. Perhatikan juga hubungan antarlingkungan dan perubahan sepanjang waktu.",
+    "a": [
+      "Menyimpulkan dari satu tempat",
+      "Menganggap anak tidak mampu berbahasa karena diam di RA.",
+      "Bahasa rumah, rasa aman, dan situasi komunikasi belum diketahui."
+    ],
+    "b": [
+      "Menghubungkan konteks",
+      "Mendengar cerita keluarga dan menggunakan benda akrab sebagai jembatan percakapan.",
+      "Bandingkan respons anak dalam beberapa situasi."
+    ],
+    "task": "Rumuskan satu pertanyaan kepada keluarga yang membuka informasi tanpa menyalahkan.",
+    "answer": "Contoh: “Dalam kegiatan apa ia paling banyak bercerita di rumah, dan bahasa apa yang biasa dipakai?” Informasi itu membantu merancang dukungan, bukan memberi label kepada keluarga.",
+    "concept": "ecology",
+    "nodes": [
+      "Anak",
+      "Rumah ↔ RA",
+      "Masyarakat",
+      "Budaya"
+    ],
+    "center": "Konteks berhubungan",
+    "relation": "Pengalaman anak dipengaruhi hubungan antarlingkungan; diam di satu tempat tidak cukup menjelaskan seluruh kemampuannya.",
+    "image": "assets/scenes/lingkungan.webp"
+  },
+  "paud": {
+    "alt": "Pendidik, orang tua, dan tenaga kesehatan berdiskusi; anak bermain balok di dekat meja makanan dan tempat cuci tangan.",
+    "observe": [
+      "Kebutuhan anak apa saja yang tampak?",
+      "Bagian mana memerlukan koordinasi di luar peran guru?"
+    ],
+    "read": "PAUD holistik-integratif menghubungkan kebutuhan esensial anak dan layanan yang saling melengkapi. Diagram merangkum Perpres 60/2013 secara pedagogis; tidak berarti semua layanan wajib diberikan sendiri oleh guru.",
+    "a": [
+      "Belajar dipersempit menjadi latihan",
+      "Mengisi sebagian besar kegiatan dengan latihan akademik seragam.",
+      "Kebutuhan pengasuhan, kesehatan, gizi, dan perlindungan belum dipertimbangkan."
+    ],
+    "b": [
+      "Menghubungkan layanan",
+      "Merancang bermain dan rutinitas sehat, berkomunikasi dengan keluarga serta layanan terkait.",
+      "Catat kebutuhan dan tindak lanjut sesuai kewenangan masing-masing."
+    ],
+    "task": "Pilih kebutuhan dalam ilustrasi yang memerlukan kolaborasi. Siapa yang dapat diajak bekerja sama?",
+    "answer": "Contoh: persoalan gizi dibicarakan dengan keluarga dan layanan kesehatan sesuai konteks. Pendidik mengamati dan berkoordinasi; tidak menetapkan diagnosis atau menggantikan tenaga kesehatan.",
+    "concept": "orbit",
+    "nodes": [
+      "Pendidikan",
+      "Kesehatan & gizi",
+      "Pengasuhan",
+      "Perlindungan",
+      "Kesejahteraan"
+    ],
+    "center": "Kebutuhan anak",
+    "relation": "Kebutuhan anak dihubungkan melalui koordinasi layanan; setiap pihak bekerja sesuai perannya.",
+    "image": "assets/scenes/paud.webp"
+  },
+  "islam": {
+    "alt": "Anak dan pendidik berdoa sebelum makan, seorang anak memperhatikan; kemudian anak berbagi buah dan membantu merapikan meja.",
+    "observe": [
+      "Bentuk partisipasi apa yang tampak selain melafalkan doa?",
+      "Bagaimana nilai syukur dapat hadir dalam tindakan sehari-hari?"
+    ],
+    "read": "Visual menghubungkan arah nilai, keteladanan, pengalaman, dan refleksi. Kemampuan melafalkan doa tidak digunakan sebagai ukuran tunggal akhlak atau keimanan anak.",
+    "a": [
+      "Menilai melalui hafalan saja",
+      "Menegur anak di depan teman karena belum lancar melafalkan doa.",
+      "Lafal diperlakukan seolah cukup mewakili pemahaman dan akhlak."
+    ],
+    "b": [
+      "Meneladankan nilai dengan ramah",
+      "Mengajak berdoa, menjelaskan makna sederhana, berbagi, dan merawat kebersihan.",
+      "Amati partisipasi dan kebutuhan bantuan tanpa memberi label keimanan."
+    ],
+    "task": "Hubungkan satu tindakan pada gambar dengan nilai Islam dan satu dukungan konkret pendidik.",
+    "answer": "Contoh: berbagi buah dikaitkan dengan kepedulian. Pendidik mencontohkan menawarkan kepada teman dan memberi kesempatan anak melakukannya secara bertahap, tanpa mempermalukan.",
+    "concept": "cycle",
+    "nodes": [
+      "Arah nilai",
+      "Keteladanan",
+      "Pengalaman",
+      "Refleksi"
+    ],
+    "center": "Adab sehari-hari",
+    "relation": "Nilai hadir melalui relasi dan pengalaman; hafalan bukan satu-satunya indikator pendidikan akhlak.",
+    "image": "assets/scenes/islam.webp"
+  },
+  "anak-subjek": {
+    "alt": "Anak ragu berbicara di depan kelompok sambil memegang gambar; pendidik duduk sejajar dan memberi kesempatan anak menunjuk gambar untuk bercerita.",
+    "observe": [
+      "Apa yang tetap menjadi tujuan pada kedua adegan?",
+      "Dukungan apa yang berubah agar anak dapat berpartisipasi?"
+    ],
+    "read": "Kesetaraan tujuan partisipasi dapat memerlukan dukungan yang berbeda. Ilustrasi tidak menunjukkan diagnosis; keputusan dukungan perlu memahami kebutuhan anak.",
+    "a": [
+      "Satu cara untuk semua",
+      "Mewajibkan setiap anak berbicara dua menit dengan cara yang sama.",
+      "Kemampuan dapat tertutup oleh hambatan cara penyampaian."
+    ],
+    "b": [
+      "Membuka cara partisipasi",
+      "Memberi waktu, pilihan menunjuk gambar, dan pertanyaan yang dapat direspons anak.",
+      "Amati gagasan yang dapat dikomunikasikan dengan dukungan tersebut."
+    ],
+    "task": "Bedakan penyesuaian cara berpartisipasi dengan menghilangkan kesempatan belajar anak.",
+    "answer": "Mengizinkan anak menunjuk gambar tetap membuka kesempatan menyampaikan gagasan. Tidak pernah melibatkannya dalam percakapan justru menghilangkan kesempatan. Dukungan ditinjau secara berkala.",
+    "concept": "bridge",
+    "nodes": [
+      "Tujuan bersama",
+      "Kenali hambatan",
+      "Sesuaikan dukungan",
+      "Partisipasi"
+    ],
+    "center": "Akses yang bermakna",
+    "relation": "Dukungan dapat bervariasi untuk membuka partisipasi; perbedaan cara tidak otomatis berarti perlakuan tidak adil.",
+    "image": "assets/scenes/anak-subjek.webp"
+  },
+  "bermain": {
+    "alt": "Anak bermain pasar sayur: penjual dan pembeli membawa keranjang, seorang anak menghitung wortel mainan, pendidik berlutut dan mendengarkan.",
+    "observe": [
+      "Keputusan apa yang masih dimiliki anak?",
+      "Bagaimana guru dapat memasukkan tujuan tanpa mengambil alih permainan?"
+    ],
+    "read": "Bermain terbimbing mempertahankan keaktifan anak bersama tujuan dan dukungan pendidik. Diagram adalah sintesis untuk membaca kasus; manfaat bergantung pada tujuan, cara pelaksanaan, dan konteks penelitian.",
+    "a": [
+      "Permainan diambil alih",
+      "Menghentikan peran jual beli untuk meminta semua anak mengulang angka serempak.",
+      "Hubungan angka dengan kebutuhan bermain terputus."
+    ],
+    "b": [
+      "Tujuan masuk melalui dukungan",
+      "Menambahkan label harga sederhana dan bertanya berapa sayur yang dibutuhkan pembeli.",
+      "Amati bagaimana anak menggunakan jumlah dalam permainannya."
+    ],
+    "task": "Tuliskan satu pertanyaan terbuka yang membantu berhitung tanpa memutus peran jual beli.",
+    "answer": "Contoh: “Pembeli ingin tiga wortel. Bagaimana kamu memastikan jumlahnya sudah pas?” Pertanyaan mengikuti alur anak; pendidik tidak harus mengubah setiap momen bermain menjadi tes.",
+    "concept": "triangle",
+    "nodes": [
+      "Pilihan anak",
+      "Tujuan belajar",
+      "Dukungan guru"
+    ],
+    "center": "Bermain terbimbing",
+    "relation": "Ketiga unsur dipertimbangkan bersama; bermain terbimbing bukan dominasi guru atau tanpa arah sama sekali.",
+    "image": "assets/scenes/bermain.webp"
+  },
+  "budaya": {
+    "alt": "Adegan pertama memisahkan anak laki-laki di balok dan anak perempuan di dapur mainan; adegan kedua memberi semua anak akses bermain bersama dengan pendampingan orang tua.",
+    "observe": [
+      "Pembatasan pilihan apa yang tampak?",
+      "Bagaimana keluarga dapat dilibatkan tanpa disalahkan?"
+    ],
+    "read": "Kebudayaan menjadi konteks pengalaman yang dapat dihargai sekaligus ditelaah. Praktik diperiksa melalui makna, akses anak, dan dampaknya; tidak semua kebiasaan perlu dipertahankan atau ditolak sekaligus.",
+    "a": [
+      "Mewariskan pembatasan",
+      "Menentukan jenis permainan berdasarkan jenis kelamin.",
+      "Kesempatan anak mencoba peran dan keterampilan menjadi terbatas."
+    ],
+    "b": [
+      "Membuka pilihan dengan dialog",
+      "Memberi akses pada semua sudut bermain dan berdiskusi dengan keluarga tentang tujuan keterampilan.",
+      "Amati minat dan partisipasi tanpa memaksa pilihan tertentu."
+    ],
+    "task": "Rancang satu kalimat kepada keluarga untuk menjelaskan manfaat akses bermain yang setara.",
+    "answer": "Contoh: “Kami memberi semua anak kesempatan mencoba memasak dan membangun agar mereka dapat mengembangkan kerja sama serta keterampilan merawat kehidupan sehari-hari.” Dengarkan pula pandangan keluarga.",
+    "concept": "steps",
+    "nodes": [
+      "Kenali praktik",
+      "Dengar makna",
+      "Periksa akses",
+      "Rancang dialog"
+    ],
+    "center": "Telaah kebudayaan",
+    "relation": "Menghargai konteks budaya berjalan bersama pemeriksaan terhadap kesempatan dan martabat anak.",
+    "image": "assets/scenes/budaya.webp"
+  },
+  "kontemporer": {
+    "alt": "Pendidik memeriksa tablet dengan tampilan skor abstrak; adegan lain menunjukkan diskusi privat dengan orang tua sementara anak bermain dengan balok.",
+    "observe": [
+      "Apakah grafik skor cukup membuktikan klaim sebuah aplikasi?",
+      "Data dan pengalaman anak apa yang perlu dipertimbangkan?"
+    ],
+    "read": "Empat pertanyaan dalam diagram adalah panduan telaah pedagogis, bukan daftar lengkap kewajiban hukum perlindungan data. Klaim efektivitas perlu bukti yang sesuai, bukan hanya tampilan menarik.",
+    "a": [
+      "Menerima klaim pemasaran",
+      "Menggunakan skor aplikasi sebagai peringkat umum kemampuan anak.",
+      "Validitas skor, akses keluarga, dan kebutuhan data belum diperiksa."
+    ],
+    "b": [
+      "Menilai sebelum menggunakan",
+      "Memeriksa tujuan, bukti, kebutuhan data, dan alternatif tanpa perangkat.",
+      "Putuskan penggunaan terbatas atau tidak menggunakan berdasarkan hasil telaah."
+    ],
+    "task": "Sebutkan dua informasi yang harus tersedia sebelum merekomendasikan aplikasi pada kasus ini.",
+    "answer": "Contoh: bukti bahwa alat sesuai tujuan dan usia pengguna, serta data apa yang dikumpulkan dan siapa yang dapat mengaksesnya. Skor otomatis tidak cukup untuk mendiagnosis atau memberi peringkat kemampuan umum.",
+    "concept": "converge",
+    "nodes": [
+      "Tujuan jelas?",
+      "Bukti sesuai?",
+      "Data perlu?",
+      "Akses adil?"
+    ],
+    "center": "Telaah teknologi",
+    "relation": "Keputusan mempertimbangkan tujuan, bukti, data, dan akses; skor bukan gambaran lengkap anak.",
+    "image": "assets/scenes/kontemporer.webp"
+  },
+  "profesional": {
+    "alt": "Anak meninggalkan meja menulis menuju balok sementara guru mengamati; pendidik dan orang tua membahas catatan serta karya saat anak menunjukkan bangunan.",
+    "observe": [
+      "Mana yang benar-benar terlihat dan mana yang masih dugaan?",
+      "Bukti apa yang dapat dibahas bersama orang tua?"
+    ],
+    "read": "Penalaran profesional berputar dari pengamatan ke tindakan dan peninjauan. Diagram adalah alat bantu analisis, bukan prosedur diagnosis atau jaminan hasil.",
+    "a": [
+      "Label mendahului pengamatan",
+      "Menyebut anak malas lalu menambah hukuman atau latihan menulis.",
+      "Penyebab, tuntutan tugas, dan pengalaman anak belum diketahui."
+    ],
+    "b": [
+      "Keputusan berdasarkan telaah",
+      "Mengumpulkan pengamatan, berdialog dengan keluarga, mencoba dukungan, dan meninjau respons.",
+      "Bukti: perubahan partisipasi, pengalaman anak, serta kelayakan dukungan."
+    ],
+    "task": "Tulis satu fakta, satu hipotesis, dan satu rencana pengumpulan informasi dari ilustrasi.",
+    "answer": "Fakta adegan: anak berpindah dari meja ke balok. Hipotesis: tuntutan menulis mungkin belum sesuai kebutuhannya. Informasi: amati respons pada beberapa tugas dan dengarkan anak serta keluarga. Hipotesis tetap perlu diuji.",
+    "concept": "cycle",
+    "nodes": [
+      "Amati fakta",
+      "Timbang alasan",
+      "Coba dukungan",
+      "Tinjau respons"
+    ],
+    "center": "Keputusan profesional",
+    "relation": "Hasil peninjauan dapat mengubah hipotesis dan tindakan; label awal tidak menggantikan pengamatan.",
+    "image": "assets/scenes/profesional.webp"
+  }
+}

@@ -44,5 +44,20 @@ for f,p in pages.items():
   check(target.exists(),f.name+': missing target '+u)
   if split.fragment and target in pages:check(unquote(split.fragment) in pages[target].ids,f.name+': missing anchor '+u)
 check(len(pages)==23,'Expected 23 HTML pages')
+V=json.loads((root/'content/visuals.json').read_text())
+check(set(V)=={l['id'] for l in L},'Visual unit coverage mismatch')
+for id,v in V.items():
+ for field in ['image','alt','observe','read','a','b','task','answer','concept','nodes','center','relation']:
+  check(bool(v.get(field)),id+': missing visual '+field)
+ asset=root/v['image'];check(asset.exists(),id+': missing source image')
+ if asset.exists():
+  raw=asset.read_bytes();check(len(raw)>1000 and raw[:4]==b'RIFF' and raw[8:12]==b'WEBP',id+': invalid WebP file')
+ check((out/v['image']).exists(),id+': missing published image')
+ check(len(v['observe'])==2,id+': observation prompts')
+ check(len(v['a'])==3 and len(v['b'])==3,id+': action comparison')
+ page=(out/(id+'.html')).read_text()
+ check('class="scene-figure"' in page and 'class="concept-figure"' in page,id+': missing visual figure')
+ check('Buka contoh penalaran setelah mencoba' in page,id+': missing visual exercise')
+ check(v['image'] in (out/'MATERI-KOMPILASI.md').read_text(),id+': missing compiled image')
 report={'units':len(L),'html_pages':len(pages),'reference_entries':len(R),'main_material_words':words,'errors':errors}
 print(json.dumps(report,ensure_ascii=False,indent=2));sys.exit(bool(errors))

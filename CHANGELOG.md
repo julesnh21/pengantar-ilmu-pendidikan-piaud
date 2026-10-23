@@ -1,5 +1,13 @@
 # Riwayat perubahan
 
+## 1.1 · 24 Oktober 2026
+
+- Menambahkan ilustrasi kasus khusus pada seluruh 14 unit dan kartu pertemuan.
+- Mengganti diagram empat kotak dengan hubungan konsep yang sesuai: siklus, ekologi sederhana, konvergensi alasan, dan unsur bermain terbimbing.
+- Menambahkan pengamatan, cara membaca diagram, dua alternatif tindakan, dan latihan visual dengan pembahasan.
+- Memasukkan visual dan latihan ke kompilasi Markdown; mendokumentasikan prompt dan atribusi.
+- Menyesuaikan tampilan ponsel, teks alternatif, tautan gambar penuh, dan kompresi WebP.
+
 ## 1.0 — 24 Oktober 2026
 
 - Kompilasi 14 unit pengantar pendidikan untuk PIAUD dengan kasus, tujuan, materi, latihan, refleksi, dan sumber.

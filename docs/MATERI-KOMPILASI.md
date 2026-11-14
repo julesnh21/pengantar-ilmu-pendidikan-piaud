@@ -1,6 +1,6 @@
 # Pengantar Ilmu Pendidikan — S1 PIAUD
 
-Kompilasi 1.1 · 24 Oktober 2026
+Kompilasi 2.0 · 14 November 2026
 
 [Petunjuk penyuntingan](../README.md)
 
@@ -12,9 +12,9 @@ Kompilasi 1.1 · 24 Oktober 2026
 
 - [3. Tujuan dan fungsi pendidikan](#tujuan)
 
-- [4. Landasan pendidikan dan alasan keputusan](#landasan)
+- [4. Landasan pendidikan](#landasan)
 
-- [5. Pemikiran pendidikan sebagai alat analisis](#pemikiran)
+- [5. Pemikiran pendidikan dan implikasinya](#pemikiran)
 
 - [6. Komponen dan proses pendidikan](#komponen)
 
@@ -22,15 +22,15 @@ Kompilasi 1.1 · 24 Oktober 2026
 
 - [9. PAUD dalam sistem pendidikan nasional](#paud)
 
-- [10. Nilai Islam dan tanggung jawab pendidikan](#islam)
+- [10. Nilai Islam dalam pendidikan anak usia dini](#islam)
 
 - [11. Anak sebagai subjek dan relasi pedagogis](#anak-subjek)
 
 - [12. Bermain, pengalaman, dan lingkungan belajar](#bermain)
 
-- [13. Pendidikan, keluarga, kebudayaan, dan nilai](#budaya)
+- [13. Pendidikan, keluarga, dan kebudayaan](#budaya)
 
-- [14. Tantangan kontemporer dan literasi digital](#kontemporer)
+- [14. Tantangan pendidikan dan literasi digital](#kontemporer)
 
 - [15. Profesionalisme dan analisis kasus integratif](#profesional)
 
@@ -38,415 +38,263 @@ Kompilasi 1.1 · 24 Oktober 2026
 
 ## 1. Hakikat pendidikan dan ilmu pendidikan
 
-Membedakan tindakan mendidik, mengajar, mengasuh, dan melatih melalui pengalaman sehari-hari anak.
+Membedakan pendidikan, pengajaran, pembelajaran, pengasuhan, dan pelatihan dalam satu kegiatan.
 
 ### Tujuan
 
-- Membedakan pendidikan, pengajaran, pembelajaran, pengasuhan, dan pelatihan.
+- Membedakan lima istilah pendidikan
 
-- Menilai tindakan pendidik melalui tujuan, proses, dan penghormatan terhadap anak.
+- Menjelaskan hubungan pengalaman dan belajar menurut Dewey
 
-- Membedakan pernyataan normatif dari penjelasan ilmiah dalam pendidikan.
+- Memisahkan pertimbangan nilai dari dugaan tentang hasil belajar
 
-### Pemantik
+### Pendidikan memberi arah pada pengalaman
 
-Apakah setiap tindakan orang dewasa terhadap anak dapat disebut pendidikan?
+Pendidikan adalah usaha yang disengaja untuk membantu manusia mengembangkan kemampuan dan membentuk cara bertindak dalam kehidupan bersama. UU No. 20 Tahun 2003 Pasal 1 angka 1 memberi dasar yuridis dengan menempatkan keaktifan peserta didik di dalam suasana dan proses belajar yang dirancang. Ada dua pertanyaan ketika menilai tindakan pendidik. Perubahan apa yang dianggap bernilai? Pengalaman apa yang memungkinkan anak bergerak ke arah itu? Pada kegiatan makan, misalnya, anak dapat sekadar menerima piring atau berkesempatan memikirkan pembagian yang adil. Perbedaan pengalaman itu penting meski meja akhirnya sama-sama rapi.
+
+### Lima istilah dalam satu kegiatan
+
+Pengasuhan berpusat pada kebutuhan, perlindungan, dan hubungan. Menyediakan air bersih dan membantu anak merasa aman saat makan adalah pengasuhan. Pengajaran adalah tindakan sengaja membantu anak memahami sesuatu, misalnya menunjukkan cara menentukan jumlah piring. Pembelajaran mencakup interaksi anak, pendidik, bahan, dan lingkungan yang memungkinkan anak belajar. Pelatihan menekankan praktik berulang untuk meningkatkan kecakapan, misalnya mencoba menuang air dengan lebih terampil. Pendidikan memberi arah pada keseluruhan pengalaman tersebut, misalnya belajar bertanggung jawab atas bagian tugasnya dan memperhatikan kebutuhan teman. Kelima istilah ini menyoroti aspek yang berbeda dari peristiwa yang sama.
+
+### Dewey dan mutu pengalaman
+
+John Dewey (1938/1997) mengajukan dua kriteria untuk membaca pengalaman. Interaksi menghubungkan kondisi anak, seperti minat dan pengalaman sebelumnya, dengan kondisi yang tersedia, seperti pertanyaan guru dan benda yang dapat digunakan. Kontinuitas melihat bagaimana pengalaman sekarang membentuk kemungkinan belajar berikutnya. Pembagian piring menjadi lebih bermakna jika anak kemudian memakai strategi satu-benda-untuk-satu-orang ketika membagikan gelas. Pada kesempatan pertama ia mungkin hanya mengikuti petunjuk. Untuk melihat perkembangan, guru memberi kesempatan menerapkan strategi lagi dalam situasi yang sedikit berbeda.
+
+Dalam kelas PAUD, mutu pengalaman juga ditentukan oleh pilihan yang tersedia bagi anak. Guru dapat menunjukkan cara menata satu piring, meminta anak melanjutkan, lalu mendengarkan alasan ketika ia mengubah susunan. Tindakan tersebut membantu pendidik melihat bagian mana dari tugas yang dipahami dan bagian mana yang masih memerlukan contoh. Sujiono (2009) dapat dibaca sebagai pengantar konteks pendidikan anak usia dini di Indonesia.
+
+### Ilmu pendidikan memeriksa alasan dan bukti
+
+Ilmu pendidikan mengkaji tujuan, proses, dan akibat pendidikan secara sistematis. Pertanyaan normatif memeriksa apa yang patut diupayakan, misalnya mengapa anak perlu diberi kesempatan menyatakan pendapat. Pertanyaan empiris memeriksa apa yang terjadi, misalnya apakah lebih banyak anak ikut membagi piring setelah tugas dibagi menjadi peran kecil. Pengamatan dapat memperbaiki penjelasan tentang praktik. Pilihan untuk menghormati anak tetap memerlukan alasan etis. Dari satu pengamatan, guru dapat menyusun dugaan kerja dan merancang pengamatan berikutnya.
+
+![Tujuan memberi arah pada pengalaman, lalu bukti membantu meninjau rancangan.](assets/hakikat.svg)
 
 ### Kasus ilustratif
 
-Di RA, guru meminta semua anak duduk diam selama 25 menit. Anak yang bergerak diberi label tidak tertib. Pada kegiatan makan, guru lain mengajak anak menyiapkan alat makan dan menjelaskan cara meminta bantuan. Keduanya menyebut kegiatan mereka sebagai pendidikan.
+Kapan kegiatan sehari-hari menjadi pengalaman pendidikan?
+
+Di satu kelas, anak mengerjakan lembar yang meminta mereka memasangkan gambar dengan jumlah benda. Di kelas lain, anak membantu menyiapkan meja. Seorang anak menaruh dua piring di satu tempat, lalu guru bertanya bagaimana memastikan setiap teman mendapat satu piring.
 
 ![Dua adegan: anak mengerjakan lembar tugas di meja; anak dan pendidik menyiapkan meja makan bersama.](assets/scenes/hakikat.webp)
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+### Pembahasan
 
-### Amati adegan
-
-- Apa yang dilakukan anak pada masing-masing adegan?
-
-- Bukti apa yang diperlukan sebelum menyebut suatu kegiatan mendidik?
-
-![Tujuan memberi arah pengalaman; bukti belajar digunakan untuk meninjau keputusan.](assets/hakikat.svg)
-
-Aktivitas yang tampak rapi atau menyenangkan belum otomatis mendidik. Telusuri tujuan, pengalaman, tindakan pendidik, dan bukti perubahan anak.
-
-### Pendidikan sebagai usaha yang memiliki arah
-
-UU 20/2003 Pasal 1 memberi pengertian yuridis pendidikan sebagai usaha sadar dan terencana untuk mewujudkan suasana belajar serta proses pembelajaran yang memungkinkan peserta didik aktif mengembangkan potensinya. Kata aktif perlu diperhatikan: anak tidak sekadar menjadi penerima perintah. Definisi hukum memberi arah penyelenggaraan, sedangkan ilmu pendidikan membantu memeriksa bagaimana arah tersebut diwujudkan.
-
-Untuk membaca praktik, tanyakan tiga hal: kemampuan atau nilai apa yang hendak dikembangkan, pengalaman apa yang dialami anak, dan apakah cara yang digunakan dapat dipertanggungjawabkan. Tujuan baik belum membenarkan semua cara. Mempermalukan anak demi ketertiban perlu dikritisi meskipun guru mengaku bermaksud mendisiplinkan. Penilaian tindakan memerlukan informasi tentang situasi dan respons anak, bukan niat pendidik saja.
-
-### Lima istilah yang berhubungan
-
-Pendidikan merupakan proses luas yang berorientasi pada perkembangan manusia dan nilai yang dianggap baik. Pengajaran adalah usaha terarah membantu penguasaan pengetahuan atau keterampilan. Pembelajaran menyoroti proses dan kondisi interaksi yang memungkinkan belajar. Pelatihan menekankan pengulangan untuk meningkatkan kecakapan tertentu. Pengasuhan memenuhi kebutuhan anak melalui perawatan, hubungan, perlindungan, dan dukungan.
-
-Dalam AUD, kelimanya dapat hadir sekaligus. Saat mencuci tangan, pendidik merawat kebutuhan kesehatan, mengajarkan urutan, menyediakan kesempatan mencoba, melatih kebiasaan, dan menumbuhkan tanggung jawab. Pembeda utamanya adalah sudut analisis, bukan pemisahan kegiatan secara mutlak. Pengasuhan yang responsif mempunyai dimensi edukatif, tetapi guru tetap perlu merancang kesempatan belajar yang lebih luas.
-
-### Ilmu pendidikan dan keputusan praktis
-
-Ilmu pendidikan mengkaji persoalan pendidikan secara sistematis dengan konsep, argumentasi, dan bukti. Persoalannya memuat dimensi normatif: apa yang seharusnya diupayakan, serta dimensi empiris: apa yang terjadi dan bagaimana suatu tindakan bekerja. Misalnya, penghormatan terhadap anak merupakan komitmen nilai; perubahan partisipasi setelah strategi tertentu merupakan pertanyaan yang dapat diperiksa melalui pengamatan.
-
-Pengalaman guru berharga, tetapi kesan satu kali belum cukup untuk menyimpulkan hubungan sebab-akibat. Anak yang diam mungkin memahami, takut, lelah, atau sedang mengamati. Mahasiswa perlu belajar menyebut bukti yang tersedia dan kemungkinan penjelasan lain. Kebiasaan ini membuat teori menjadi alat berpikir, bukan hiasan di awal laporan.
-
-### Belajar dari kegiatan keseharian
-
-Konteks PAUD memberi banyak kesempatan pendidikan di luar kegiatan meja. Menyambut kedatangan, bermain, makan, dan berpisah dengan orang tua melibatkan bahasa, emosi, hubungan, dan tanggung jawab. Usulan pedagogis dalam unit ini adalah merancang kesempatan anak berpartisipasi pada kegiatan tersebut dengan bantuan yang cukup.
-
-Misalnya, ketika air tumpah, guru dapat memastikan lantai aman, mengajak anak mengambil lap, lalu berdiskusi singkat tentang cara membawa gelas. Anak mengalami hubungan antara tindakan dan tanggung jawab tanpa direndahkan. Keberhasilan tidak hanya dinilai dari lantai yang bersih, tetapi juga dari pemahaman dan partisipasi anak dalam memperbaiki keadaan. Bacaan peta PAUD Indonesia tersedia pada Sujiono (2009) dan Suyadi dan Ulfah (2013).
-
-### Bandingkan tindakan
-
-**A: Mengukur kepatuhan saja**
-
-Meminta semua anak diam dan menyelesaikan lembar tugas.
-
-Yang tampak: duduk tenang dan hasil lembar tugas.
-
-**B: Mengamati pengalaman belajar**
-
-Mengajak anak membagi piring dan menjelaskan cara memastikan setiap teman mendapat satu.
-
-Yang dicari: penalaran, kepedulian, dan bantuan yang masih diperlukan.
-
-### Latihan visual
-
-Pilih satu tindakan anak dalam gambar. Pisahkan deskripsi yang terlihat dari dugaan tentang belajarnya.
-
-Contoh penalaran: “Anak membawa piring” adalah deskripsi adegan; “anak sudah peduli” adalah interpretasi yang perlu bukti tambahan. Tanyakan alasan tindakannya dan amati dalam situasi lain.
-
-### Analisis
-
-Diam belum menjadi bukti belajar. Pada kasus pertama perlu diperiksa alasan durasi, kesempatan bergerak, dan dampak pelabelan. Kegiatan makan pada kasus kedua memiliki potensi edukatif karena anak berpartisipasi; keberhasilannya tetap perlu diamati, bukan diasumsikan dari desain guru.
+Pada kedua adegan anak mungkin mempelajari hubungan satu lawan satu. Bandingkan apa yang dilakukan anak sendiri. Pada lembar tugas, anak dapat menjelaskan alasan memasangkan gambar. Saat menyiapkan meja, anak dapat menemukan dan memperbaiki pembagian yang belum merata. Catat ucapan atau tindakan yang menunjukkan strategi anak pada masing-masing kegiatan.
 
 ### Latihan terbimbing
 
-Petakan kegiatan mencuci tangan: tulis satu unsur pengasuhan, pengajaran, pelatihan, dan pendidikan. Contoh awal: menyediakan sabun memenuhi kebutuhan perawatan; menjelaskan alasan mencuci tangan membantu pemahaman. Lengkapi dengan tindakan anak dan bukti yang dapat diamati.
+Uraikan kegiatan cuci tangan. Mulai dari tersedianya sabun dan bantuan untuk anak, lalu identifikasi tindakan mengajar, latihan yang diulang, dan tujuan pendidikan yang dapat diupayakan.
 
 ### Latihan mandiri
 
-Pilih satu rutinitas di PAUD/RA. Tulis 250–350 kata yang menjelaskan tujuan, tindakan guru, peran anak, serta kemungkinan tindakan yang justru tidak edukatif. Gunakan satu konsep dan satu rujukan.
+Pilih satu rutinitas RA. Dalam 150–200 kata, bedakan tiga istilah dari materi dan usulkan satu bukti bahwa anak mulai memahami tindakan yang dilakukannya.
 
 ### Refleksi
 
-Kapan saya pernah menyamakan anak yang diam dengan anak yang belajar? Bukti apa yang seharusnya saya cari?
+Kegiatan mana yang pernah saya nilai berhasil dari hasil akhir saja? Bukti apa yang akan saya cari sekarang?
 
 ### Referensi
 
 - Republik Indonesia. (2003). Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional. https://peraturan.bpk.go.id/Details/43920/uu-no-20-tahun-2003
 
-- Sujiono, Y. N. (2009). Konsep dasar pendidikan anak usia dini. Indeks. https://opac.uma.ac.id/index.php?id=14771&keywords=&p=show_detail
+- Dewey, J. (1997). Experience and education. Touchstone. (Original work published 1938) https://www.simonandschuster.com/books/Experience-And-Education/John-Dewey/9780684838281
 
-- Suyadi, & Ulfah, M. (2013). Konsep dasar PAUD. Remaja Rosdakarya. https://www.rosda.id/konsep-dasar-paud/
+- Sujiono, Y. N. (2009). Konsep dasar pendidikan anak usia dini. Indeks. https://opac.uma.ac.id/index.php?id=14771&keywords=&p=show_detail
 
 <a id="manusia"></a>
 
 ## 2. Manusia sebagai subjek pendidikan
 
-Memahami potensi, martabat, keterdidikan, dan pendidikan sepanjang hayat tanpa melihat anak sebagai bahan yang pasif.
+Menjelaskan mengapa manusia dapat dan perlu dididik dengan tetap mengakui keaktifan anak.
 
 ### Tujuan
 
-- Menjelaskan hubungan potensi manusia, lingkungan, dan pendidikan.
+- Membedakan dapat dididik dan perlu dididik
 
-- Mengkritisi pandangan deterministik tentang anak.
+- Menjelaskan peran anak dan kondisi lingkungan
 
-- Merumuskan dukungan yang menghormati martabat dan partisipasi anak.
+- Mengusulkan bantuan yang menjaga kesempatan anak mengambil keputusan
 
-### Pemantik
+### Dapat dan perlu dididik
 
-Jika anak memiliki potensi, mengapa ia masih memerlukan pendidikan?
+Dapat dididik menunjuk pada kemungkinan manusia berubah melalui pengalaman dan bimbingan. Perlu dididik menunjuk pada ketergantungan manusia pada hubungan sosial untuk memasuki dunia bahasa, nilai, dan pengetahuan bersama. Anak membawa keadaan tubuh, minat, dan riwayat pengalaman yang beragam. Kemampuan yang mulai tumbuh terlihat dari apa yang dapat ia lakukan dalam keadaan tertentu. Pernyataan “ia belum ikut bercerita ketika berada di kelompok besar” memberi dasar tindakan yang lebih baik daripada sebutan “anak ini pasif”.
+
+### Pengalaman terbentuk dalam interaksi
+
+Dewey (1938/1997) menempatkan pengalaman pada pertemuan antara anak dan kondisi lingkungannya. Balok lebar membuka kemungkinan baru, tetapi anak tetap perlu memilih, menguji, dan membaca hasilnya. Bronfenbrenner (1979) memperluas perhatian ke lingkungan anak, termasuk kegiatan dan hubungan di rumah serta satuan pendidikan. Informasi keluarga dapat membantu guru memahami kapan seorang anak banyak berbicara atau benda apa yang akrab baginya. Pengetahuan itu dipakai untuk merancang kesempatan yang lebih sesuai.
+
+### Anak sebagai subjek
+
+Anak disebut subjek pendidikan karena ia mengalami, menafsirkan, dan ikut mengarahkan tindakannya. Partisipasi dapat muncul melalui ucapan, isyarat, pilihan, atau penolakan. Konvensi Hak Anak memberi landasan untuk mempertimbangkan pandangan anak sesuai usia dan kematangannya. Pendidik tetap memegang tanggung jawab menjaga keselamatan dan menjelaskan batas. Pada permainan balok, anak dapat memilih cara menyusun. Guru dapat membatasi tinggi bangunan jika ada risiko menimpa teman.
+
+### Perbedaan perkembangan dan belajar sepanjang hayat
+
+Pedoman praktik sesuai perkembangan dari NAEYC (2020) mempertimbangkan pola umum perkembangan, keunikan anak, serta konteks sosial dan budaya. Tiga pertimbangan ini membantu guru memilih dukungan awal dan meninjaunya setelah melihat respons anak. Begitu pula ketika orang dewasa mempelajari cara baru mendidik, pengalaman sebelumnya menjadi bekal dan dapat berubah melalui latihan serta refleksi. Usia dini memberi dasar penting bagi pengalaman berikutnya. Pengaruhnya tetap berlangsung bersama kesempatan belajar yang tersedia sepanjang hidup.
+
+![Anak mengarahkan sebagian tindakannya dalam kondisi yang disediakan bersama orang lain.](assets/manusia.svg)
 
 ### Kasus ilustratif
 
-Seorang mahasiswa mengatakan bahwa anak seperti kertas kosong sehingga guru bebas membentuknya. Temannya berpendapat bahwa semua perkembangan akan terjadi sendiri sehingga campur tangan guru hanya mengganggu.
+Jika anak memiliki potensi, mengapa ia masih memerlukan pendidikan?
+
+Saat membangun menara, Aira beberapa kali memilih balok kecil sebagai alas. Setelah menaranya jatuh ia memperhatikan temannya memakai balok lebar. Guru menyediakan dua pilihan alas dan memberi waktu kepada Aira untuk mencoba.
 
 ![Mahasiswa calon pendidik mengamati anak memilih balok dan mencoba membangun bersama pendidik yang mendampingi.](assets/scenes/manusia.webp)
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+### Pembahasan
 
-### Amati adegan
-
-- Di mana pilihan anak terlihat?
-
-- Bagian mana menunjukkan bahwa anak tetap memerlukan dukungan?
-
-![Keunikan, relasi, potensi, dan konteks dipertimbangkan bersama; bukan faktor yang bekerja sendiri-sendiri.](assets/manusia.svg)
-
-Anak dipahami sebagai subjek yang aktif, bertumbuh dalam relasi dan konteks. Gambar tidak membuktikan satu teori tentang hakikat manusia.
-
-### Potensi memerlukan kondisi pengembangan
-
-Pernyataan bahwa manusia dapat dididik menunjukkan adanya kemungkinan belajar dan berubah. Pernyataan bahwa manusia perlu dididik menekankan pentingnya hubungan, pengalaman, dan pewarisan pengetahuan serta nilai. Keduanya tidak berarti pendidik mengendalikan seluruh hasil perkembangan. Anak membawa kondisi biologis, pengalaman, kecenderungan, dan tindakan aktifnya sendiri.
-
-Secara pedagogis, posisi yang lebih dapat dipertanggungjawabkan adalah mengakui hubungan potensi dan lingkungan. Guru menyediakan kesempatan, mengamati respons, lalu menyesuaikan bantuan. Ketika anak belum mau bercerita, keputusan yang masuk akal bukan langsung menyimpulkan kemampuan rendah. Periksa rasa aman, bahasa yang biasa digunakan, kedekatan dengan pendidik, serta kesempatan berbicara.
-
-### Martabat dan suara anak
-
-Martabat berarti anak bernilai sebagai manusia, terlepas dari prestasi atau kepatuhannya. Anak memiliki kebutuhan untuk dilindungi sekaligus kesempatan berpartisipasi sesuai kapasitasnya. Dalam pendidikan, penghormatan itu diterjemahkan menjadi cara menyapa, memberi pilihan yang bermakna, dan mendengarkan alasan. Perlindungan anak memberi dasar yuridis untuk menolak kekerasan dan diskriminasi (UU 35/2014).
-
-Partisipasi tidak berarti semua keputusan diserahkan kepada anak. Guru dapat menawarkan pilihan tempat membaca, tetapi tetap membatasi perilaku yang membahayakan. Jelaskan batas dengan bahasa yang konkret: pasir tetap di bak agar tidak masuk mata teman. Pendidik menjalankan tanggung jawab sambil membantu anak memahami alasan suatu aturan.
-
-### Keterdidikan bukan keseragaman
-
-Kemampuan dididik tidak mengharuskan semua anak mencapai hal yang sama pada saat yang sama. Pengalaman bahasa, akses bermain, kondisi tubuh, dan relasi keluarga berbeda. Mengakui perbedaan bukan alasan menurunkan harapan secara sembarangan; tugas guru adalah mencari jalan masuk yang memungkinkan setiap anak berpartisipasi.
-
-Misalnya, dalam kegiatan mengenalkan diri, seorang anak dapat berbicara, anak lain menunjuk gambar keluarganya, dan anak lain dibantu pertanyaan singkat. Tujuannya tetap membangun komunikasi dan pengenalan diri. Bentuk respons dapat bervariasi tanpa menghilangkan arah pendidikan. Keputusan ini merupakan contoh rancangan, bukan resep yang wajib diterapkan pada semua kelompok.
-
-### Pendidikan sepanjang hayat dan posisi AUD
-
-Pendidikan berlangsung melampaui sekolah. Orang belajar melalui keluarga, pekerjaan, komunitas, serta refleksi atas pengalaman. Masa usia dini memberi fondasi penting, tetapi tidak menentukan nasib secara mutlak. Hindari narasi bahwa kesempatan belajar berhenti setelah suatu usia atau bahwa kegagalan satu kegiatan akan merusak masa depan anak.
-
-Bagi calon guru, pendidikan sepanjang hayat juga berarti kesediaan memperbarui pemahaman. Pengetahuan tentang anak perlu dibandingkan dengan pengamatan, bacaan, dan komunikasi keluarga. Dalam perspektif Islam, pembahasan potensi dan tanggung jawab dapat dihubungkan dengan nilai religius; konsep fitrah tidak disamakan secara otomatis dengan tabula rasa atau satu teori psikologi. Pembacaan normatif dan penjelasan empiris memiliki fungsi yang berbeda.
-
-### Bandingkan tindakan
-
-**A: Anak sebagai penerima**
-
-Menentukan seluruh bentuk bangunan dan meminta anak meniru.
-
-Pilihan dan alasan anak belum diketahui.
-
-**B: Anak sebagai pelaku yang didampingi**
-
-Menanyakan rencana anak lalu menawarkan bantuan saat diperlukan.
-
-Amati pilihan, usaha, bahasa, dan respons terhadap bantuan.
-
-### Latihan visual
-
-Tuliskan satu pertanyaan pendidik yang mengakui inisiatif anak tanpa membiarkannya kehilangan dukungan.
-
-Contoh penalaran: Contoh: “Kamu ingin membuat apa? Bagian mana yang ingin kamu coba sendiri, dan kapan kamu ingin dibantu?” Respons berikutnya disesuaikan dengan tindakan anak.
-
-### Analisis
-
-Kedua pendapat pada kasus terlalu mutlak. Pandangan pertama mengabaikan keaktifan anak; pandangan kedua mengabaikan peran lingkungan dan tanggung jawab pendidikan. Rumusan yang lebih kuat menyebut kontribusi anak dan bentuk dukungan yang dibutuhkan, kemudian menguji responsnya.
+Jatuhnya menara menunjukkan hasil dari satu susunan. Pilihan alas, pengamatan terhadap teman, dan percobaan ulang memperlihatkan bagaimana Aira ikut membentuk pengalamannya. Tanyakan apa yang ia perhatikan, lalu amati apakah pilihannya berubah pada bangunan berikutnya.
 
 ### Latihan terbimbing
 
-Ubah kalimat “anak ini tidak bisa mandiri” menjadi deskripsi yang dapat diamati. Awali dengan “saat memakai sepatu, anak meminta bantuan untuk…”. Bedakan kemampuan yang sudah terlihat, bantuan yang diperlukan, dan kesempatan latihan berikutnya.
+Ubah pernyataan “anak ini tidak mandiri” menjadi catatan netral tentang satu peristiwa memakai sepatu. Tulis tindakan yang ia mulai sendiri, bantuan yang ia minta, dan kesempatan mencoba berikutnya.
 
 ### Latihan mandiri
 
-Tulis respons untuk orang tua yang berkata “anak saya memang tidak berbakat berbicara”. Hindari diagnosis dan janji hasil. Ajukan dua pertanyaan informasi serta dua bentuk dukungan yang dapat dicoba bersama.
+Seorang anak berbicara lancar di rumah dan jarang berbicara di kelas. Ajukan dua penjelasan yang dapat diperiksa dan satu cara memperluas partisipasinya.
 
 ### Refleksi
 
-Bagaimana harapan saya terhadap anak dapat berubah menjadi pelabelan yang membatasi kesempatan belajarnya?
+Keputusan apa yang dapat saya serahkan kepada anak dengan tetap menjaga keselamatannya?
 
 ### Referensi
 
-- Republik Indonesia. (2003). Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional. https://peraturan.bpk.go.id/Details/43920/uu-no-20-tahun-2003
+- Dewey, J. (1997). Experience and education. Touchstone. (Original work published 1938) https://www.simonandschuster.com/books/Experience-And-Education/John-Dewey/9780684838281
 
-- Republik Indonesia. (2014). Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak. https://peraturan.bpk.go.id/Details/38723/uu-no-35-tahun-2014
+- Bronfenbrenner, U. (1979). The ecology of human development: Experiments by nature and design. Harvard University Press. https://www.jstor.org/stable/j.ctv26071r6
 
-- National Association for the Education of Young Children. (2022). Developmentally appropriate practice in early childhood programs serving children from birth through age 8 (4th ed.). https://www.naeyc.org/Resources/Pubs/Books/Dap-Fourth-Edition
+- National Association for the Education of Young Children. (2020). Developmentally appropriate practice: A position statement. https://www.naeyc.org/resources/position-statements/dap/contents
+
+- United Nations. (1989). Convention on the Rights of the Child. https://www.ohchr.org/sites/default/files/crc.pdf
 
 <a id="tujuan"></a>
 
 ## 3. Tujuan dan fungsi pendidikan
 
-Menghubungkan tujuan nasional dengan pengalaman belajar yang bermakna bagi anak.
+Menurunkan tujuan pendidikan menjadi pengalaman dan bukti perkembangan.
 
 ### Tujuan
 
-- Membedakan tujuan, fungsi, kegiatan, dan indikator.
+- Membedakan tujuan, fungsi, hasil, dan indikator
 
-- Menurunkan tujuan luas menjadi pengalaman belajar AUD yang masuk akal.
+- Menggunakan tiga fungsi pendidikan menurut Biesta
 
-- Mengevaluasi ukuran keberhasilan yang terlalu sempit.
-
-### Pemantik
-
-Apakah tujuan pendidikan AUD cukup dirumuskan sebagai “anak siap masuk SD”?
-
-### Kasus ilustratif
-
-Sebuah RA mengiklankan keberhasilan program dari jumlah anak yang lancar membaca. Guru mengamati sebagian anak masih kesulitan meminta bantuan, menghadapi konflik, dan merawat barangnya sendiri.
-
-![Anak mengenali kartu huruf; dua anak menginginkan mainan yang sama; pendidik mendampingi giliran dan anak lain menuang air.](assets/scenes/tujuan.webp)
-
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
-
-### Amati adegan
-
-- Kemampuan apa yang tampak selain mengenali huruf?
-
-- Mengapa satu capaian belum mewakili keseluruhan tujuan pendidikan?
-
-![Arah pendidikan diterjemahkan ke beberapa pengalaman yang saling mendukung, tidak direduksi menjadi satu skor.](assets/tujuan.svg)
-
-Tujuan pendidikan memberi arah bagi pengalaman anak yang utuh. Ranah pada diagram merupakan contoh yang saling berhubungan, bukan instrumen penilaian atau pembagian resmi standar.
+- Merumuskan bukti sesuai tujuan
 
 ### Tujuan, fungsi, dan hasil
 
-Tujuan menyatakan arah yang hendak dicapai. Fungsi menjelaskan peranan pendidikan bagi individu dan kehidupan bersama. Hasil adalah kondisi yang benar-benar muncul setelah proses berlangsung. Ketiganya berhubungan, tetapi tidak identik. Pendidikan dapat bertujuan mengembangkan kerja sama, sementara hasil aktual menunjukkan sebagian anak belum mendapat kesempatan berpartisipasi.
+Tujuan menyatakan arah yang hendak dicapai. Fungsi menjelaskan peranan pendidikan bagi individu dan kehidupan bersama. Hasil menerangkan perubahan yang sungguh teramati. Kegiatan adalah sarana menuju tujuan dan indikator adalah petunjuk yang membantu membaca hasil. Dalam bermain pasar, kegiatan membeli dua buah dapat mendukung tujuan memasangkan jumlah dengan benda. Salah satu indikatornya ialah anak memilih dua buah saat diminta, termasuk ketika buah diletakkan dalam susunan yang berbeda.
 
-Karena itu, menyebut tujuan belum membuktikan keberhasilan. Mahasiswa perlu menilai keselarasan tujuan, pengalaman, dan bukti. Fungsi pewarisan budaya juga perlu disertai kritik: tidak semua kebiasaan yang diwariskan layak dipertahankan. Praktik yang merendahkan anak tidak menjadi benar hanya karena dianggap tradisi.
+### Tiga fungsi pendidikan menurut Biesta
 
-### Tujuan nasional dan konteks PAUD
+Biesta (2009) membedakan kualifikasi, sosialisasi, dan subjektifikasi. Kualifikasi berhubungan dengan pengetahuan dan kecakapan, misalnya menggunakan bilangan untuk membagi benda. Sosialisasi berhubungan dengan masuk ke dalam praktik dan aturan bersama, misalnya memahami giliran. Subjektifikasi memberi perhatian pada kemungkinan seseorang bertindak sebagai subjek yang punya pertimbangan dan tanggung jawab. Pada situasi giliran, anak dapat mengusulkan memakai keranjang secara bergantian karena memahami temannya juga membutuhkannya. Ketiganya bisa hadir bersama dan kadang menarik kegiatan ke arah berbeda. Pembagian Biesta dipakai untuk menimbang tujuan, bukan sebagai skala pengukuran anak.
 
-Pasal 3 UU 20/2003 memuat fungsi dan tujuan pendidikan nasional dengan cakupan perkembangan manusia yang luas. Di PAUD, arah tersebut diterjemahkan sesuai karakteristik anak, bukan disalin menjadi tuntutan akademik orang dewasa. Standar kompetensi lulusan dan standar isi yang relevan perlu dibaca pada bagian PAUD (Permendikdasmen 10/2025 dan 12/2025).
+### Dari tujuan nasional ke kelas PAUD
 
-Kesiapan melanjutkan pendidikan merupakan salah satu orientasi, tetapi pengalaman anak hari ini juga memiliki nilai. Anak berhak mengalami hubungan aman, bermain, mengeksplorasi, dan berpartisipasi. Hindari mengukur kualitas seluruh program hanya dari membaca, menulis, atau berhitung. Kemampuan tersebut dapat dikembangkan dalam pengalaman bermakna tanpa menjadi satu-satunya ukuran.
+Pasal 3 UU No. 20 Tahun 2003 memberi arah pengembangan kemampuan dan pembentukan watak dalam kehidupan bersama. Permendikdasmen No. 10 Tahun 2025 dan No. 12 Tahun 2025 memberi rujukan standar yang perlu dibaca pada bagian PAUD. Di kelas, tujuan yang luas seperti tanggung jawab perlu diterjemahkan ke keadaan yang dapat dipahami anak. Guru dapat menyiapkan alat bersama, menentukan tempat pengembalian, dan memperhatikan apakah anak merawat alat yang dipakai dengan bantuan yang berangsur disesuaikan.
 
-### Dari tujuan luas ke tujuan kegiatan
+### Memilih bukti yang sepadan
 
-Tujuan luas seperti kemandirian perlu dijabarkan menjadi tindakan yang sesuai konteks. Dalam kegiatan merapikan alat, contoh tujuan operasionalnya adalah anak memilih alat yang menjadi tanggung jawabnya dan menaruhnya kembali dengan bantuan seperlunya. Kegiatan merapikan hanyalah sarana; kepatuhan tanpa pemahaman belum tentu mewakili keseluruhan tujuan.
+Kartu huruf memberi informasi tentang pengenalan lambang tertentu. Bukti tentang bahasa juga dapat diperoleh dari percakapan, cerita ulang, dan penggunaan tulisan dalam permainan. Untuk tujuan menyelesaikan konflik, amati cara anak menyatakan keinginan, mendengar usulan, atau menerima bantuan. Hasil satu kegiatan bersifat terbatas. Catatan pada beberapa kesempatan membantu guru membedakan respons sesaat dari perkembangan yang mulai terlihat.
 
-Indikator adalah petunjuk untuk membaca perkembangan, bukan label permanen. Guru dapat mencatat apakah anak mengenali tempat alat, meminta bantuan, atau menawarkan bantuan kepada teman. Catatan beberapa kesempatan lebih informatif daripada satu penilaian “mandiri/tidak mandiri”. Untuk mahasiswa, latihan utamanya adalah menjelaskan alasan memilih indikator, bukan memperbanyak daftar perilaku.
-
-### Menilai ketegangan antartujuan
-
-Dalam praktik, tujuan dapat saling menekan. Keinginan menyelesaikan banyak lembar kerja dapat mengurangi kesempatan berdialog; tuntutan tertib dapat mengurangi ruang eksplorasi. Pendidik perlu menentukan prioritas berdasarkan kebutuhan anak, konteks kegiatan, dan tanggung jawab lembaga. Tidak semua tujuan harus dicapai pada satu aktivitas.
-
-Usulan perbaikan untuk program RA adalah memakai beberapa sumber bukti: hasil karya, percakapan, partisipasi, serta pengamatan kegiatan keseharian. Pemilihan ini harus dijelaskan kepada keluarga agar perubahan ukuran keberhasilan tidak dipahami sebagai ketiadaan arah. Tujuan religius, sosial, dan pengetahuan dapat saling mendukung ketika diwujudkan melalui pengalaman yang konkret.
-
-### Bandingkan tindakan
-
-**A: Satu indikator untuk semua**
-
-Menyimpulkan keberhasilan hanya dari kelancaran membaca.
-
-Kemampuan meminta bantuan dan merawat diri luput diamati.
-
-**B: Tujuan yang lebih utuh**
-
-Merancang pengalaman berbahasa, bergiliran, membantu, dan merawat diri.
-
-Amati perkembangan dalam beragam kegiatan dan konteks.
-
-### Latihan visual
-
-Pilih dua tujuan berbeda dalam gambar dan tuliskan satu bukti perilaku untuk masing-masing.
-
-Contoh penalaran: Contoh: komunikasi—anak menyampaikan keinginannya; kerja sama—anak menyepakati giliran. Satu gambar hanya pemantik; bukti perkembangan memerlukan pengamatan nyata yang berulang.
-
-### Analisis
-
-Kelancaran membaca merupakan informasi tentang kemampuan tertentu. Ia tidak cukup mewakili mutu keseluruhan pendidikan RA. Analisis perlu memperluas tujuan dan bukti, sambil menghindari kesimpulan bahwa semua latihan literasi pasti merugikan.
-
-### Latihan terbimbing
-
-Perbaiki tujuan “anak menyelesaikan tiga lembar kerja”. Tentukan kemampuan yang sebenarnya dituju, pengalaman alternatif, dan satu bukti yang lebih dekat dengan kemampuan tersebut. Contoh: mengenali jumlah dapat diamati saat membagikan cangkir untuk teman.
-
-### Latihan mandiri
-
-Rancang satu kegiatan berbagi alat dengan dua tujuan yang saling mendukung. Jelaskan kegiatan, peran anak, bukti perkembangan, dan kemungkinan tujuan yang belum dapat dinilai dari kegiatan itu.
-
-### Refleksi
-
-Ukuran keberhasilan apa yang selama ini saya anggap penting tetapi belum benar-benar mewakili perkembangan anak?
-
-### Referensi
-
-- Republik Indonesia. (2003). Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional. https://peraturan.bpk.go.id/Details/43920/uu-no-20-tahun-2003
-
-- Kementerian Pendidikan Dasar dan Menengah. (2025). Peraturan Menteri Pendidikan Dasar dan Menengah Nomor 10 Tahun 2025 tentang Standar Kompetensi Lulusan pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://peraturan.go.id/id/permendikdasmen-no-10-tahun-2025
-
-- Kementerian Pendidikan Dasar dan Menengah. (2025). Peraturan Menteri Pendidikan Dasar dan Menengah Nomor 12 Tahun 2025 tentang Standar Isi pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://www.kemendikdasmen.go.id/pengumuman/13208-permendikdsmen-no-12-tahun-2025-tentang-standar-isi-pada-pau
-
-- Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. (2022). Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Nomor 21 Tahun 2022 tentang Standar Penilaian Pendidikan pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://peraturan.bpk.go.id/Details/224425/permendikbudriset-no-21-tahun-2022
-
-<a id="landasan"></a>
-
-## 4. Landasan pendidikan dan alasan keputusan
-
-Menggunakan landasan filosofis, psikologis, sosial, religius, dan yuridis secara tepat.
-
-### Tujuan
-
-- Membedakan fungsi lima landasan pendidikan.
-
-- Memisahkan klaim nilai, teori, bukti empiris, dan ketentuan hukum.
-
-- Menyusun alasan keputusan tanpa mencampur jenis bukti.
-
-### Pemantik
-
-Apa yang membuat sebuah keputusan pendidik dapat dipertanggungjawabkan?
+![Satu pengalaman dapat melibatkan kecakapan, kehidupan bersama, dan tindakan yang dipertimbangkan anak.](assets/tujuan.svg)
 
 ### Kasus ilustratif
 
-Guru meminta anak meminta maaf di depan kelas. Alasannya: aturan sekolah, ajaran akhlak, kebiasaan masyarakat, dan keyakinan bahwa rasa malu membuat anak jera. Apakah semua alasan itu memiliki kekuatan yang sama?
+Apa yang hilang jika mutu RA dinilai dari kelancaran membaca saja?
 
-![Adegan perbandingan: anak disorot di depan kelompok setelah balok jatuh; pendidik kemudian mendengarkan anak dan membantu memperbaiki bersama teman.](assets/scenes/landasan.webp)
+Sebuah RA memakai kemampuan menyebut huruf sebagai tolok ukur utama. Di kelas, seorang anak cepat mengenali kartu huruf. Ketika dua anak ingin memakai keranjang yang sama, guru melihat salah satunya belum dapat meminta giliran.
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+![Anak mengenali kartu huruf; dua anak menginginkan mainan yang sama; pendidik mendampingi giliran dan anak lain menuang air.](assets/scenes/tujuan.webp)
 
-### Amati adegan
+### Pembahasan
 
-- Apa perbedaan posisi dan relasi orang dewasa dengan anak?
-
-- Apakah alasan “sudah menjadi kebiasaan” cukup membenarkan tindakan?
-
-![Empat jenis alasan perlu dibedakan fungsinya sebelum digunakan untuk menilai tindakan.](assets/landasan.svg)
-
-Landasan berbeda menjawab pertanyaan berbeda. Dasar hukum tidak menggantikan penjelasan teori; penelitian juga tidak dengan sendirinya menentukan nilai yang harus dipilih.
-
-### Landasan filosofis: arah dan asumsi
-
-Landasan filosofis memeriksa pandangan tentang manusia, pengetahuan, dan nilai. Pertanyaan “anak harus menjadi pribadi seperti apa?” berbeda dari “metode mana yang menghasilkan skor tertinggi?”. Pendidikan membutuhkan penetapan tujuan yang dapat diperdebatkan secara beralasan. Sebuah teknik yang berhasil membuat anak patuh belum tentu sesuai dengan tujuan kemandirian.
-
-Mahasiswa tidak perlu menghafal semua aliran filsafat. Gunakan pertanyaan dasar untuk mengungkap asumsi: apakah anak dipandang sebagai penerima atau pelaku; apakah pengetahuan dianggap hafalan atau pemahaman yang perlu digunakan; apakah ketertiban menjadi tujuan akhir atau kondisi untuk belajar bersama.
-
-### Landasan psikologis: penjelasan tentang belajar
-
-Landasan psikologis memberi konsep untuk memahami perkembangan, motivasi, emosi, dan belajar. Fungsinya membantu membaca kebutuhan serta kemungkinan respons, bukan menetapkan diagnosis dari pengamatan singkat. Dalam mata kuliah ini, pembahasannya dibatasi pada implikasi keputusan pendidikan. Teori perkembangan secara rinci menjadi ranah mata kuliah khusus.
-
-Jika guru mengatakan hukuman memperbaiki perilaku, tanyakan perilaku apa, dalam durasi berapa, dan dengan akibat apa. Berhentinya tindakan sesaat tidak otomatis menunjukkan pemahaman atau pengaturan diri. Klaim efektivitas memerlukan bukti yang relevan, bukan sekadar pengalaman yang paling mudah diingat.
-
-### Landasan sosial dan religius
-
-Landasan sosial menempatkan pendidikan dalam hubungan keluarga, budaya, bahasa, kesempatan, dan kekuasaan. Kebiasaan kelas dapat menguntungkan anak yang sudah mengenal bahasa atau aturan tertentu. Karena itu, guru perlu memeriksa apakah ketidakaktifan benar-benar kurang kemampuan atau akibat hambatan partisipasi.
-
-Landasan religius memberi orientasi nilai, makna, dan tanggung jawab. Dalam PIAUD, nilai kasih sayang, adab, dan keteladanan dapat menuntun tindakan. Namun, sumber normatif tidak boleh dipakai sebagai pengganti penelitian ketika membuat klaim empiris. Menyebut tindakan “sesuai agama” juga memerlukan pembacaan yang bertanggung jawab, bukan kutipan tanpa konteks.
-
-### Landasan yuridis dan penalaran terpadu
-
-Landasan yuridis menentukan hak, kewajiban, dan ketentuan penyelenggaraan. UU Sisdiknas, perlindungan anak, dan standar pendidikan membantu menentukan batas tindakan. Aturan internal lembaga tidak otomatis benar jika bertentangan dengan hak anak. Sebaliknya, mengetahui nomor peraturan belum berarti mampu merancang pengalaman belajar yang baik.
-
-Kerangka analisis yang diusulkan: rumuskan masalah, identifikasi nilai yang dipertaruhkan, baca kebutuhan anak, periksa ketentuan, pertimbangkan alternatif, lalu tetapkan bukti untuk meninjau keputusan. Ini adalah alat latihan penalaran dalam portal, bukan prosedur baku dari satu teori. Kesimpulan sebaiknya menyebut apa yang diketahui dan apa yang masih perlu diperiksa.
-
-### Bandingkan tindakan
-
-**A: Kebiasaan sebagai satu-satunya alasan**
-
-Meminta anak meminta maaf di depan kelompok tanpa mendengar kejadian.
-
-Risiko: mempermalukan dan mengabaikan konteks.
-
-**B: Keputusan dengan alasan terbuka**
-
-Mendengar anak, menjaga martabat, lalu mendampingi pemulihan relasi.
-
-Tinjau keamanan, respons anak, dan perbaikan hubungan.
-
-### Latihan visual
-
-Pasangkan alasan tindakan dengan jenis sumber: hak anak, proses belajar, nilai tanggung jawab.
-
-Contoh penalaran: Hak anak: ketentuan hukum yang relevan. Proses belajar: teori dan bukti empiris sesuai konteks. Tanggung jawab: argumentasi nilai. Ketiganya dapat dipakai bersama tanpa menyamakan fungsinya.
-
-### Analisis
-
-Aturan, nilai, dan klaim psikologis perlu diperiksa dengan cara berbeda. Mengembangkan tanggung jawab tidak mengharuskan mempermalukan. Alternatifnya ialah menenangkan situasi, membantu anak mengenali dampak, dan membimbing perbaikan yang dapat dipahami. Respons berikutnya tetap diamati.
+RA dapat tetap mencatat pengenalan huruf dan menambah bukti yang langsung terkait dengan tujuan sosial. Pada kasus keranjang, ucapan “boleh aku pakai setelah kamu?” memberi informasi yang berbeda dari jawaban benar pada kartu huruf. Keduanya membantu guru menentukan pengalaman berikutnya.
 
 ### Latihan terbimbing
 
-Beri label pada tiga pernyataan: “anak berhak terlindungi”, “anak diam setelah dimarahi”, dan “rasa takut selalu memperbaiki akhlak”. Yang pertama normatif-yuridis; yang kedua observasi; yang ketiga generalisasi kausal yang belum didukung oleh observasi itu saja.
+Ubah “anak menyelesaikan dua lembar kerja” menjadi tujuan belajar yang spesifik. Beri satu contoh pengalaman dan satu indikator yang langsung sesuai dengan tujuan.
 
 ### Latihan mandiri
 
-Analisis aturan “semua anak wajib tampil sendiri di panggung”. Gunakan minimal tiga landasan, usulkan penyesuaian, dan jelaskan informasi yang dibutuhkan sebelum menerapkannya.
+Jelaskan kepada keluarga dalam dua paragraf bagaimana satu kegiatan bermain dapat membawa dua tujuan berbeda. Beri satu bukti untuk setiap tujuan.
 
 ### Refleksi
 
-Apakah saya pernah memakai kutipan atau peraturan untuk menutup diskusi tanpa menjelaskan kaitannya dengan masalah?
+Bukti apa yang mudah dicatat di kelas tetapi hanya mencakup bagian kecil dari tujuan pendidikan?
 
 ### Referensi
 
 - Republik Indonesia. (2003). Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional. https://peraturan.bpk.go.id/Details/43920/uu-no-20-tahun-2003
+
+- Biesta, G. (2009). Good education in an age of measurement: On the need to reconnect with the question of purpose in education. Educational Assessment, Evaluation and Accountability, 21, 33–46. https://doi.org/10.1007/s11092-008-9064-9
+
+- Kementerian Pendidikan Dasar dan Menengah. (2025). Peraturan Menteri Pendidikan Dasar dan Menengah Nomor 10 Tahun 2025 tentang Standar Kompetensi Lulusan pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://peraturan.go.id/id/permendikdasmen-no-10-tahun-2025
+
+- Kementerian Pendidikan Dasar dan Menengah. (2025). Peraturan Menteri Pendidikan Dasar dan Menengah Nomor 12 Tahun 2025 tentang Standar Isi pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://jdih.kemendikdasmen.go.id/sjdih/siperpu/dokumen/salinan/Permendikdasmen_No_12_Tahun_2025_ttg_Standar_Isi_pada_Pe.pdf
+
+<a id="landasan"></a>
+
+## 4. Landasan pendidikan
+
+Membedakan dasar filosofis, psikologis, sosial budaya, religius, dan yuridis dalam satu keputusan.
+
+### Tujuan
+
+- Membedakan lima landasan pendidikan
+
+- Mengenali jenis klaim dalam alasan guru
+
+- Merumuskan respons berlandaskan tujuan, konteks, dan ketentuan
+
+### Landasan filosofis dan religius
+
+Landasan filosofis, termasuk pertanyaan tentang mutu pengalaman yang diajukan Dewey (1938/1997), memeriksa pandangan tentang manusia, pengetahuan, dan nilai. Jika pendidikan diarahkan pada tanggung jawab, guru perlu memberi ruang bagi anak memahami akibat tindakannya dan ikut memperbaiki keadaan. Landasan religius memberi orientasi makna dan nilai dalam tradisi keimanan. Dalam PIAUD, nasihat Luqman pada Al-Qur’an 31:13–19 dapat menjadi bahan telaah tentang tanggung jawab, kesabaran, dan cara memperlakukan orang lain. Implikasi pedagogisnya disusun melalui penalaran guru dengan memperhatikan kemampuan anak.
+
+### Landasan psikologis
+
+Landasan psikologis memberi penjelasan tentang cara anak berkembang dan belajar. Pada konflik, guru dapat memeriksa apakah anak siap mendengar pertanyaan, memahami urutan peristiwa, dan memiliki kata-kata untuk menyampaikan maksud. NAEYC (2020) memberi kerangka profesional untuk mempertimbangkan pola perkembangan, individualitas, dan konteks. Klaim bahwa mempermalukan anak akan membuatnya lebih bertanggung jawab perlu diperiksa dengan bukti yang relevan. Perilaku terhenti sesaat dapat menunjukkan bahwa situasi sudah berubah, sedangkan pemahaman perlu diamati pada kesempatan berikutnya.
+
+### Landasan sosial budaya
+
+Anak membawa kebiasaan bahasa, cara menyapa, dan pengalaman menyelesaikan persoalan dari lingkungan. Di satu keluarga anak terbiasa menyampaikan alasan langsung. Di keluarga lain anak menunggu ditanya. Guru dapat memakai pengetahuan ini untuk memberi kesempatan bicara yang lebih adil tanpa menetapkan karakter anak dari latar keluarganya. Telaah sosial budaya juga menanyakan siapa yang terbiasa didengar dan siapa yang jarang memperoleh giliran.
+
+### Landasan yuridis dan cara menggunakan landasan
+
+Landasan yuridis menetapkan hak, kewajiban, dan batas yang mengikat. UU Perlindungan Anak memberi dasar untuk menjaga anak dari kekerasan di satuan pendidikan. Standar proses memberi acuan mengenai penyelenggaraan pembelajaran. Ketentuan tersebut perlu dibaca sesuai ruang lingkupnya. Dalam satu keputusan, hukum membatasi tindakan, tujuan memberi arah, pengetahuan tentang perkembangan membantu memilih bahasa, dan konteks sosial membantu guru memahami respons. Catatan sesudah kegiatan memberi informasi untuk meninjau keputusan.
+
+![Landasan mengarahkan tujuan, penafsiran situasi, dan batas tindakan melalui pertanyaan berbeda.](assets/landasan.svg)
+
+### Kasus ilustratif
+
+Atas dasar apa guru memilih cara menanggapi konflik?
+
+Menara balok roboh setelah dua anak menarik alasnya. Guru pertama ingin meminta salah satu anak berdiri di depan kelompok dan mengaku salah. Guru kedua ingin mendengar kedua anak dan membantu mereka memperbaiki bangunan.
+
+![Adegan perbandingan: anak disorot di depan kelompok setelah balok jatuh; pendidik kemudian mendengarkan anak dan membantu memperbaiki bersama teman.](assets/scenes/landasan.webp)
+
+### Pembahasan
+
+Guru dapat mengamankan balok yang berserakan, mendengar urutan kejadian dari kedua anak, dan mengajak mereka menentukan cara memperbaiki susunan. Cara tersebut memberi kesempatan berlatih tanggung jawab. Pada penggunaan balok berikutnya, guru dapat mengamati apakah kedua anak mulai menyatakan maksud sebelum menarik bagian bangunan.
+
+### Latihan terbimbing
+
+Telaah kalimat “anak harus meminta maaf supaya jera”. Tandai bagian yang menyatakan nilai atau tujuan dan bagian yang memprediksi akibat tindakan. Tulis jenis bukti yang diperlukan untuk memeriksa prediksi.
+
+### Latihan mandiri
+
+Tulis respons guru terhadap konflik balok dengan satu alasan filosofis, satu pertimbangan psikologis, dan satu batas yuridis. Jelaskan peran masing-masing alasan.
+
+### Refleksi
+
+Landasan apa yang biasa saya gunakan saat memilih aturan kelas? Informasi apa yang masih perlu saya periksa?
+
+### Referensi
+
+- Dewey, J. (1997). Experience and education. Touchstone. (Original work published 1938) https://www.simonandschuster.com/books/Experience-And-Education/John-Dewey/9780684838281
+
+- National Association for the Education of Young Children. (2020). Developmentally appropriate practice: A position statement. https://www.naeyc.org/resources/position-statements/dap/contents
+
+- Al-Qur’an. Surah Luqman (31), ayat 13–19. https://quran.com/id/luqman/13-19
 
 - Republik Indonesia. (2014). Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak. https://peraturan.bpk.go.id/Details/38723/uu-no-35-tahun-2014
 
@@ -454,129 +302,69 @@ Apakah saya pernah memakai kutipan atau peraturan untuk menutup diskusi tanpa me
 
 <a id="pemikiran"></a>
 
-## 5. Pemikiran pendidikan sebagai alat analisis
+## 5. Pemikiran pendidikan dan implikasinya
 
-Membaca praktik melalui pengalaman, mediasi sosial, dan bantuan belajar tanpa mengubah teori menjadi resep mutlak.
+Membandingkan Dewey, Piaget, Vygotsky, dan Ki Hadjar Dewantara melalui satu persoalan.
 
 ### Tujuan
 
-- Membandingkan asumsi di balik tiga bentuk pendampingan.
+- Menjelaskan gagasan spesifik empat tokoh
 
-- Menjelaskan mediasi sosial, zona perkembangan proksimal, dan scaffolding secara terbatas.
+- Menurunkan implikasi dari teori pada satu masalah
 
-- Menggunakan teori untuk mengusulkan tindakan serta batas penerapannya.
+- Membedakan zona perkembangan proksimal dan scaffolding
 
-### Pemantik
+### Dewey dan penyelidikan melalui pengalaman
 
-Apakah guru yang banyak menjelaskan selalu lebih membantu anak belajar?
+Dewey (1938/1997) menilai pengalaman dari interaksinya dengan kondisi anak serta kesinambungannya ke pengalaman berikutnya. Kegagalan jembatan menimbulkan masalah yang dapat diselidiki. Guru dapat bertanya apa yang menyebabkan balok jatuh, menyiapkan beberapa ukuran, dan mengajak anak mencoba lagi pada celah berbeda. Penyelidikan memberi arah pada pengalaman. Anak memperoleh kesempatan menghubungkan tindakan dengan akibat dan menggunakan temuan sebelumnya.
+
+### Piaget dan perubahan skema
+
+Dalam pemikiran Piaget, skema ialah pola bertindak atau memahami yang dipakai untuk menghadapi situasi. Asimilasi terjadi ketika anak menangani situasi dengan pola yang sudah ia punya. Akomodasi terjadi ketika pola disesuaikan karena cara lama belum memadai. Jika anak sebelumnya menempatkan balok apa saja lalu mulai memilih balok yang melewati kedua tepi celah, guru memperoleh petunjuk tentang perubahan strategi. Pengamatan sederhana ini tidak menetapkan tahap perkembangan anak. Perhatikan apakah ia menggunakan strategi tersebut kembali.
+
+### Vygotsky dan bantuan dalam kegiatan bersama
+
+Vygotsky (1978) memakai zona perkembangan proksimal untuk menjelaskan jarak antara kemampuan memecahkan masalah secara mandiri dan kemampuan dengan bimbingan orang dewasa atau kerja sama dengan teman yang lebih mampu. Wood, Bruner, dan Ross (1976) memperkenalkan scaffolding dalam pembahasan tentang bantuan tutor pada pemecahan masalah. Petunjuk yang membantu anak melakukan langkah yang semula sulit dapat dikurangi ketika anak mulai menguasainya. Untuk mengetahui apa yang berubah, amati tindakan mandiri awal, respons saat dibantu, dan tindakan setelah bantuan dikurangi.
+
+### Ki Hadjar Dewantara dan tuntunan
+
+Dalam sistem Among, pendidik menuntun perkembangan dengan memberi ruang kemerdekaan yang disertai tanggung jawab. Guru dapat memberi teladan ketika diperlukan, membangun prakarsa ketika bekerja bersama anak, dan memberi dorongan saat anak mengambil langkah sendiri. Pada jembatan balok, tuntunan berarti menjaga ruang mencoba sambil menyediakan dukungan yang wajar. Dewey membantu menilai mutu pengalaman, Piaget membantu membaca perubahan strategi, Vygotsky mengarahkan perhatian pada bantuan sosial, dan Among memberi dasar etis bagi cara guru menuntun.
+
+![Keempat gagasan menyoroti bagian berbeda dari pengalaman menyelesaikan jembatan.](assets/pemikiran.svg)
 
 ### Kasus ilustratif
 
-Anak sedang membangun jembatan dari balok. Guru pertama segera menunjukkan bentuk yang benar. Guru kedua membiarkan tanpa mendekat. Guru ketiga bertanya bagian mana yang roboh dan menawarkan dua balok untuk dicoba.
+Apa yang perlu dilakukan guru ketika anak menghadapi kesulitan?
+
+Anak mencoba menjembatani dua tumpukan dengan balok pendek. Guru dapat menyelesaikannya, memberi waktu anak menguji beberapa balok, atau memberi petunjuk agar anak membandingkan panjang balok dengan celah.
 
 ![Tiga cara mendampingi bangunan balok: orang dewasa menyelesaikan, anak mencoba tanpa dukungan, dan anak menempatkan balok setelah mendapat petunjuk.](assets/scenes/pemikiran.webp)
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+### Pembahasan
 
-### Amati adegan
-
-- Pada adegan mana anak mengerjakan bagian penting dari tugas?
-
-- Kapan bantuan perlu ditambah atau dikurangi?
-
-![Besarnya dukungan mengikuti respons anak, bukan urutan kaku untuk semua anak.](assets/pemikiran.svg)
-
-Scaffolding merupakan dukungan yang disesuaikan dan dikurangi ketika kemampuan berkembang. Urutan ini menyederhanakan penerapan, bukan tahapan perkembangan universal; lihat Wood, Bruner, dan Ross (1976) serta pembahasan Vygotsky.
-
-### Mengapa mempelajari pemikiran pendidikan?
-
-Pemikiran pendidikan membantu melihat alasan di balik kebiasaan mengajar. Apakah guru percaya anak belajar terutama dengan meniru, mencoba, berdialog, atau menghubungkan pengalaman? Jawabannya memengaruhi rancangan kegiatan. Satu kegiatan dapat melibatkan beberapa proses tersebut; membagi semua guru ke dalam satu aliran sering terlalu menyederhanakan.
-
-Dalam mata kuliah pengantar, tokoh dipelajari melalui pertanyaan yang dijawabnya, gagasan utama, implikasi, dan batas penerapan. Catatan nama serta tahun berguna sebagai orientasi sejarah, tetapi hasil belajar yang lebih penting adalah kemampuan membaca tindakan nyata. Jangan menyatakan satu tokoh menjelaskan seluruh perkembangan anak.
-
-### Pengalaman dan keaktifan anak
-
-Untuk analisis praktik, keaktifan tidak cukup ditandai tubuh bergerak atau kelas ramai. Anak perlu memperoleh kesempatan memperhatikan, membuat dugaan, mencoba, membandingkan, dan mengomunikasikan hasil. Kegiatan konkret dapat memberi pijakan bagi pemahaman, tetapi benda konkret sendiri tidak menjamin anak memahami konsep yang dimaksud guru.
-
-Pada konstruksi balok, guru dapat meminta anak memperkirakan bagian yang paling kuat, mencoba susunan, lalu membandingkan. Tindakan itu merupakan rancangan pedagogis portal ini, bukan kutipan langsung dari tokoh tertentu. Yang dinilai adalah alasan dan proses berpikir, bukan apakah produk anak sama dengan contoh.
-
-### Mediasi sosial dan zona perkembangan proksimal
-
-Vygotsky (1978) menempatkan interaksi sosial dan perangkat budaya, termasuk bahasa, dalam penjelasan perkembangan fungsi psikologis. Zona perkembangan proksimal berkaitan dengan perbedaan antara kemampuan yang ditunjukkan secara mandiri dan kemampuan yang dimungkinkan melalui bimbingan atau kolaborasi yang sesuai. Konsep ini bukan sekadar nama untuk tugas yang sulit.
-
-Aplikasi yang diusulkan: amati dahulu usaha mandiri anak, berikan petunjuk yang relevan, lalu lihat apakah anak dapat mengambil langkah berikutnya. Jangan langsung mengerjakan seluruh tugas. Keberhasilan dengan bantuan juga tidak otomatis berarti kemampuan sudah dapat dilakukan sendiri pada situasi lain.
-
-### Scaffolding dan batas klaim
-
-Wood, Bruner, dan Ross (1976) merupakan rujukan awal istilah scaffolding dalam pembelajaran. Bantuan perlu menanggapi kesulitan tugas dan memungkinkan anak mengambil bagian. Dalam penerapan kelas, guru dapat mengurangi bantuan ketika anak mulai mampu. Hubungannya dengan gagasan Vygotsky dapat dibahas, tetapi atribusi istilah tidak boleh dipindahkan begitu saja.
-
-Tidak semua intervensi guru adalah scaffolding. Memberi jawaban terus-menerus tanpa memperhatikan respons anak dapat menutup kesempatan berpikir. Sebaliknya, membiarkan anak mengalami kebuntuan berkepanjangan juga belum tentu menghormati keaktifan. Pilihan bantuan memerlukan pengamatan dan tujuan yang jelas.
-
-### Dewey: kualitas pengalaman
-
-Dewey (1938/1997) menjadi rujukan untuk menilai hubungan pengalaman dan pendidikan. Aktivitas tidak otomatis edukatif hanya karena menyenangkan atau membuat anak sibuk. Pertanyaan pentingnya ialah bagaimana pengalaman sekarang berkaitan dengan kemungkinan belajar berikutnya dan kondisi yang dialami peserta didik.
-
-Sebagai penerapan yang diusulkan, setelah membangun jembatan guru dapat membantu anak membandingkan susunan yang bertahan dan yang roboh. Anak memperoleh kesempatan menghubungkan percobaan, bukan sekadar menyelesaikan produk. Pendidik tetap merancang lingkungan dan arah; pengalaman tidak berarti seluruh kegiatan dibiarkan tanpa pertimbangan.
-
-### Piaget: perubahan cara memahami
-
-Dalam penjelasan adaptasi Piaget, asimilasi dan akomodasi berkaitan dengan penggunaan serta penyesuaian skema dalam menghadapi pengalaman (Fondation Jean Piaget, n.d.). Asimilasi mempertahankan pola pemahaman untuk mengolah pengalaman; akomodasi melibatkan perubahan pola agar sesuai dengan tuntutan pengalaman. Keduanya saling berkaitan.
-
-Contoh ilustratif: anak mula-mula menyebut semua benda beroda sebagai mobil, kemudian membedakan sepeda setelah membandingkan cirinya. Contoh ini membantu memahami konsep, bukan membuktikan proses mental hanya dari satu ucapan. Jangan mengubah rentang usia dalam teori tahap menjadi alat memberi label kemampuan individual tanpa pengamatan yang memadai.
-
-### Ki Hadjar Dewantara: tuntunan dan kemerdekaan
-
-Pengantar resmi Direktorat Jenderal Kebudayaan (2017) menempatkan sistem Among dalam konteks pemikiran pendidikan Ki Hadjar Dewantara. Untuk diskusi PIAUD, gagasan tuntunan dan kemerdekaan dapat membuka pertanyaan tentang hubungan bantuan pendidik dengan ruang tumbuh anak. Pembacaan historis perlu dibedakan dari adaptasi kegiatan masa kini.
-
-Usulan aplikasi: pendidik memberi teladan, membangun keterlibatan ketika anak mencoba, dan mendukung semakin besarnya kemandirian. Ini bukan alasan membiarkan risiko atau meniadakan tujuan. Bandingkan dengan scaffolding pada tingkat implikasi praktik, tetapi jangan menyatakan kedua gagasan identik; latar, bahasa konsep, dan persoalan yang dijawab berbeda.
-
-### Bandingkan tindakan
-
-**A: Mengambil alih atau melepas**
-
-Menyelesaikan bangunan anak, atau mundur tanpa memeriksa kebutuhannya.
-
-Belum diketahui apa yang dapat dilakukan anak dengan bantuan.
-
-**B: Menyesuaikan dukungan**
-
-Mengamati usaha, memberi petunjuk seperlunya, lalu mengurangi bantuan.
-
-Amati bagian yang kemudian dapat dilakukan anak sendiri.
-
-### Latihan visual
-
-Tulis petunjuk singkat untuk adegan ketiga dan syarat kapan Anda berhenti memberi petunjuk.
-
-Contoh penalaran: Contoh: “Apa yang bisa menopang bagian tengah?” Kurangi bantuan ketika anak mulai memilih dan menguji penopang sendiri; tambah dukungan bila petunjuk belum dapat digunakan.
-
-### Analisis
-
-Guru ketiga membuka kemungkinan bantuan yang responsif, tetapi belum otomatis paling tepat pada semua keadaan. Jika ada risiko keselamatan, instruksi langsung diperlukan. Jika anak sedang menguji idenya dengan produktif, guru dapat menunggu. Keputusan ditentukan oleh situasi, bukan slogan selalu membimbing atau selalu membebaskan.
+Mulailah dari tindakan anak. Saat ia belum menemukan hubungan panjang dan celah, guru dapat bertanya apakah ujung balok menyentuh kedua sisi. Jika petunjuk membantu, beri celah baru dan lihat apa yang dikerjakan tanpa petunjuk. Catatan ini berguna untuk menjelaskan bantuan dan perubahan strategi secara terpisah.
 
 ### Latihan terbimbing
 
-Buat tangga bantuan: tunggu dan amati, ajukan pertanyaan, beri petunjuk, tunjukkan satu langkah. Jelaskan kapan berpindah tingkat. Jangan menggunakan urutan sebagai prosedur wajib bila kebutuhan anak berbeda.
+Lengkapi tiga baris catatan: tindakan mandiri, tindakan setelah satu petunjuk, dan percobaan baru. Jelaskan bagian yang dapat dibaca melalui Vygotsky dan bagian yang dapat dibaca melalui Piaget.
 
 ### Latihan mandiri
 
-Analisis kegiatan memasang puzzle. Tulis apa yang dilakukan anak mandiri, kesulitan yang terlihat, bantuan minimal yang diusulkan, serta cara mengetahui apakah bantuan dapat dikurangi.
+Bandingkan dua respons guru pada permainan susun bentuk. Gunakan dua tokoh dan tunjukkan bagaimana setiap gagasan menghasilkan alasan tindakan yang berbeda.
 
 ### Refleksi
 
-Apakah saya membantu agar anak mampu, atau agar kegiatan cepat selesai?
+Pada titik mana bantuan saya mulai mengambil alih kegiatan anak?
 
 ### Referensi
-
-- Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes (M. Cole, V. John-Steiner, S. Scribner, & E. Souberman, Eds.). Harvard University Press. https://www.jstor.org/stable/j.ctvjf9vz4
-
-- Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. Journal of Child Psychology and Psychiatry, 17(2), 89–100. https://doi.org/10.1111/j.1469-7610.1976.tb00381.x
-
-- National Association for the Education of Young Children. (2022). Developmentally appropriate practice in early childhood programs serving children from birth through age 8 (4th ed.). https://www.naeyc.org/Resources/Pubs/Books/Dap-Fourth-Edition
 
 - Dewey, J. (1997). Experience and education. Touchstone. (Original work published 1938) https://www.simonandschuster.com/books/Experience-And-Education/John-Dewey/9780684838281
 
 - Fondation Jean Piaget. (n.d.). Les processus d’adaptation et d’organisation. https://www.fondationjeanpiaget.ch/fjp/site/ModuleFJP001/index_gen_page.php?IDMODULE=72&IDPAGE=394
+
+- Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes (M. Cole, V. John-Steiner, S. Scribner, & E. Souberman, Eds.). Harvard University Press. https://www.jstor.org/stable/j.ctvjf9vz4
+
+- Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. Journal of Child Psychology and Psychiatry, 17(2), 89–100. https://doi.org/10.1111/j.1469-7610.1976.tb00381.x
 
 - Direktorat Jenderal Kebudayaan. (2017). Mengenal sistem Among dalam konsep belajar Taman Siswa. https://kebudayaan.kemdikbud.go.id/mengenal-sistem-among-dalam-konsep-belajar-taman-siswa/
 
@@ -584,97 +372,57 @@ Apakah saya membantu agar anak mampu, atau agar kegiatan cepat selesai?
 
 ## 6. Komponen dan proses pendidikan
 
-Menyelaraskan tujuan, kegiatan, peran anak, lingkungan, dan penilaian.
+Merancang hubungan antara tujuan, pengalaman, peran pendidik, dan asesmen.
 
 ### Tujuan
 
-- Memetakan hubungan antarkomponen pendidikan.
+- Memetakan komponen dalam proses pendidikan
 
-- Menemukan ketidaksesuaian tujuan, kegiatan, dan penilaian.
+- Memeriksa keselarasan tujuan, kegiatan, dan asesmen
 
-- Merancang perbaikan sederhana beserta bukti yang relevan.
+- Menggunakan pengamatan untuk menyesuaikan bantuan
 
-### Pemantik
+### Komponen bekerja sebagai satu sistem
 
-Mengapa kegiatan yang menarik belum tentu mendukung tujuan pembelajaran?
+Komponen pendidikan meliputi pendidik, peserta didik, tujuan, isi, metode, lingkungan, serta asesmen. Komponen ini saling memengaruhi. Tujuan mengenali hubungan letak, misalnya, perlu didukung oleh isi berupa konsep dekat, jauh, dan di antara. Metode dengan balok memberi peluang memindahkan benda dan membandingkan letak. Ruang kelas perlu menyediakan tempat untuk melihat perubahan susunan. Keberhasilan sistem bergantung pada hubungan antarkomponen tersebut.
+
+### Perencanaan dimulai dari kemampuan yang dituju
+
+Permendikdasmen No. 1 Tahun 2026 memberi rujukan mengenai perencanaan, pelaksanaan, dan penilaian proses pembelajaran. Dalam rancangan kelas, tujuan memberi alasan memilih kegiatan. Untuk mengembangkan bahasa ruang, guru dapat meminta anak menempatkan pasar di antara dua rumah lalu menjelaskan letaknya. Jika tujuan utamanya mengombinasikan warna, kegiatan mewarnai dapat dipakai dengan pilihan dan umpan balik yang sesuai. Kegiatan yang sama dapat mendukung tujuan berbeda ketika tuntutan dan bantuan diubah.
+
+### Asesmen formatif mengubah tindakan berikutnya
+
+Black dan Wiliam (1998) menempatkan penggunaan informasi untuk menyesuaikan pengajaran dan belajar sebagai ciri kerja formatif. Guru mendengar anak mengatakan “di samping” saat menempatkan pasar “di antara”. Catatan itu dapat ditindaklanjuti dengan membandingkan dua susunan dan meminta anak menunjukkan perbedaannya. Permendikbudristek No. 21 Tahun 2022 memberi rujukan mengenai penilaian hasil belajar. Bedakan pengamatan terhadap perkembangan anak dari penilaian terhadap bagaimana pendidik melaksanakan proses pembelajaran.
+
+### Meninjau rancangan dari akses anak
+
+Ketika hanya satu anak memindahkan balok, hasil kelompok memberi informasi terbatas tentang partisipasi setiap anak. Guru dapat menyiapkan peran yang bergilir, menyediakan benda yang mudah diraih, dan memberi kesempatan menjawab dengan menunjuk atau berbicara. Sesudah kegiatan, guru memeriksa siapa yang menggunakan konsep secara mandiri dan siapa yang berpartisipasi setelah diberi contoh. Informasi itu dipakai untuk memilih bantuan berikutnya.
+
+![Bukti belajar membantu guru meninjau kegiatan dan bantuan yang diberikan.](assets/komponen.svg)
 
 ### Kasus ilustratif
 
-Guru ingin mengembangkan kerja sama. Ia memberi setiap anak lembar tugas yang sama, melarang berbicara, lalu menilai anak yang paling cepat selesai sebagai yang paling berhasil.
+Bagaimana mengetahui bahwa rancangan kegiatan benar-benar memberi kesempatan belajar?
+
+Setelah melihat gambar kota, anak diminta mewarnai bangunan pada lembar masing-masing. Guru lain memakai gambar yang sama untuk mengajak kelompok menyusun kota balok dan menghubungkan rumah dengan pasar.
 
 ![Pendidik menunjukkan gambar kota bersama tetapi anak mengerjakan lembar individual; adegan lain menunjukkan anak membangun kota balok secara kolaboratif.](assets/scenes/komponen.webp)
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+### Pembahasan
 
-### Amati adegan
-
-- Apakah tugas pada adegan pertama memberi kesempatan bekerja sama?
-
-- Bukti apa yang lebih sesuai untuk tujuan kolaborasi?
-
-![Asesmen memeriksa tujuan melalui pengalaman yang benar-benar memberi kesempatan menampilkan kemampuan.](assets/komponen.svg)
-
-Keselarasan menghubungkan tujuan, pengalaman, dukungan, dan asesmen. Kegiatan yang menarik tetap perlu diperiksa kesesuaiannya dengan tujuan.
-
-### Pendidikan sebagai hubungan antarkomponen
-
-Komponen pendidikan mencakup peserta didik, pendidik, tujuan, isi, metode, lingkungan, sarana, dan penilaian. Daftar ini berguna bila hubungan di antaranya dianalisis. Tujuan memandu pilihan pengalaman; pengalaman membuka tindakan anak; pengamatan memberi informasi untuk tindak lanjut. Kelengkapan alat belum menjamin hubungan tersebut berjalan baik.
-
-Misalnya, balok yang mahal tidak otomatis mendukung kerja sama. Jika hanya seorang anak boleh menyentuhnya, kesempatan partisipasi tetap sempit. Sebaliknya, bahan sederhana dapat menjadi sumber pengalaman yang kaya ketika guru mengatur penggunaan dan percakapan secara tepat.
-
-### Tujuan, isi, dan metode
-
-Isi adalah apa yang dipelajari, sedangkan metode berkaitan dengan cara mengorganisasi pengalaman. Tujuan berbagi peran membutuhkan kesempatan bernegosiasi dan bertindak bersama. Tugas individual dapat berguna untuk tujuan lain, tetapi tidak cukup menjadi bukti kerja sama. Perencanaan perlu menyatakan hubungan tersebut secara masuk akal, bukan sekadar mengisi kolom administrasi.
-
-Usulan kegiatan: kelompok kecil membuat kebun mini dengan pembagian tugas yang fleksibel. Guru membantu anak membicarakan alat dan giliran. Jumlah anggota, waktu, serta bahan disesuaikan dengan kemampuan kelompok. Contoh ini perlu diuji dalam praktik; tidak ada satu komposisi kelompok yang selalu terbaik.
-
-### Pendidik dan lingkungan
-
-Pendidik merancang kondisi, memberi teladan, mengamati, dan merespons. Lingkungan mencakup ruang fisik maupun suasana relasional. Rak yang dapat dijangkau memberi kemungkinan kemandirian; respons yang mengejek dapat meniadakan keberanian mencoba meskipun alat tersedia. Kondisi fisik dan interaksi perlu dinilai bersama.
-
-Standar proses merupakan rujukan penyelenggaraan, tetapi materi kuliah ini tidak menyamakan kepatuhan dokumen dengan mutu pengalaman anak. Mahasiswa perlu melihat apakah kesempatan yang direncanakan benar-benar tersedia bagi semua anak (Permendikdasmen 1/2026).
-
-### Penilaian sebagai informasi
-
-Penilaian dapat membantu pendidik menentukan dukungan berikutnya. Jika tujuannya bernegosiasi, data yang lebih relevan ialah percakapan, pembagian peran, dan cara menyelesaikan perbedaan. Produk yang rapi atau cepat selesai belum memadai. Pisahkan deskripsi peristiwa dari interpretasi: “A menawarkan sekop kepada B” lebih dapat diperiksa daripada “A anak baik”.
-
-Permendikbudristek 21/2022 menjadi rujukan standar penilaian. Pada tingkat pengantar, mahasiswa berlatih menentukan bukti dan tindak lanjut, bukan menyusun diagnosis atau sistem tes yang rumit. Satu pengamatan sebaiknya tidak dipakai untuk menetapkan sifat tetap anak.
-
-### Bandingkan tindakan
-
-**A: Tujuan dan tugas terpisah**
-
-Menulis tujuan kerja sama, tetapi melarang interaksi selama tugas.
-
-Kecepatan menyelesaikan lembar tidak menjelaskan kolaborasi.
-
-**B: Menyelaraskan komponen**
-
-Mengajak anak merencanakan bangunan bersama dan mencatat proses negosiasinya.
-
-Bukti: pembagian peran, usul, dan cara menyelesaikan perbedaan.
-
-### Latihan visual
-
-Ubah satu unsur pada adegan pertama agar lebih selaras dengan tujuan kerja sama.
-
-Contoh penalaran: Contoh: ubah tugas menjadi rancangan bersama yang memerlukan keputusan kelompok. Asesmen ikut diubah: amati interaksi, bukan hanya jumlah hasil kerja.
-
-### Analisis
-
-Tujuan kerja sama tidak selaras dengan larangan berinteraksi dan ukuran kecepatan individual. Perbaikan tidak sekadar mengganti lembar kerja dengan permainan; kegiatan perlu benar-benar menyediakan keputusan dan tindakan bersama.
+Jika tujuannya memahami letak, kegiatan kota balok dapat dipakai untuk mengamati tindakan setiap anak. Beri satu instruksi untuk menempatkan benda, pertanyaan tentang alasannya, dan satu susunan baru untuk menguji penerapan.
 
 ### Latihan terbimbing
 
-Isi empat kolom: tujuan, kesempatan anak, bukti, tindak lanjut. Contoh awal: tujuan bernegosiasi; kesempatan memilih alat bersama. Tentukan bukti percakapan dan dukungan saat satu anak selalu mendominasi.
+Lengkapi urutan untuk kegiatan kota balok: tujuan, isi, tindakan anak, alat, dan bukti. Tentukan perubahan bantuan bila anak masih tertukar antara “di samping” dan “di antara”.
 
 ### Latihan mandiri
 
-Rancang ulang kasus pembuka dalam 300 kata. Jelaskan perubahan kegiatan, peran pendidik, lingkungan, dan penilaian. Sebut satu risiko pelaksanaan serta cara mengamatinya.
+Ambil satu kegiatan PAUD. Jelaskan satu ketidakselarasan antarkomponen, lalu perbaiki rancangan dan tunjukkan cara mengeceknya.
 
 ### Refleksi
 
-Bagian mana dalam rancangan saya yang hanya terlihat menarik tetapi belum jelas hubungannya dengan tujuan?
+Bagaimana catatan saya hari ini akan mengubah kegiatan besok?
 
 ### Referensi
 
@@ -682,207 +430,129 @@ Bagian mana dalam rancangan saya yang hanya terlihat menarik tetapi belum jelas 
 
 - Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. (2022). Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Nomor 21 Tahun 2022 tentang Standar Penilaian Pendidikan pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://peraturan.bpk.go.id/Details/224425/permendikbudriset-no-21-tahun-2022
 
-- Republik Indonesia. (2021). Peraturan Pemerintah Nomor 57 Tahun 2021 tentang Standar Nasional Pendidikan, sebagaimana diubah dengan Peraturan Pemerintah Nomor 4 Tahun 2022. https://pmp.kemendikdasmen.go.id/sistem/hukum
+- Black, P., & Wiliam, D. (1998). Assessment and classroom learning. Assessment in Education: Principles, Policy & Practice, 5(1), 7–74. https://doi.org/10.1080/0969595980050102
 
 <a id="lingkungan"></a>
 
 ## 7. Lingkungan dan pusat pendidikan
 
-Membaca hubungan keluarga, satuan pendidikan, dan masyarakat tanpa menyalahkan satu pihak.
+Menjelaskan hubungan rumah, satuan pendidikan, dan masyarakat melalui trisentra dan ekologi perkembangan.
 
 ### Tujuan
 
-- Menjelaskan pendidikan formal, nonformal, dan informal.
+- Membedakan trisentra pendidikan dan jalur pendidikan
 
-- Menganalisis hubungan keluarga–sekolah melalui perspektif ekologis.
+- Mengidentifikasi lingkungan langsung dan hubungan antarlingkungan
 
-- Menyusun komunikasi yang berbasis pengamatan dan menghargai keluarga.
+- Merancang kemitraan yang terjangkau keluarga
 
-### Pemantik
+### Pusat pendidikan dan jalur pendidikan
 
-Mengapa perilaku anak dapat berbeda antara rumah dan sekolah?
+Gagasan trisentra dari Ki Hadjar Dewantara membantu melihat alam keluarga, perguruan, dan pergerakan pemuda sebagai tempat yang saling mendukung dalam pendidikan. Dalam penerapan saat ini, gagasan tersebut dapat dibaca melalui peran keluarga, satuan pendidikan, dan masyarakat. Pasal 13 UU No. 20 Tahun 2003 membedakan jalur formal, nonformal, dan informal. Jalur merupakan kategori penyelenggaraan. Keluarga memberi pengalaman informal sehari-hari, sementara masyarakat juga dapat menyelenggarakan layanan nonformal. Kedua kerangka dipakai untuk menjawab pertanyaan berbeda.
+
+### Mikrosistem dan mesosistem
+
+Dalam ekologi perkembangan Bronfenbrenner (1979), mikrosistem adalah lingkungan tempat anak terlibat langsung melalui kegiatan, peran, dan hubungan. Rumah bersama nenek serta kelompok bermain di satuan PAUD merupakan dua contoh. Mesosistem menunjuk hubungan di antara lingkungan langsung itu. Ketika keluarga dan guru bertukar informasi tentang istilah tanaman, hubungan kedua lingkungan dapat memperluas kesempatan anak bercerita. Pengaruh lingkungan yang lebih luas juga dapat muncul secara tidak langsung, misalnya jadwal kerja pengasuh mengubah peluang bertemu guru.
+
+### Proses, pribadi, konteks, dan waktu
+
+Model bioekologis Bronfenbrenner dan Morris (2006) memberi perhatian pada proses proksimal, yaitu interaksi timbal balik yang berulang dengan orang, benda, atau simbol di lingkungan dekat. Analisisnya juga mempertimbangkan karakteristik orang, konteks, dan waktu. Membawa satu gambar memberi kesempatan untuk membuka percakapan. Untuk menelaah proses yang berlangsung, lihat bagaimana anak dan orang dewasa berulang kali bertukar pertanyaan, pengalaman, dan cara menyelidiki tanaman.
+
+### Hubungan dengan keluarga perlu dirancang
+
+Guru dapat mengundang cerita atau gambar tanpa mewajibkan keluarga membeli bahan atau datang pada jam kerja. Anak dapat menggunakan istilah dari rumah, lalu belajar padanannya ketika berkomunikasi dengan teman. Informasi dibagikan sesuai kebutuhan pendidikan dan dengan menghormati privasi keluarga. Kemitraan kemudian dinilai dari kualitas pertukaran dan peluang yang diperoleh anak.
+
+![Hubungan rumah dan satuan terlihat melalui pertukaran yang menghubungkan pengalaman anak.](assets/lingkungan.svg)
 
 ### Kasus ilustratif
 
-Anak berbicara lancar dalam bahasa daerah di rumah, tetapi jarang berbicara di RA. Guru menyimpulkan keluarga kurang menstimulasi. Orang tua merasa anak tidak diberi kesempatan menggunakan bahasa yang dikenalnya.
+Apa yang berubah ketika pengalaman rumah dan satuan PAUD saling terhubung?
+
+Anak berbincang dengan nenek tentang daun di sekitar rumah. Keesokan hari ia membawa gambar daun ke satuan PAUD. Nenek bercerita kepada guru bahwa anak biasa menyebut tanaman itu dalam bahasa keluarganya.
 
 ![Anak berbicara dengan nenek tentang daun di rumah; di sekolah, anak membawa daun dan gambar sementara nenek berbicara dengan pendidik.](assets/scenes/lingkungan.webp)
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+### Pembahasan
 
-### Amati adegan
-
-- Sumber pengalaman apa yang dibawa dari rumah?
-
-- Apa yang dapat dipelajari pendidik dari percakapan dengan keluarga?
-
-![Pengalaman anak dipengaruhi hubungan antarlingkungan; diam di satu tempat tidak cukup menjelaskan seluruh kemampuannya.](assets/lingkungan.svg)
-
-Diagram menyederhanakan hubungan rumah–lembaga dan konteks sosial. Ini bukan gambar lengkap seluruh lapisan teori ekologi Bronfenbrenner. Perhatikan juga hubungan antarlingkungan dan perubahan sepanjang waktu.
-
-### Jalur dan lingkungan pendidikan
-
-UU 20/2003 membedakan jalur formal, nonformal, dan informal. Keluarga, satuan pendidikan, serta masyarakat memberikan pengalaman yang dapat saling melengkapi. Namun, jalur pendidikan adalah kategori penyelenggaraan, sedangkan lingkungan menunjuk konteks hubungan dan pengalaman. Keduanya tidak selalu dapat dipetakan secara satu lawan satu.
-
-Anak dapat mengalami pembelajaran di rumah melalui percakapan keluarga, kegiatan keagamaan di masyarakat, serta program pada lembaga formal. Kualitas pengalaman tidak ditentukan hanya oleh jalurnya. Pertanyaan pedagogisnya ialah kesempatan apa yang tersedia dan bagaimana hubungan antarlingkungan mendukung anak.
-
-### Perspektif ekologis
-
-Bronfenbrenner (1979) menjelaskan perkembangan dengan memperhatikan hubungan manusia dan lingkungan. Kerangka ekologis membantu melihat lingkungan terdekat, hubungan antarlingkungan, serta pengaruh konteks yang lebih luas. Untuk mata kuliah ini, gunakan kerangka tersebut sebagai alat memetakan situasi, bukan sebagai klaim bahwa satu faktor pasti menyebabkan perilaku tertentu.
-
-Pada kasus bahasa, hubungan rumah dan RA penting. Jadwal kerja orang tua, bahasa kelas, respons teman, dan kebiasaan guru dapat memengaruhi kesempatan berbicara. Guru memerlukan informasi dari beberapa situasi sebelum menyimpulkan ada masalah pada anak atau keluarga.
-
-### Komunikasi yang menghargai keluarga
-
-Komunikasi sebaiknya dimulai dari deskripsi khusus: pada kegiatan bercerita anak lebih sering menunjuk daripada berbicara. Lanjutkan dengan pertanyaan terbuka tentang pengalaman di rumah. Hindari pernyataan keluarga tidak peduli hanya karena tidak hadir pada rapat. Ketidakhadiran dapat terkait pekerjaan, transportasi, atau bentuk komunikasi yang kurang terjangkau.
-
-Usulan praktik: sepakati satu tujuan sederhana dan saluran komunikasi yang memungkinkan. Guru dapat mengenalkan beberapa kata yang akrab bagi anak, sedangkan keluarga memberi informasi minatnya. Kerja sama tidak mengharuskan semua keluarga mengikuti satu pola partisipasi yang sama.
-
-### Komunitas dan layanan terpadu
-
-Perpres 60/2013 memberi dasar pengembangan AUD holistik-integratif. Dalam praktik pendidikan, guru perlu mengenali kapan dukungan melibatkan keluarga dan layanan lain. Pendidik dapat menyampaikan pengamatan, membantu koordinasi sesuai prosedur, dan menjaga kerahasiaan; ia tidak mengambil peran diagnosis di luar kompetensinya.
-
-Mahasiswa dapat membuat peta sumber dukungan di lingkungan lembaga: layanan kesehatan, kegiatan perpustakaan, ruang bermain, dan komunitas. Peta itu harus diperiksa keberadaannya sebelum disebut tersedia. Tujuannya memahami tanggung jawab bersama, bukan memindahkan semua masalah kepada orang tua.
-
-### Bandingkan tindakan
-
-**A: Menyimpulkan dari satu tempat**
-
-Menganggap anak tidak mampu berbahasa karena diam di RA.
-
-Bahasa rumah, rasa aman, dan situasi komunikasi belum diketahui.
-
-**B: Menghubungkan konteks**
-
-Mendengar cerita keluarga dan menggunakan benda akrab sebagai jembatan percakapan.
-
-Bandingkan respons anak dalam beberapa situasi.
-
-### Latihan visual
-
-Rumuskan satu pertanyaan kepada keluarga yang membuka informasi tanpa menyalahkan.
-
-Contoh penalaran: Contoh: “Dalam kegiatan apa ia paling banyak bercerita di rumah, dan bahasa apa yang biasa dipakai?” Informasi itu membantu merancang dukungan, bukan memberi label kepada keluarga.
-
-### Analisis
-
-Perbedaan bahasa dan situasi merupakan penjelasan yang perlu diperiksa. Tidak cukup bukti untuk menuduh keluarga kurang menstimulasi. Langkah awal adalah mendengar informasi rumah, mengamati konteks kelas, dan membuka jalur partisipasi yang lebih akrab.
+Guru dapat mengajak anak membandingkan bentuk daun, meminta ia menjelaskan sebutan yang dipakai di rumah, dan mengundang keluarga menambahkan informasi bila memungkinkan. Bukti awalnya ialah apakah pengetahuan dari rumah dipakai dalam percakapan kelas.
 
 ### Latihan terbimbing
 
-Tulis ulang pesan “anak Ibu tidak aktif” menjadi pesan berbasis fakta. Gunakan urutan: situasi, perilaku teramati, pertanyaan kepada keluarga, dan usulan kecil yang dapat ditinjau bersama.
+Buat peta rumah, kelompok PAUD, dan taman setempat. Tandai dua lingkungan yang dialami langsung anak dan jelaskan satu hubungan di antara keduanya.
 
 ### Latihan mandiri
 
-Buat peta tiga lingkungan seorang anak rekaan. Jelaskan satu hubungan yang mendukung dan satu yang menghambat partisipasi. Usulkan komunikasi tanpa menyalahkan pihak tertentu.
+Rancang komunikasi sekolah–keluarga untuk satu kegiatan observasi lingkungan. Sertakan cara berpartisipasi bagi keluarga yang memiliki akses internet atau waktu terbatas.
 
 ### Refleksi
 
-Bentuk keterlibatan keluarga apa yang selama ini tidak saya anggap sebagai dukungan pendidikan?
+Pengetahuan keluarga apa yang selama ini belum terhubung dengan pengalaman belajar di kelas?
 
 ### Referensi
 
 - Republik Indonesia. (2003). Undang-Undang Nomor 20 Tahun 2003 tentang Sistem Pendidikan Nasional. https://peraturan.bpk.go.id/Details/43920/uu-no-20-tahun-2003
 
+- Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. (2022). Panduan implementasi bimbingan dan konseling untuk jenjang pendidikan dasar dan menengah. https://kurikulum.kemendikdasmen.go.id/wp-content/uploads/2022/09/V6.-Panduan-BK.pdf
+
 - Bronfenbrenner, U. (1979). The ecology of human development: Experiments by nature and design. Harvard University Press. https://www.jstor.org/stable/j.ctv26071r6
 
-- Republik Indonesia. (2013). Peraturan Presiden Nomor 60 Tahun 2013 tentang Pengembangan Anak Usia Dini Holistik-Integratif. https://peraturan.bpk.go.id/Details/41430/perpres-no-60-tahun-2013
+- Bronfenbrenner, U., & Morris, P. A. (2006). The bioecological model of human development. In R. M. Lerner (Ed.), Handbook of child psychology: Vol. 1. Theoretical models of human development (6th ed., pp. 793–828). Wiley. https://doi.org/10.1002/9780470147658.chpsy0114
 
 <a id="paud"></a>
 
 ## 9. PAUD dalam sistem pendidikan nasional
 
-Memahami layanan PAUD, kebutuhan holistik, dan transisi pendidikan tanpa mempersempitnya menjadi persiapan tes SD.
+Membedakan jalur layanan, kedudukan RA, dan pengembangan anak usia dini holistik-integratif.
 
 ### Tujuan
 
-- Membedakan bentuk layanan PAUD dalam kerangka hukum Indonesia.
+- Menjelaskan kedudukan layanan PAUD dan RA
 
-- Menjelaskan kebutuhan holistik dan hubungan PAUD dengan pendidikan selanjutnya.
+- Membedakan standar, kurikulum, dan koordinasi PAUD HI
 
-- Menganalisis program melalui tujuan, proses, dan kebutuhan anak.
+- Merancang pembagian peran untuk kasus satu anak
 
-### Pemantik
+### PAUD sebagai upaya pembinaan
 
-Apakah PAUD merupakan versi sekolah dasar yang dipercepat?
+UU No. 20 Tahun 2003 Pasal 1 angka 14 menempatkan PAUD pada rentang sejak lahir sampai usia enam tahun. Pasal 28 menerangkan kedudukannya sebelum pendidikan dasar serta penyelenggaraan melalui jalur formal, nonformal, dan informal. Pada jalur formal terdapat TK, RA, atau bentuk lain yang sederajat. Kelompok Bermain dan Taman Penitipan Anak termasuk bentuk nonformal, sedangkan pendidikan keluarga atau yang diselenggarakan oleh lingkungan termasuk jalur informal.
+
+### Standar nasional, kurikulum, dan RA
+
+Standar nasional memberi kriteria penyelenggaraan. Kurikulum mengatur arah dan kerangka pembelajaran. Untuk PAUD, baca standar kompetensi lulusan dan standar isi sesuai lingkup PAUD, serta dokumen capaian pembelajaran yang relevan. Untuk RA, pedoman implementasi kurikulum Kementerian Agama dibaca secara khusus, termasuk KMA No. 450 Tahun 2024 sebagaimana diubah melalui KMA No. 1503 Tahun 2025. Pemilihan dokumen dimulai dengan memastikan satuan, jalur, lingkup, dan ketentuan yang sedang dirujuk.
+
+### Holistik-integratif sebagai koordinasi
+
+Perpres No. 60 Tahun 2013 tentang Pengembangan Anak Usia Dini Holistik-Integratif mengarahkan pemenuhan kebutuhan esensial anak secara terpadu. Dimensi layanan meliputi pendidikan, kesehatan dan gizi, pengasuhan, perlindungan, dan kesejahteraan. Holistik melihat kebutuhan anak sebagai satu kesatuan. Integratif menghubungkan pihak yang memiliki mandat berbeda. Guru mengamati partisipasi dan kebutuhan belajar, keluarga menyampaikan informasi yang relevan, dan tenaga kesehatan melakukan pemeriksaan sesuai kewenangan.
+
+### Menerjemahkan kebijakan ke praktik
+
+Guru dapat mencatat kapan anak tampak lelah, kegiatan yang tetap menarik minatnya, dan penyesuaian yang membantu partisipasinya. Keluarga dan pihak yang berwenang dapat membahas dukungan dengan menghormati kerahasiaan. Kebijakan memberi kerangka kerja, sedangkan keputusan kelas tetap memerlukan informasi tentang anak dan sumber daya setempat. Untuk pengantar konsep PAUD Indonesia, lihat Suyadi dan Ulfah (2013), dengan ketentuan mutakhir dibaca melalui sumber resmi.
+
+![Layanan holistik-integratif menghubungkan kebutuhan anak melalui koordinasi antarpihak.](assets/paud.svg)
 
 ### Kasus ilustratif
 
-Dua lembaga menawarkan program berbeda. Lembaga A menonjolkan latihan akademik harian. Lembaga B menyediakan bermain, percakapan, perawatan diri, dan kegiatan agama, tetapi orang tua meminta penjelasan tentang arah belajarnya.
+Bagaimana satuan PAUD merespons kebutuhan anak yang melintasi layanan?
+
+Seorang anak di RA tetap ingin bermain setelah kegiatan dimulai, tetapi ia beberapa kali tampak lelah dan keluarganya menanyakan layanan pemantauan tumbuh kembang. Guru mendiskusikan dukungan bersama keluarga dan petugas kesehatan yang berwenang.
 
 ![Pendidik, orang tua, dan tenaga kesehatan berdiskusi; anak bermain balok di dekat meja makanan dan tempat cuci tangan.](assets/scenes/paud.webp)
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+### Pembahasan
 
-### Amati adegan
-
-- Kebutuhan anak apa saja yang tampak?
-
-- Bagian mana memerlukan koordinasi di luar peran guru?
-
-![Kebutuhan anak dihubungkan melalui koordinasi layanan; setiap pihak bekerja sesuai perannya.](assets/paud.svg)
-
-PAUD holistik-integratif menghubungkan kebutuhan esensial anak dan layanan yang saling melengkapi. Diagram merangkum Perpres 60/2013 secara pedagogis; tidak berarti semua layanan wajib diberikan sendiri oleh guru.
-
-### Pengertian dan bentuk layanan
-
-UU 20/2003 menempatkan PAUD sebagai upaya pembinaan bagi anak sejak lahir sampai usia enam tahun melalui rangsangan pendidikan. Pasal 28 membedakan penyelenggaraan melalui jalur formal, nonformal, dan informal. TK dan RA berada pada jalur formal; KB dan TPA merupakan contoh pada jalur nonformal; pendidikan keluarga termasuk jalur informal.
-
-Batas yuridis ini harus dibedakan dari cakupan literatur internasional yang dapat menggunakan rentang lahir hingga delapan tahun. Perbedaan rentang tidak selalu menunjukkan pertentangan konsep, melainkan konteks penggunaan. Mahasiswa perlu menyebut definisi yang sedang digunakan.
-
-### Kebutuhan holistik
-
-Anak mengalami perkembangan sebagai pribadi utuh. Kegiatan belajar berhubungan dengan rasa aman, kesehatan, relasi, bahasa, dan kesempatan bergerak. Perpres 60/2013 menempatkan pengembangan AUD dalam layanan lintas sektor. Guru berperan pada pendidikan serta koordinasi yang sesuai kewenangannya.
-
-Untuk menilai program, ajukan pertanyaan praktis: apakah anak dapat beristirahat ketika perlu, memperoleh bantuan, berkomunikasi, dan ikut kegiatan? Kualitas tidak cukup dinilai dari dekorasi atau banyaknya hasil karya. Satu program juga tidak dapat mengklaim memenuhi seluruh kebutuhan hanya karena memiliki kegiatan yang beragam.
-
-### Standar, kurikulum, dan konteks RA
-
-Standar nasional memberi acuan, sedangkan kurikulum membantu mengorganisasi pengalaman pendidikan. Bacaan inti meliputi PP 57/2021 beserta perubahannya, standar lulusan 10/2025, standar isi 12/2025, serta aturan kurikulum 12/2024 yang diubah melalui 13/2025. Untuk RA, baca KMA 450/2024 bersama perubahan KMA 1503/2025.
-
-Mahasiswa tidak dituntut menghafal semua nomor. Latih kemampuan mencari dokumen, mengenali bagian PAUD/RA, dan menjelaskan konsekuensinya. Jangan menggunakan tabel perkembangan atau aturan lama sebagai ketentuan terkini tanpa memeriksa hubungan peraturannya.
-
-### Transisi dan keberlanjutan belajar
-
-Transisi ke SD/MI perlu dipahami sebagai proses penyesuaian pengalaman, bukan perlombaan mempercepat materi. Kemampuan bahasa, interaksi, perawatan diri, dan partisipasi memberi konteks bagi kegiatan akademik. Mengenalkan literasi dan numerasi tetap relevan jika pengalaman bermakna dan dukungannya sesuai.
-
-Usulan komunikasi kepada keluarga: jelaskan tujuan kegiatan, tunjukkan contoh bukti, dan beri gambaran perkembangan yang masih memerlukan dukungan. Lembaga B tidak cukup berkata “anak hanya perlu bermain”. Ia perlu menunjukkan bagaimana pengalaman bermain dan keseharian dirancang serta diamati. Lembaga A juga perlu dinilai dari proses aktual, bukan semata label akademik.
-
-### Bandingkan tindakan
-
-**A: Belajar dipersempit menjadi latihan**
-
-Mengisi sebagian besar kegiatan dengan latihan akademik seragam.
-
-Kebutuhan pengasuhan, kesehatan, gizi, dan perlindungan belum dipertimbangkan.
-
-**B: Menghubungkan layanan**
-
-Merancang bermain dan rutinitas sehat, berkomunikasi dengan keluarga serta layanan terkait.
-
-Catat kebutuhan dan tindak lanjut sesuai kewenangan masing-masing.
-
-### Latihan visual
-
-Pilih kebutuhan dalam ilustrasi yang memerlukan kolaborasi. Siapa yang dapat diajak bekerja sama?
-
-Contoh penalaran: Contoh: persoalan gizi dibicarakan dengan keluarga dan layanan kesehatan sesuai konteks. Pendidik mengamati dan berkoordinasi; tidak menetapkan diagnosis atau menggantikan tenaga kesehatan.
-
-### Analisis
-
-Kedua program memerlukan pemeriksaan bukti. Menonjolkan latihan akademik dapat mempersempit tujuan, sedangkan menyediakan kegiatan beragam belum menjamin arah belajar jelas. Pilihan yang dapat dipertanggungjawabkan menjelaskan kebutuhan, pengalaman, dan cara meninjau perkembangan.
+Guru menyesuaikan durasi atau memberi pilihan posisi bermain sambil mendokumentasikan pengamatan. Dengan keluarga, satuan menyepakati kapan membahas kembali dan bagaimana menghubungi layanan yang memang berwenang bila diperlukan.
 
 ### Latihan terbimbing
 
-Pilih satu regulasi pada daftar referensi. Catat judul, jenis, bagian relevan, dan satu implikasi bagi kegiatan RA. Pisahkan bunyi ketentuan dari usulan penerapan Anda sendiri.
+Kelompokkan contoh tindakan dalam kasus berdasarkan kewenangan guru, keluarga, dan tenaga kesehatan. Jelaskan siapa yang mengoordinasikan tindak lanjut di tingkat satuan.
 
 ### Latihan mandiri
 
-Buat penjelasan 300 kata untuk keluarga tentang fungsi PAUD. Sertakan contoh literasi, relasi sosial, dan kemandirian serta satu rujukan hukum. Hindari janji semua anak akan mencapai kemampuan yang sama.
+Susun peta layanan sekitar satu RA untuk pendidikan, kesehatan, dan perlindungan. Tulis satu alur komunikasi yang menjaga kerahasiaan anak.
 
 ### Refleksi
 
-Apakah saya menilai pendidikan anak hari ini hanya dari manfaatnya untuk jenjang berikutnya?
+Tindakan apa yang dapat saya ambil di kelas sembari menunggu informasi dari pihak lain?
 
 ### Referensi
 
@@ -894,107 +564,71 @@ Apakah saya menilai pendidikan anak hari ini hanya dari manfaatnya untuk jenjang
 
 - Kementerian Pendidikan Dasar dan Menengah. (2025). Peraturan Menteri Pendidikan Dasar dan Menengah Nomor 10 Tahun 2025 tentang Standar Kompetensi Lulusan pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://peraturan.go.id/id/permendikdasmen-no-10-tahun-2025
 
-- Kementerian Pendidikan Dasar dan Menengah. (2025). Peraturan Menteri Pendidikan Dasar dan Menengah Nomor 12 Tahun 2025 tentang Standar Isi pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://www.kemendikdasmen.go.id/pengumuman/13208-permendikdsmen-no-12-tahun-2025-tentang-standar-isi-pada-pau
+- Kementerian Pendidikan Dasar dan Menengah. (2025). Peraturan Menteri Pendidikan Dasar dan Menengah Nomor 12 Tahun 2025 tentang Standar Isi pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://jdih.kemendikdasmen.go.id/sjdih/siperpu/dokumen/salinan/Permendikdasmen_No_12_Tahun_2025_ttg_Standar_Isi_pada_Pe.pdf
 
 - Kementerian Pendidikan Dasar dan Menengah. (2025). Peraturan Menteri Pendidikan Dasar dan Menengah Nomor 13 Tahun 2025 tentang Perubahan atas Permendikbudristek Nomor 12 Tahun 2024 tentang Kurikulum pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://peraturan.bpk.go.id/Details/322506/permendikdasmen-no-13-tahun-2025
 
+- Badan Standar, Kurikulum, dan Asesmen Pendidikan. (2025). Keputusan Kepala BSKAP Nomor 046/H/KR/2025 tentang Capaian Pembelajaran pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://bpmpbabel.kemendikdasmen.go.id/PPID/wp-content/uploads/2025/07/KepKaBSKAP-046_2025-ttg-CP.pdf
+
 - Kementerian Agama. (2025). Keputusan Menteri Agama Nomor 1503 Tahun 2025 tentang Perubahan atas Keputusan Menteri Agama Nomor 450 Tahun 2024 tentang Pedoman Implementasi Kurikulum pada Raudhatul Athfal, Madrasah Ibtidaiyah, Madrasah Tsanawiyah, Madrasah Aliyah, dan Madrasah Aliyah Kejuruan. https://jdih.kemenag.go.id/regulation/keputusan-menteri-agama-nomor-1503-tahun-2025-tentang-perubahan-atas-keputusan-menteri-agama-nomor-450-tahun-2024-tentang-pedoman-implementasi-kurikulum-kurikulum-pada-raudhatul-athfal-madrasah-ibtidaiyah-madrasah-tsanawiyah-madrasah-aliyah-dan-madrasah-aliyah-kejuruan
+
+- Suyadi, & Ulfah, M. (2013). Konsep dasar PAUD. Remaja Rosdakarya. https://www.rosda.id/konsep-dasar-paud/
 
 <a id="islam"></a>
 
-## 10. Nilai Islam dan tanggung jawab pendidikan
+## 10. Nilai Islam dalam pendidikan anak usia dini
 
-Menerjemahkan kasih sayang, adab, keteladanan, dan tanggung jawab ke dalam pengalaman anak.
+Menerjemahkan nilai ke dalam teladan, pembiasaan, dialog, dan tindakan anak.
 
 ### Tujuan
 
-- Membedakan sumber normatif, penafsiran, dan keputusan pedagogis.
+- Menguraikan pesan pendidikan dalam nasihat Luqman
 
-- Menghubungkan nilai Islam dengan hubungan dan pengalaman pendidikan.
+- Membedakan pembiasaan, keteladanan, dan dialog
 
-- Mengkritisi penyempitan pendidikan agama menjadi hafalan dan kepatuhan.
+- Memilih bukti perilaku yang relevan dengan tujuan nilai
 
-### Pemantik
+### Nasihat Luqman sebagai sumber nilai
 
-Bagaimana pendidikan agama tampak dalam cara guru memperlakukan anak?
+Al-Qur’an Surah Luqman 31:13–19 memuat nasihat dalam relasi orang tua dan anak, dengan tema tauhid, syukur, tanggung jawab, kesabaran, serta sikap kepada orang lain. Bagian ini dapat menjadi sumber untuk membahas arah pendidikan Islam. Mahasiswa perlu membedakan isi normatif ayat, tafsir, dan pilihan pedagogis yang mereka usulkan. Misalnya, guru menghubungkan syukur dengan merawat makanan yang diterima. Hubungan tersebut perlu dijelaskan dengan bahasa dan tindakan yang dapat dijangkau anak.
+
+### Kebiasaan membuka kesempatan memahami
+
+Pembiasaan memberi struktur dan kesempatan mengulang tindakan. Keteladanan membuat nilai terlihat pada perilaku nyata pendidik. Dialog memberi anak kesempatan menghubungkan tindakan dengan alasan dan akibat yang dekat dengan pengalaman. Ketiganya dapat digunakan saat makan. Anak mengenali urutan persiapan, melihat guru menawari bantuan dengan sopan, dan bercakap tentang bagaimana memastikan semua teman bisa makan dengan nyaman.
+
+### Memilih tujuan dan membaca bukti
+
+Tujuan perlu cukup jelas agar guru tahu pengalaman apa yang akan disediakan dan informasi apa yang bermakna. Mengikuti lafal doa menunjukkan kemampuan berpartisipasi dalam satu rutinitas. Menawarkan bantuan dan menyebut alasan memberi informasi tentang respons sosial dalam situasi tertentu. Guru dapat mencatat tindakan itu dengan konteksnya dan menyediakan kesempatan lain untuk bertindak. Perkembangan nilai memerlukan pengamatan yang proporsional terhadap apa yang tampak.
+
+### Martabat anak dan peran RA
+
+Kurikulum RA mengikuti pedoman yang berlaku pada satuannya. Pendidik dapat memilih contoh nilai Islam dari percakapan dan kegiatan nyata sekaligus menjaga martabat dan perlindungan anak. Bila anak diam saat doa, guru dapat memberi waktu, mencontohkan dengan tenang, atau menawarkan partisipasi bertahap. Saat makanan tumpah, guru dapat menunjukkan cara membersihkan dan mengajak anak membantu sesuai kemampuan. Tindakan guru memberi contoh tanggung jawab dalam keadaan sehari-hari.
+
+![Arah nilai diterjemahkan menjadi teladan, rutinitas, dan percakapan yang berulang.](assets/islam.svg)
 
 ### Kasus ilustratif
 
-Seorang anak belum lancar mengucapkan doa. Guru membandingkannya dengan teman yang sudah hafal. Anak kemudian menolak mengikuti kegiatan. Guru lain mengajak kelompok kecil berdoa sambil menjelaskan makna syukur melalui pengalaman makan bersama.
+Bagaimana rutinitas doa dapat dihubungkan dengan pengalaman memahami nilai?
+
+Sebelum makan, beberapa anak mengikuti doa bersama. Saat satu anak lupa membawa buah, temannya menawarkan sebagian. Guru bertanya apa yang membuat temannya memilih berbagi.
 
 ![Anak dan pendidik berdoa sebelum makan, seorang anak memperhatikan; kemudian anak berbagi buah dan membantu merapikan meja.](assets/scenes/islam.webp)
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+### Pembahasan
 
-### Amati adegan
-
-- Bentuk partisipasi apa yang tampak selain melafalkan doa?
-
-- Bagaimana nilai syukur dapat hadir dalam tindakan sehari-hari?
-
-![Nilai hadir melalui relasi dan pengalaman; hafalan bukan satu-satunya indikator pendidikan akhlak.](assets/islam.svg)
-
-Visual menghubungkan arah nilai, keteladanan, pengalaman, dan refleksi. Kemampuan melafalkan doa tidak digunakan sebagai ukuran tunggal akhlak atau keimanan anak.
-
-### Nilai sebagai arah pendidikan
-
-Dalam PIAUD, dimensi Islam memberi orientasi mengenai hubungan dengan Allah, sesama manusia, dan lingkungan. Pendidikan nilai perlu terlihat pada tujuan dan cara memperlakukan anak. Materi ini menempatkan kasih sayang, keteladanan, adab, serta tanggung jawab sebagai tema untuk analisis pedagogis; ia tidak menggantikan kajian tafsir, hadis, atau fikih.
-
-Bedakan tiga lapis: sumber normatif, pemahaman atas sumber, dan bentuk kegiatan. Satu nilai dapat diwujudkan melalui beberapa kegiatan. Karena itu, keputusan metode perlu mempertimbangkan karakteristik anak dan konteks, tidak cukup dibenarkan oleh tujuan religius yang dinyatakan guru.
-
-### Membaca sumber secara bertanggung jawab
-
-Surah Luqman ayat 13–19 menjadi bahan pembacaan nilai tentang keyakinan, tanggung jawab, dan perilaku dalam hubungan sosial. Mahasiswa diminta membaca sumber beserta penjelasan yang kredibel, bukan mengambil kalimat terpisah untuk membenarkan tindakan yang telah dipilih. Unit ini tidak mengutip terjemahan panjang atau menyatakan satu tafsir sebagai satu-satunya penjelasan.
-
-Istilah tarbiyah, ta’lim, dan ta’dib dapat dikenalkan sebagai istilah yang dibahas dalam tradisi pendidikan Islam. Jangan memaksakan padanan tunggal dan hierarki universal tanpa sumber yang jelas. Untuk tahap pengantar, lebih penting menjelaskan nilai yang dimaksud serta konsekuensi tindakannya daripada memperbanyak istilah.
-
-### Keteladanan dan pengalaman konkret
-
-Anak mengalami nilai melalui tindakan orang dewasa: mendengarkan, menepati janji, meminta maaf, merawat benda, dan membantu. Usulan pembelajaran adalah menghubungkan ungkapan religius dengan pengalaman keseharian. Syukur dapat dibicarakan saat makan; tanggung jawab saat merapikan; kepedulian saat teman membutuhkan bantuan.
-
-Kegiatan hafalan dapat menjadi bagian pengalaman, tetapi ketepatan lafaz tidak mewakili seluruh perkembangan nilai. Guru perlu melihat pemahaman sederhana dan keterlibatan anak tanpa menilai kedalaman iman dari performa kelas. Hindari membandingkan anak secara mempermalukan. Nilai yang ingin dikembangkan harus konsisten dengan cara pendidik bertindak.
-
-### Pembiasaan, pilihan, dan perlindungan
-
-Pembiasaan membantu membangun rutinitas, namun perlu disertai penjelasan yang dapat dijangkau anak dan respons yang hangat. Kepatuhan karena takut tidak otomatis sama dengan penghayatan. Sebagai rancangan praktis, beri kesempatan mencoba, bantuan pengucapan, serta ruang bertanya. Perbedaan kemampuan tidak dijadikan ukuran kelayakan anak dihargai.
-
-Dalam RA, implementasi kurikulum juga mengacu pada pedoman Kemenag. Kebijakan lembaga, sumber normatif, dan perlindungan anak harus dibaca bersama sesuai fungsinya (KMA 1503/2025; UU 35/2014). Materi ini tidak menetapkan sanksi atau keputusan fikih; fokusnya kualitas pertimbangan calon pendidik.
-
-### Bandingkan tindakan
-
-**A: Menilai melalui hafalan saja**
-
-Menegur anak di depan teman karena belum lancar melafalkan doa.
-
-Lafal diperlakukan seolah cukup mewakili pemahaman dan akhlak.
-
-**B: Meneladankan nilai dengan ramah**
-
-Mengajak berdoa, menjelaskan makna sederhana, berbagi, dan merawat kebersihan.
-
-Amati partisipasi dan kebutuhan bantuan tanpa memberi label keimanan.
-
-### Latihan visual
-
-Hubungkan satu tindakan pada gambar dengan nilai Islam dan satu dukungan konkret pendidik.
-
-Contoh penalaran: Contoh: berbagi buah dikaitkan dengan kepedulian. Pendidik mencontohkan menawarkan kepada teman dan memberi kesempatan anak melakukannya secara bertahap, tanpa mempermalukan.
-
-### Analisis
-
-Perbandingan yang mempermalukan tidak selaras dengan pengalaman pendidikan yang menghargai anak. Guru dapat mempertahankan tujuan mengenalkan doa sambil mengubah dukungan. Kelancaran hafalan dan kualitas pengalaman religius perlu dibedakan.
+Pada kasus makan, guru dapat menghargai niat membantu dan menanyakan kebutuhan teman sebelum berbagi. Di kesempatan lain, amati apakah anak memperhatikan keperluan temannya ketika memakai alat bersama.
 
 ### Latihan terbimbing
 
-Pilih nilai amanah. Lengkapi rantai nilai, pengalaman, tindakan guru, dan bukti yang dapat diamati. Contoh pengalaman: mengembalikan buku pinjaman. Jangan menyimpulkan iman anak dari satu perilaku.
+Pilih satu nilai dari Surah Luqman. Tuliskan contoh teladan guru, rutinitas yang memberi kesempatan mencoba, dan pertanyaan yang dapat dijawab anak dengan bahasanya sendiri.
 
 ### Latihan mandiri
 
-Rancang kegiatan mengenalkan syukur untuk anak 4–6 tahun. Jelaskan sumber normatif, pengalaman konkret, percakapan guru, dan dukungan bagi anak yang belum mau berbicara. Tandai mana interpretasi pedagogis Anda.
+Susun satu skenario penanganan alat bersama yang mengembangkan amanah. Jelaskan sumber nilai, tindakan pendidik, pilihan anak, dan bukti yang dapat diamati.
 
 ### Refleksi
 
-Apakah cara saya mengajarkan nilai sudah menunjukkan nilai yang sama?
+Apakah tindakan saya saat terjadi kesalahan sejalan dengan nilai yang saya ajarkan?
 
 ### Referensi
 
@@ -1004,103 +638,61 @@ Apakah cara saya mengajarkan nilai sudah menunjukkan nilai yang sama?
 
 - Republik Indonesia. (2014). Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak. https://peraturan.bpk.go.id/Details/38723/uu-no-35-tahun-2014
 
-- Suyadi, & Ulfah, M. (2013). Konsep dasar PAUD. Remaja Rosdakarya. https://www.rosda.id/konsep-dasar-paud/
-
 <a id="anak-subjek"></a>
 
 ## 11. Anak sebagai subjek dan relasi pedagogis
 
-Menggabungkan kehangatan, batas, partisipasi, dan dukungan yang adil.
+Menggunakan observasi, partisipasi, dan penyesuaian akses dalam interaksi kelas.
 
 ### Tujuan
 
-- Menjelaskan DAP dan perbedaan kesetaraan dengan dukungan yang adil.
+- Menjelaskan relasi pedagogis yang responsif
 
-- Merancang relasi yang memberi partisipasi sekaligus batas yang jelas.
+- Memeriksa hambatan partisipasi
 
-- Membedakan pengamatan pendidikan dari diagnosis.
+- Merancang penyesuaian tanpa kehilangan tujuan belajar
 
-### Pemantik
+### Relasi pedagogis dalam tindakan
 
-Apakah memperlakukan semua anak sama selalu berarti adil?
+Pertemuan 2 membahas kedudukan anak sebagai subjek. Unit ini menelaah cara guru menjalankan tanggung jawab tersebut melalui interaksi. Relasi pedagogis bersifat asimetris karena guru bertanggung jawab atas lingkungan dan batas keselamatan, sementara anak tetap memiliki suara dan kemungkinan mengambil keputusan. Respons dimulai dari mengamati, memberi waktu, dan memeriksa maksud anak sebelum menambah tuntutan.
+
+### Praktik sesuai perkembangan
+
+NAEYC (2020, 2022) menekankan pola perkembangan umum, keunikan anak, dan konteks budaya serta sosial. Guru dapat memakai ketiganya untuk menafsirkan peristiwa yang sama. Dalam satu kegiatan, diam mungkin berkaitan dengan banyaknya orang, bahasa yang digunakan, atau bentuk tugas yang belum familier. Membandingkan respons saat bercerita dalam pasangan dan kelompok besar memberi informasi yang lebih spesifik untuk merancang dukungan.
+
+### Akses dan tujuan
+
+Tujuan “mengomunikasikan pengalaman” dapat dicapai melalui ucapan, gambar, isyarat, atau alat komunikasi yang digunakan anak. Jika tujuannya memang menggunakan kosakata lisan, guru dapat mulai dari menunjuk, lalu memberi contoh satu kata dan menunggu respons. Prinsip akomodasi yang layak bagi peserta didik penyandang disabilitas dirujuk melalui PP No. 13 Tahun 2020. Penyesuaian pedagogis sehari-hari tetap dapat dilakukan untuk mengurangi hambatan pada semua anak.
+
+### Pengamatan dan penyesuaian
+
+Catat konteks, tindakan guru, dan respons anak. Keterangan “setelah diberi pilihan menunjuk atau berbicara, anak menunjuk gambar pohon dan menyebut ‘besar sekali’” dapat ditindaklanjuti. Guru mungkin mencoba percakapan kelompok kecil atau mengizinkan anak memilih urutan bercerita. Hak untuk didengar memberi dasar normatif bagi praktik tersebut. Bukti partisipasi membantu guru menilai apakah penyesuaian bekerja di kelasnya.
+
+![Guru mempertahankan tujuan sambil mengubah cara anak dapat berpartisipasi.](assets/anak-subjek.svg)
 
 ### Kasus ilustratif
 
-Pada kegiatan bercerita, guru mewajibkan semua anak berbicara sendiri selama dua menit. Anak yang baru mengenal bahasa Indonesia memilih menunjukkan gambar. Guru menolak karena aturan harus sama untuk semua.
+Bagaimana anak dapat bercerita ketika cara berpartisipasi di kelas terlalu sempit?
+
+Saat diminta bercerita di depan kelompok, seorang anak memegang gambar dan diam. Guru duduk sejajar, mengajak anak menunjuk bagian gambar, lalu mendengarkan ketika anak menambahkan dua kata.
 
 ![Anak ragu berbicara di depan kelompok sambil memegang gambar; pendidik duduk sejajar dan memberi kesempatan anak menunjuk gambar untuk bercerita.](assets/scenes/anak-subjek.webp)
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+### Pembahasan
 
-### Amati adegan
-
-- Apa yang tetap menjadi tujuan pada kedua adegan?
-
-- Dukungan apa yang berubah agar anak dapat berpartisipasi?
-
-![Dukungan dapat bervariasi untuk membuka partisipasi; perbedaan cara tidak otomatis berarti perlakuan tidak adil.](assets/anak-subjek.svg)
-
-Kesetaraan tujuan partisipasi dapat memerlukan dukungan yang berbeda. Ilustrasi tidak menunjukkan diagnosis; keputusan dukungan perlu memahami kebutuhan anak.
-
-### Anak sebagai pelaku
-
-Menempatkan anak sebagai subjek berarti mengakui minat, pengalaman, tindakan, dan suaranya dalam pendidikan. Guru tetap memiliki tanggung jawab dan tujuan. Relasi pedagogis bukan hubungan tanpa batas, melainkan hubungan yang mengarahkan perkembangan melalui penghormatan dan dukungan.
-
-Pada contoh kegiatan cerita, tujuan komunikasi dapat dicapai melalui beragam bentuk awal. Menunjuk gambar dapat menjadi pintu masuk percakapan. Guru dapat membantu dengan pertanyaan atau kesempatan bersama teman. Fleksibilitas cara tidak sama dengan menghilangkan tujuan.
-
-### DAP dan keragaman
-
-NAEYC (2020) mengajukan tiga pertimbangan DAP: pola umum perkembangan, individualitas, dan konteks sosial-budaya. Artinya, kesesuaian praktik tidak dapat ditentukan oleh usia saja. Kerangka ini digunakan sebagai alat profesional, bukan pengganti regulasi Indonesia.
-
-Sebagai aplikasi, mahasiswa dapat memeriksa tuntutan kegiatan terhadap bahasa, gerak, pengalaman, dan rasa aman. Seorang anak mungkin memahami cerita tetapi belum nyaman tampil di depan kelompok. Bukti pemahaman dan keberanian tampil perlu dipisahkan agar penilaian tidak menghukum perbedaan yang tidak berkaitan dengan tujuan utama.
-
-### Adil tidak selalu seragam
-
-Perlakuan sama memberi bentuk yang sama kepada semua orang. Dukungan yang adil mempertimbangkan hambatan agar kesempatan berpartisipasi menjadi bermakna. PP 13/2020 memberi landasan akomodasi yang layak bagi peserta didik penyandang disabilitas. Namun, setiap penyesuaian harus terkait kebutuhan, bukan asumsi bahwa semua anak dengan label tertentu sama.
-
-Usulan contoh: gambar penunjang, waktu tunggu, pilihan alat yang mudah digenggam, atau posisi yang memudahkan mendengar. Tentukan tujuan yang dipertahankan dan dukungan yang diubah. Jangan menggunakan akomodasi sebagai alasan mengecualikan anak dari seluruh aktivitas bersama.
-
-### Batas, emosi, dan kewenangan
-
-Ketika anak memukul, pendidik menghentikan tindakan yang membahayakan dan menjaga anak lain. Setelah situasi cukup tenang, bantu anak menyampaikan kebutuhan dan memperbaiki dampak. Mengakui emosi tidak berarti membenarkan semua tindakan. Contoh kalimat: kamu kecewa, tetapi aku tidak membiarkan teman dipukul; mari cari cara meminta giliran.
-
-Guru mencatat perilaku dalam situasi tertentu, bukan menetapkan identitas seperti nakal atau tidak normal. Bila kesulitan berulang memerlukan dukungan lain, komunikasikan pengamatan kepada keluarga dan ikuti jalur rujukan lembaga. Diagnosis merupakan kewenangan profesional terkait, bukan hasil latihan kuliah ini.
-
-### Bandingkan tindakan
-
-**A: Satu cara untuk semua**
-
-Mewajibkan setiap anak berbicara dua menit dengan cara yang sama.
-
-Kemampuan dapat tertutup oleh hambatan cara penyampaian.
-
-**B: Membuka cara partisipasi**
-
-Memberi waktu, pilihan menunjuk gambar, dan pertanyaan yang dapat direspons anak.
-
-Amati gagasan yang dapat dikomunikasikan dengan dukungan tersebut.
-
-### Latihan visual
-
-Bedakan penyesuaian cara berpartisipasi dengan menghilangkan kesempatan belajar anak.
-
-Contoh penalaran: Mengizinkan anak menunjuk gambar tetap membuka kesempatan menyampaikan gagasan. Tidak pernah melibatkannya dalam percakapan justru menghilangkan kesempatan. Dukungan ditinjau secara berkala.
-
-### Analisis
-
-Aturan seragam menghambat tujuan komunikasi ketika bentuk tampil menjadi satu-satunya ukuran. Guru dapat menerima gambar sebagai respons awal dan membantu perluasan bahasa. Periksa perkembangan melalui beberapa kesempatan, tanpa langsung menyimpulkan keterlambatan.
+Menunjuk membuka akses untuk memulai cerita, lalu ucapan dua kata memberi bukti tambahan. Pertahankan tujuan berkomunikasi, coba pengaturan berpasangan, dan bandingkan apa yang dapat disampaikan anak.
 
 ### Latihan terbimbing
 
-Bandingkan dua respons: “semua harus bicara sekarang” dan “kamu boleh mulai dari gambar ini”. Jelaskan tujuan yang sama, bantuan yang berbeda, serta bukti yang masih perlu dikumpulkan.
+Bedakan catatan peristiwa, dugaan, dan perubahan yang dicoba. Gunakan contoh anak diam ketika diminta menjelaskan gambar di depan kelompok.
 
 ### Latihan mandiri
 
-Analisis kasus anak yang menolak kegiatan kelompok. Tulis tiga kemungkinan penjelasan tanpa diagnosis, informasi yang diperlukan, serta dukungan awal yang aman dan dapat ditinjau.
+Rancang dua cara menunjukkan pemahaman pada tugas bercerita. Tulis satu tujuan bersama dan satu bukti bagi setiap cara.
 
 ### Refleksi
 
-Aturan mana yang saya pertahankan karena kebutuhan belajar, dan mana yang hanya memudahkan orang dewasa?
+Saat ikut berbicara sulit bagi anak, pilihan apa yang dapat saya tawarkan tanpa mengambil alih ceritanya?
 
 ### Referensi
 
@@ -1108,107 +700,69 @@ Aturan mana yang saya pertahankan karena kebutuhan belajar, dan mana yang hanya 
 
 - National Association for the Education of Young Children. (2022). Developmentally appropriate practice in early childhood programs serving children from birth through age 8 (4th ed.). https://www.naeyc.org/Resources/Pubs/Books/Dap-Fourth-Edition
 
-- Republik Indonesia. (2020). Peraturan Pemerintah Nomor 13 Tahun 2020 tentang Akomodasi yang Layak untuk Peserta Didik Penyandang Disabilitas. https://peraturan.bpk.go.id/Details/132596/pp-no-13-tahun-2020
+- United Nations. (1989). Convention on the Rights of the Child. https://www.ohchr.org/sites/default/files/crc.pdf
 
-- Republik Indonesia. (2014). Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak. https://peraturan.bpk.go.id/Details/38723/uu-no-35-tahun-2014
+- Republik Indonesia. (2020). Peraturan Pemerintah Nomor 13 Tahun 2020 tentang Akomodasi yang Layak untuk Peserta Didik Penyandang Disabilitas. https://peraturan.bpk.go.id/Details/132596/pp-no-13-tahun-2020
 
 <a id="bermain"></a>
 
 ## 12. Bermain, pengalaman, dan lingkungan belajar
 
-Merancang kesempatan eksplorasi dengan bimbingan yang proporsional serta pengamatan yang bermakna.
+Merancang bermain terbimbing dengan tujuan, pilihan anak, dan bantuan yang sesuai.
 
 ### Tujuan
 
-- Membedakan bermain bebas, bermain terbimbing, dan instruksi langsung.
+- Membedakan bermain bebas, bermain terbimbing, dan pengajaran langsung
 
-- Merancang lingkungan yang memberi pilihan dan tujuan belajar.
+- Merancang pilihan anak serta bantuan bertahap
 
-- Menyusun bukti pengamatan tanpa mengganggu permainan secara berlebihan.
+- Menafsirkan bukti penelitian bermain secara terbatas
 
-### Pemantik
+### Tiga cara mengatur pengalaman
 
-Kapan guru perlu ikut bermain, dan kapan perlu menunggu?
+Dalam bermain bebas, anak terutama menentukan arah dan tindakan. Dalam bermain terbimbing, pendidik menyiapkan tujuan belajar dan lingkungan serta memberi dukungan, sementara anak tetap memiliki pilihan bermakna. Dalam pengajaran langsung, pendidik mengambil peran utama mencontohkan atau menjelaskan cara tertentu. Ketiganya dapat muncul dalam satu hari belajar. Pada permainan pasar, anak dapat memilih peran dan barang. Guru menjaga tujuan bilangan dengan menata benda yang dapat dihitung dan memberi petunjuk ketika dibutuhkan.
+
+### Menentukan kapan guru masuk
+
+Guru dapat mengamati terlebih dahulu peran, strategi, dan persoalan yang sedang dihadapi anak. Jika jumlah wortel belum cocok, pertanyaan “bagaimana kita memeriksa pesanan ini?” membuka ruang untuk menentukan cara memeriksa. Bila anak kesulitan, guru dapat mencontohkan menyentuh satu benda setiap menyebut satu bilangan. Setelah itu, anak mencoba pada pesanan berikutnya. Gagasan bantuan sementara dapat dibaca melalui Wood et al. (1976).
+
+### Apa yang didukung penelitian
+
+Tinjauan sistematis dan meta-analisis Skene et al. (2022) menemukan keunggulan bermain terbimbing pada sebagian hasil dan pembanding tertentu, termasuk matematika awal dan pengenalan bentuk dibanding pengajaran langsung, serta kosakata spasial dibanding bermain bebas. Banyak hasil lain tidak menunjukkan perbedaan yang jelas, dan bentuk bimbingan bervariasi antarstudi. Temuan ini memberi dasar untuk memilih pendekatan sesuai tujuan, lalu memeriksa bagaimana rancangan tertentu dijalankan dan direspons di kelas.
+
+### Merancang lingkungan dan bukti
+
+Gunakan benda yang dapat dipindahkan dan cukup mudah diakses. Bukti dipilih sesuai tujuan. Bila tujuannya mencocokkan jumlah, amati apakah anak menyentuh satu wortel setiap menyebut angka dan berhenti pada jumlah yang diminta. Bila tujuannya bergiliran, amati bagaimana anak menyatakan usul dan menerima peran. Kesinambungan pengalaman dapat dilihat saat anak memakai strategi pada pesanan berbeda atau pada permainan lain.
+
+![Bermain terbimbing memberi anak pilihan dan menyediakan bantuan menuju tujuan belajar.](assets/bermain.svg)
 
 ### Kasus ilustratif
 
-Anak bermain toko-tokoan. Guru mengubah permainan menjadi latihan menyebut angka secara bergiliran. Sebagian anak meninggalkan area. Guru lain menambah label harga dan bertanya bagaimana pembeli tahu jumlah yang harus dibayar.
+Kapan pertanyaan guru membantu permainan berkembang?
+
+Dalam bermain pasar, anak memilih menjadi penjual atau pembeli dan menyiapkan keranjang. Seorang pembeli meminta tiga wortel. Penjual memasukkan beberapa wortel dengan cepat. Guru mendengarkan sebelum menawarkan pertanyaan.
 
 ![Anak bermain pasar sayur: penjual dan pembeli membawa keranjang, seorang anak menghitung wortel mainan, pendidik berlutut dan mendengarkan.](assets/scenes/bermain.webp)
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+### Pembahasan
 
-### Amati adegan
-
-- Keputusan apa yang masih dimiliki anak?
-
-- Bagaimana guru dapat memasukkan tujuan tanpa mengambil alih permainan?
-
-![Ketiga unsur dipertimbangkan bersama; bermain terbimbing bukan dominasi guru atau tanpa arah sama sekali.](assets/bermain.svg)
-
-Bermain terbimbing mempertahankan keaktifan anak bersama tujuan dan dukungan pendidik. Diagram adalah sintesis untuk membaca kasus; manfaat bergantung pada tujuan, cara pelaksanaan, dan konteks penelitian.
-
-### Bermain sebagai pengalaman
-
-Bermain memberi ruang untuk tindakan, imajinasi, aturan yang dinegosiasikan, dan hubungan dengan teman. Dalam pendidikan, guru dapat melihat peluang belajar tanpa harus mengubah semua permainan menjadi tes. Laporan Yogman et al. (2018) memberi bacaan pengayaan tentang bermain dan perkembangan; sumber tersebut merupakan laporan klinis berbasis literatur, bukan satu eksperimen kelas.
-
-Untuk analisis, perhatikan siapa yang menentukan arah, seberapa besar pilihan anak, dan bagaimana tujuan belajar masuk. Kegiatan yang memakai mainan tetapi seluruh langkahnya dikendalikan guru belum tentu memberi kualitas pengalaman bermain yang sama.
-
-### Tiga bentuk pengorganisasian
-
-Bermain bebas memberi kendali besar kepada anak dalam memilih dan mengembangkan aktivitas. Bermain terbimbing mempertahankan keaktifan anak dengan tujuan dan dukungan pendidik. Instruksi langsung memberi penjelasan atau demonstrasi yang lebih eksplisit. Bentuk-bentuk ini dapat digunakan pada kebutuhan berbeda; jangan memaksakan satu bentuk untuk semua situasi.
-
-Skene et al. (2022) menemukan manfaat bermain terbimbing dibanding pembanding tertentu pada beberapa hasil belajar. Temuan itu tidak membuktikan keunggulan universal. Usulan dalam kelas harus menyebut kemampuan yang dituju dan alasan bentuk pendampingan dipilih.
-
-### Merancang ruang dan bahan
-
-Lingkungan belajar perlu memungkinkan anak mengakses, memilih, mencoba, dan merapikan dengan aman. Bahan terbuka seperti balok, kain, atau wadah dapat digunakan dalam beragam cerita. Pemilihan bahan tetap mempertimbangkan ukuran, kebersihan, kondisi, dan kebutuhan kelompok. Bahan sederhana tidak otomatis aman hanya karena berasal dari rumah.
-
-Pada toko-tokoan, pendidik dapat menambah kertas, alat tulis, gambar barang, dan wadah. Anak diberi kesempatan membuat aturan permainan. Guru mengamati apakah alat dapat dijangkau dan apakah satu anak menguasai peran tertentu terus-menerus. Pengaturan lingkungan dapat menjadi bentuk bantuan sebelum guru memberi banyak instruksi.
-
-### Mengamati dan menanggapi
-
-Pengamatan dapat difokuskan pada percakapan, strategi, atau interaksi yang relevan dengan tujuan. Catat contoh khusus dan konteksnya. Jangan menghentikan setiap momen untuk meminta anak menjelaskan. Guru dapat memilih waktu yang tidak merusak alur permainan dan meninjau beberapa kejadian sebelum menyimpulkan.
-
-Bantuan dapat berupa pertanyaan, penambahan bahan, atau demonstrasi singkat ketika diperlukan. Setelah memberi bantuan, lihat apakah anak mengambil alih tindakan. Usulan ini terkait gagasan scaffolding, tetapi tetap memerlukan penyesuaian. Penilaian membantu menentukan tindak lanjut, bukan mengubah bermain menjadi rangkaian pemeriksaan (Wood et al., 1976; Permendikbudristek 21/2022).
-
-### Bandingkan tindakan
-
-**A: Permainan diambil alih**
-
-Menghentikan peran jual beli untuk meminta semua anak mengulang angka serempak.
-
-Hubungan angka dengan kebutuhan bermain terputus.
-
-**B: Tujuan masuk melalui dukungan**
-
-Menambahkan label harga sederhana dan bertanya berapa sayur yang dibutuhkan pembeli.
-
-Amati bagaimana anak menggunakan jumlah dalam permainannya.
-
-### Latihan visual
-
-Tuliskan satu pertanyaan terbuka yang membantu berhitung tanpa memutus peran jual beli.
-
-Contoh penalaran: Contoh: “Pembeli ingin tiga wortel. Bagaimana kamu memastikan jumlahnya sudah pas?” Pertanyaan mengikuti alur anak; pendidik tidak harus mengubah setiap momen bermain menjadi tes.
-
-### Analisis
-
-Latihan angka mungkin menggeser kendali dan tujuan permainan. Menambah label berpotensi menghubungkan tujuan numerasi dengan alur toko, tetapi guru tetap perlu membaca minat serta respons anak. Tidak semua permainan perlu diarahkan ke numerasi.
+Biarkan penjual memilih cara memeriksa keranjang. Beri contoh singkat jika strategi yang dipilih belum membantu. Pada pesanan berikutnya, lihat apa yang anak lakukan dengan bantuan yang dikurangi.
 
 ### Latihan terbimbing
 
-Tentukan satu tujuan toko-tokoan: komunikasi permintaan atau perbandingan jumlah. Buat satu pertanyaan yang membuka pikiran, bukan menuntut jawaban hafalan. Tulis pula kapan guru sebaiknya menunggu.
+Rancang satu giliran bermain pasar. Nyatakan satu tujuan, dua pilihan untuk anak, satu pertanyaan pembuka, dan satu petunjuk lanjutan jika diperlukan.
 
 ### Latihan mandiri
 
-Rancang area bermain untuk kelompok kecil. Cantumkan tujuan, pilihan anak, bahan, satu risiko keselamatan, bantuan guru, dan dua contoh bukti belajar. Jelaskan batas klaim dari bukti tersebut.
+Alihkan rancangan ke permainan bengkel atau dapur. Tuliskan pilihan yang dipertahankan pada anak dan bukti yang akan diamati saat dukungan dikurangi.
 
 ### Refleksi
 
-Apakah pertanyaan saya memperluas permainan atau justru mengubahnya menjadi ujian?
+Kapan pertanyaan saya memperpanjang penyelidikan anak? Kapan pertanyaan itu justru memutus alur permainan?
 
 ### Referensi
+
+- Dewey, J. (1997). Experience and education. Touchstone. (Original work published 1938) https://www.simonandschuster.com/books/Experience-And-Education/John-Dewey/9780684838281
 
 - Skene, K., O’Farrelly, C. M., Byrne, E. M., Kirby, N., Stevens, E. C., & Ramchandani, P. G. (2022). Can guidance during play enhance children’s learning and development in educational contexts? A systematic review and meta-analysis. Child Development, 93(4), 1162–1180. https://doi.org/10.1111/cdev.13730
 
@@ -1216,320 +770,198 @@ Apakah pertanyaan saya memperluas permainan atau justru mengubahnya menjadi ujia
 
 - Yogman, M., Garner, A., Hutchinson, J., Hirsh-Pasek, K., Golinkoff, R. M., Committee on Psychosocial Aspects of Child and Family Health, & Council on Communications and Media. (2018). The power of play: A pediatric role in enhancing development in young children. Pediatrics, 142(3), Article e20182058. https://doi.org/10.1542/peds.2018-2058
 
-- Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. (2022). Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Nomor 21 Tahun 2022 tentang Standar Penilaian Pendidikan pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://peraturan.bpk.go.id/Details/224425/permendikbudriset-no-21-tahun-2022
-
 <a id="budaya"></a>
 
-## 13. Pendidikan, keluarga, kebudayaan, dan nilai
+## 13. Pendidikan, keluarga, dan kebudayaan
 
-Menghargai keragaman sambil mengkritisi kebiasaan yang menghambat hak dan partisipasi anak.
+Menjelaskan pewarisan budaya, peluang partisipasi, dan cara berdialog dengan keluarga.
 
 ### Tujuan
 
-- Menjelaskan pendidikan sebagai pewarisan sekaligus peninjauan nilai budaya.
+- Menjelaskan sosialisasi melalui kebiasaan
 
-- Mengidentifikasi stereotip dan hambatan partisipasi.
+- Menganalisis dampak pengelompokan terhadap kesempatan belajar
 
-- Merancang komunikasi budaya yang menghargai keluarga dan hak anak.
+- Merancang dialog dengan keluarga
 
-### Pemantik
+### Pendidikan mewariskan dan menafsirkan budaya
 
-Apakah semua kebiasaan budaya harus dipertahankan dalam pendidikan?
+Bahasa, cerita, cara menyapa, dan praktik keluarga dapat masuk ke dalam pendidikan. Biesta (2009) menyebut sosialisasi sebagai salah satu fungsi pendidikan, yakni keterlibatan seseorang dalam cara hidup dan praktik bersama. Anak juga perlu mendapat kesempatan merespons dan memberi alasan. Guru dapat mengenalkan cerita keluarga atau permainan lokal sambil mengundang anak membandingkan cara memainkannya.
+
+### Kurikulum tersembunyi
+
+Dalam pembahasan kehidupan kelas oleh Jackson (1968), kurikulum tersembunyi merujuk pada pesan yang dipelajari melalui aturan, pengelompokan, dan kebiasaan sehari-hari di luar tujuan tertulis. Jika anak selalu diarahkan ke area tertentu berdasarkan jenis kelamin, pembagian kesempatan mengirim pesan tentang peran yang dianggap sesuai. Guru dapat membandingkan siapa yang memperoleh pengalaman menyusun, mengukur, merawat, atau bermain peran ketika akses dibuka.
+
+### Membaca budaya bersama keluarga
+
+Kerangka praktik sesuai perkembangan dari NAEYC (2020) menempatkan konteks sosial budaya sebagai salah satu pertimbangan. Guru dapat bertanya kepada keluarga apa yang mereka hargai dari sebuah kebiasaan, misalnya tanggung jawab membantu pekerjaan rumah atau kebersamaan. Pengaturan bermain dapat menjaga nilai saling membantu sambil memberi semua anak akses ke ragam tugas. Percakapan dengan keluarga membantu memahami arti kebiasaan sebelum mengambil keputusan.
+
+### Menguji perubahan secara proporsional
+
+Pembukaan akses kemungkinan memperluas pengalaman, tetapi respons setiap anak dapat berbeda. Catat pilihan area, durasi keterlibatan, dan jenis tindakan yang dicoba pada beberapa kesempatan. Informasi ini membantu guru melihat apakah undangan yang sama memang memberi akses yang dapat digunakan. Bila bahan sulit dijangkau atau teman mengambil alih, penyesuaian perlu diarahkan pada hambatan yang terlihat.
+
+![Aturan sehari-hari membentuk kesempatan dan dapat ditinjau bersama keluarga.](assets/budaya.svg)
 
 ### Kasus ilustratif
 
-Di kelas, anak laki-laki diarahkan ke permainan bangunan dan anak perempuan ke dapur-dapuran. Guru mengatakan itu kebiasaan masyarakat. Seorang anak ingin mencoba area yang berbeda tetapi ditertawakan teman.
+Bagaimana satuan PAUD menjaga praktik budaya sambil membuka pilihan anak?
+
+Pada awal bermain, orang dewasa membagi area balok untuk anak laki-laki dan dapur mainan untuk anak perempuan. Pada kesempatan berikutnya, dua keluarga mendampingi kegiatan dan semua anak diizinkan mencoba kedua area.
 
 ![Adegan pertama memisahkan anak laki-laki di balok dan anak perempuan di dapur mainan; adegan kedua memberi semua anak akses bermain bersama dengan pendampingan orang tua.](assets/scenes/budaya.webp)
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+### Pembahasan
 
-### Amati adegan
-
-- Pembatasan pilihan apa yang tampak?
-
-- Bagaimana keluarga dapat dilibatkan tanpa disalahkan?
-
-![Menghargai konteks budaya berjalan bersama pemeriksaan terhadap kesempatan dan martabat anak.](assets/budaya.svg)
-
-Kebudayaan menjadi konteks pengalaman yang dapat dihargai sekaligus ditelaah. Praktik diperiksa melalui makna, akses anak, dan dampaknya; tidak semua kebiasaan perlu dipertahankan atau ditolak sekaligus.
-
-### Pendidikan dalam kebudayaan
-
-Bahasa, cerita, perayaan, pekerjaan, dan cara berinteraksi membentuk pengalaman anak. Pendidikan mewariskan pengetahuan serta nilai, tetapi juga membuka ruang menilai kembali kebiasaan. Pewarisan bukan pemindahan tanpa pertanyaan. Mahasiswa perlu memeriksa dampak suatu kebiasaan terhadap martabat, keselamatan, dan kesempatan belajar.
-
-Misalnya, cerita lokal dapat menjadi bahan percakapan yang dekat dengan pengalaman keluarga. Namun, bagian cerita yang merendahkan kelompok tertentu perlu dibahas atau diadaptasi secara bertanggung jawab. Menghargai budaya tidak mensyaratkan menyetujui semua praktik yang mengatasnamakannya.
-
-### Keragaman sebagai sumber pengalaman
-
-Keluarga berbeda dalam bahasa, pekerjaan, pola pengasuhan, kondisi ekonomi, dan akses layanan. Guru perlu mengenal variasi tersebut tanpa menjadikan satu keluarga wakil tunggal suatu kelompok. Hindari anggapan bahwa cara keluarga dominan di kelas otomatis paling tepat. Perspektif ekologis membantu membaca hubungan konteks dan pengalaman (Bronfenbrenner, 1979).
-
-Usulan kegiatan: anak berbagi cerita rutinitas keluarga melalui gambar atau benda yang tidak berharga mahal. Pendidik menjaga agar perbedaan tidak berubah menjadi perbandingan status. Tidak semua anak wajib membuka informasi pribadi yang tidak ingin dibagikan.
-
-### Stereotip dan kesempatan belajar
-
-Stereotip adalah penyederhanaan ciri kelompok yang diterapkan kepada individu. Dalam pendidikan, akibatnya dapat berupa pembatasan kesempatan sebelum kemampuan atau minat anak diketahui. Pada kasus bermain, pembagian berdasarkan gender mengurangi kesempatan mencoba peran serta keterampilan.
-
-Rancangan yang lebih terbuka memberi akses ke area berdasarkan minat, kapasitas, dan keselamatan. Guru dapat mencontohkan bahasa yang tidak mengejek pilihan teman. Perubahan aturan perlu disertai pendampingan interaksi; hanya membuka pintu area belum cukup bila ejekan tetap berlangsung.
-
-### Dialog dengan keluarga
-
-Ketika nilai lembaga dan kebiasaan keluarga berbeda, mulai dari tujuan bersama dan fakta yang dapat dibicarakan. Jelaskan kesempatan belajar yang hendak diberikan serta dengarkan kekhawatiran keluarga. Hindari bahasa yang menyimpulkan keluarga tertinggal atau tidak peduli. Namun, dialog tidak berarti mengabaikan hak dan perlindungan anak.
-
-Sebagai latihan, mahasiswa dapat menyusun dua alternatif kegiatan yang tetap menghormati keragaman. Jelaskan apa yang dapat disesuaikan dan apa yang harus dijaga, seperti keselamatan serta larangan merendahkan. Dasar perlindungan anak memberi batas yuridis; rincian kegiatan merupakan keputusan pedagogis yang perlu ditinjau dalam konteks.
-
-### Bandingkan tindakan
-
-**A: Mewariskan pembatasan**
-
-Menentukan jenis permainan berdasarkan jenis kelamin.
-
-Kesempatan anak mencoba peran dan keterampilan menjadi terbatas.
-
-**B: Membuka pilihan dengan dialog**
-
-Memberi akses pada semua sudut bermain dan berdiskusi dengan keluarga tentang tujuan keterampilan.
-
-Amati minat dan partisipasi tanpa memaksa pilihan tertentu.
-
-### Latihan visual
-
-Rancang satu kalimat kepada keluarga untuk menjelaskan manfaat akses bermain yang setara.
-
-Contoh penalaran: Contoh: “Kami memberi semua anak kesempatan mencoba memasak dan membangun agar mereka dapat mengembangkan kerja sama serta keterampilan merawat kehidupan sehari-hari.” Dengarkan pula pandangan keluarga.
-
-### Analisis
-
-Alasan budaya tidak cukup membenarkan pembatasan dan ejekan. Guru perlu membuka akses, mendampingi respons teman, dan menjelaskan manfaat variasi pengalaman kepada keluarga tanpa menyatakan semua tradisi buruk.
+Guru menawarkan kedua area kepada semua anak, lalu menyediakan bahan dan contoh peran yang beragam. Keluarga dapat diajak membicarakan manfaat setiap kegiatan bagi perkembangan anak. Catat jenis pengalaman yang mulai diakses.
 
 ### Latihan terbimbing
 
-Pisahkan tiga hal pada kasus: kebiasaan masyarakat, keputusan guru, dan dampak pada kesempatan anak. Tulis satu kalimat yang menghormati keluarga sekaligus menjelaskan alasan membuka semua area bermain.
+Tinjau satu kebiasaan kelas, misalnya siapa yang diminta membawa benda atau merapikan alat. Jelaskan pesan yang mungkin diterima dan cara menguji dugaan Anda.
 
 ### Latihan mandiri
 
-Pilih cerita atau permainan lokal. Jelaskan potensi belajar, bagian yang perlu dikritisi, adaptasi yang diusulkan, dan cara mempertahankan penghargaan terhadap sumber budaya.
+Buat pembuka percakapan dengan keluarga yang ingin mempertahankan pembagian area bermain. Sebutkan nilai yang bisa dijaga, perubahan yang diusulkan, dan cara mengeceknya.
 
 ### Refleksi
 
-Harapan saya terhadap anak mana yang berasal dari stereotip, bukan pengamatan terhadap individu?
+Aturan kecil apa yang tanpa disadari membatasi pengalaman sebagian anak di kelas?
 
 ### Referensi
 
-- Bronfenbrenner, U. (1979). The ecology of human development: Experiments by nature and design. Harvard University Press. https://www.jstor.org/stable/j.ctv26071r6
+- Biesta, G. (2009). Good education in an age of measurement: On the need to reconnect with the question of purpose in education. Educational Assessment, Evaluation and Accountability, 21, 33–46. https://doi.org/10.1007/s11092-008-9064-9
 
-- Republik Indonesia. (2014). Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak. https://peraturan.bpk.go.id/Details/38723/uu-no-35-tahun-2014
+- Jackson, P. W. (1968). Life in classrooms. Holt, Rinehart and Winston. https://openlibrary.org/books/OL19584596M/Life_in_classrooms
 
-- National Association for the Education of Young Children. (2022). Developmentally appropriate practice in early childhood programs serving children from birth through age 8 (4th ed.). https://www.naeyc.org/Resources/Pubs/Books/Dap-Fourth-Edition
+- National Association for the Education of Young Children. (2020). Developmentally appropriate practice: A position statement. https://www.naeyc.org/resources/position-statements/dap/contents
+
+- United Nations. (1989). Convention on the Rights of the Child. https://www.ohchr.org/sites/default/files/crc.pdf
 
 <a id="kontemporer"></a>
 
-## 14. Tantangan kontemporer dan literasi digital
+## 14. Tantangan pendidikan dan literasi digital
 
-Menilai media, tuntutan akademik, dan klaim inovasi melalui tujuan serta bukti.
+Menilai klaim manfaat media, kegiatan pendamping, akses, dan pemrosesan data anak.
 
 ### Tujuan
 
-- Mengevaluasi klaim teknologi tanpa menerima atau menolak secara otomatis.
+- Menilai cakupan klaim dan pengukuran
 
-- Membedakan skor aktivitas dari bukti kemampuan yang lebih luas.
+- Menentukan tujuan dan bukti penggunaan media
 
-- Merancang penggunaan media yang menjaga partisipasi, privasi, dan tujuan belajar.
+- Menjelaskan pertimbangan privasi dokumentasi
 
-### Pemantik
+### Dari skor ke klaim
 
-Apakah pembelajaran yang memakai teknologi selalu lebih baik?
+Skor menggambarkan kinerja pada aturan dan tugas tertentu. Kenaikan dapat berkaitan dengan penguasaan pola, latihan mengoperasikan aplikasi, atau hafalan urutan. Untuk menilai klaim, identifikasi kemampuan yang diukur, pembanding, serta konteks pengukuran. Jika tujuan guru adalah mengenali pola berulang, ia dapat meminta anak melanjutkan pola dengan benda berbeda untuk mencari bukti penerapan. Klaim tentang kecerdasan umum membutuhkan ukuran dan rancangan penelitian yang sesuai dengan cakupannya.
+
+### Media dinilai dari pengalaman belajar
+
+Hirsh-Pasek et al. (2015) mengusulkan kerangka untuk menilai aplikasi berdasarkan kesempatan belajar aktif, keterlibatan, kebermaknaan, serta interaksi sosial yang berpijak pada tujuan. Dalam kegiatan pola, guru dapat memilih media yang memungkinkan anak memprediksi elemen selanjutnya, menjelaskan alasan, dan membandingkan susunan bersama teman. Kerangka ini memberi kriteria untuk memeriksa rancangan kegiatan. Manfaat media spesifik tetap memerlukan bukti.
+
+### Akses dan pengalaman yang digantikan
+
+Tablet bersama dapat memberi kesempatan berdiskusi jika setiap anak memiliki cara menyumbang ide. Bila gilirannya terlalu singkat, anak mungkin hanya menekan jawaban. Pertimbangkan ketersediaan perangkat, bahasa, kebutuhan akses, dan waktu yang diambil dari pengalaman langsung. Jika balok dan kancing lebih sesuai untuk mencoba pola, pilih benda tersebut atau gunakan sebagai kegiatan pendamping. Keputusan dimulai dari tujuan dan keadaan satuan.
+
+### Privasi sebagai bagian keputusan pendidikan
+
+UU No. 27 Tahun 2022 Pasal 25 mengatur pemrosesan data pribadi anak secara khusus dan mensyaratkan persetujuan orang tua dan/atau wali sesuai ketentuan. Pasal 27 dan 28 mengarahkan pemrosesan terbatas, spesifik, transparan, dan sesuai tujuan. Dalam komunikasi perkembangan, guru dapat membahas pengamatan secara privat, membatasi informasi yang dikumpulkan, dan mengikuti prosedur satuan. Untuk latihan kuliah, gunakan contoh sintetis tanpa identitas anak.
+
+![Keputusan media mempertimbangkan tujuan, bukti, akses, dan perlindungan data.](assets/kontemporer.svg)
 
 ### Kasus ilustratif
 
-Sebuah aplikasi mengklaim meningkatkan kecerdasan anak dalam satu minggu. Guru ingin memakainya setiap hari karena tampilannya menarik dan tersedia skor otomatis. Orang tua juga meminta foto serta peringkat anak dipublikasikan di grup besar.
+Apa yang dapat disimpulkan dari skor aplikasi belajar?
+
+Aplikasi menjanjikan peningkatan kecerdasan melalui permainan pola. Guru melihat skor naik setelah beberapa putaran. Keluarga bertanya apakah skor itu bisa dibagikan untuk membandingkan kemajuan anak.
 
 ![Pendidik memeriksa tablet dengan tampilan skor abstrak; adegan lain menunjukkan diskusi privat dengan orang tua sementara anak bermain dengan balok.](assets/scenes/kontemporer.webp)
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+### Pembahasan
 
-### Amati adegan
-
-- Apakah grafik skor cukup membuktikan klaim sebuah aplikasi?
-
-- Data dan pengalaman anak apa yang perlu dipertimbangkan?
-
-![Keputusan mempertimbangkan tujuan, bukti, data, dan akses; skor bukan gambaran lengkap anak.](assets/kontemporer.svg)
-
-Empat pertanyaan dalam diagram adalah panduan telaah pedagogis, bukan daftar lengkap kewajiban hukum perlindungan data. Klaim efektivitas perlu bukti yang sesuai, bukan hanya tampilan menarik.
-
-### Perubahan sosial dan tuntutan lembaga
-
-Teknologi, pekerjaan keluarga, arus informasi, serta persaingan lembaga memengaruhi harapan terhadap PAUD. Tidak semua perubahan harus diikuti dengan menambah program. Pendidik perlu bertanya masalah apa yang hendak diatasi, siapa yang memperoleh manfaat, dan kebutuhan apa yang mungkin terabaikan.
-
-Klaim seperti sekolah modern atau anak unggul tidak cukup untuk menilai kualitas. Periksa pengalaman yang benar-benar tersedia. Jika kegiatan baru mengurangi waktu percakapan dan bermain tanpa tujuan jelas, manfaatnya perlu dipertanyakan. Analisis ini berlaku pada media digital maupun nondigital.
-
-### Memeriksa klaim efektivitas
-
-Kata meningkatkan harus diikuti pertanyaan: meningkatkan apa, dibandingkan dengan apa, diukur bagaimana, dan pada siapa? Skor permainan dapat mencerminkan kemampuan mengoperasikan aplikasi atau mengingat pola soal, belum tentu pemahaman yang dapat digunakan di situasi lain. Testimoni pengguna bukan pengganti penelitian yang sesuai.
-
-Mahasiswa dapat membuat tabel klaim dan bukti. Tuliskan apakah sumbernya promosi, laporan pengalaman, pedoman profesi, atau artikel penelitian. Bila bukti belum tersedia, nyatakan ketidakpastian. Tidak perlu membuat kesimpulan bahwa produk pasti buruk; keputusan dapat berupa uji terbatas dengan tujuan serta kriteria yang jelas.
-
-### Media sebagai bagian pengalaman
-
-Usulan pemilihan media adalah menilai tujuan, kualitas isi, akses, pendampingan, dan kegiatan lanjutannya. Video singkat tentang hujan dapat menjadi pemantik percakapan dan pengamatan, tetapi menonton saja tidak menjamin pemahaman. Guru dapat menghubungkan media dengan pengalaman anak dan menghindari waktu pasif yang tidak diperlukan.
-
-Portal ini tidak memberikan batas waktu layar sebagai anjuran kesehatan karena memerlukan pedoman sesuai usia dan konteks. Fokus pendidikan adalah alasan penggunaan serta pengalaman yang digantikan atau diperluas. Pilih alternatif nondigital jika memberi pengalaman yang lebih sesuai atau lebih mudah diakses.
-
-### Privasi dan profesionalisme digital
-
-Foto, nama, hasil karya, serta catatan perkembangan anak memerlukan perlakuan hati-hati. Untuk latihan mahasiswa, gunakan kasus rekaan dan hindari identitas anak. Publikasi nyata mengikuti persetujuan, kebijakan lembaga, serta ketentuan yang berlaku. Persetujuan untuk dokumentasi internal tidak otomatis berarti persetujuan untuk penyebaran publik.
-
-Budaya lingkungan aman juga mencakup perhatian terhadap ruang digital (Permendikdasmen 6/2026, sesuai lingkupnya). Secara pedagogis, peringkat publik dapat mempersempit cara melihat perkembangan. Informasi untuk keluarga sebaiknya terkait kemajuan dan dukungan, bukan mempermalukan atau membandingkan anak secara sederhana.
-
-### Bandingkan tindakan
-
-**A: Menerima klaim pemasaran**
-
-Menggunakan skor aplikasi sebagai peringkat umum kemampuan anak.
-
-Validitas skor, akses keluarga, dan kebutuhan data belum diperiksa.
-
-**B: Menilai sebelum menggunakan**
-
-Memeriksa tujuan, bukti, kebutuhan data, dan alternatif tanpa perangkat.
-
-Putuskan penggunaan terbatas atau tidak menggunakan berdasarkan hasil telaah.
-
-### Latihan visual
-
-Sebutkan dua informasi yang harus tersedia sebelum merekomendasikan aplikasi pada kasus ini.
-
-Contoh penalaran: Contoh: bukti bahwa alat sesuai tujuan dan usia pengguna, serta data apa yang dikumpulkan dan siapa yang dapat mengaksesnya. Skor otomatis tidak cukup untuk mendiagnosis atau memberi peringkat kemampuan umum.
-
-### Analisis
-
-Klaim kecerdasan perlu bukti yang menjelaskan konstruk dan pengukurannya. Skor otomatis tidak cukup. Publikasi identitas dan peringkat merupakan keputusan berbeda yang perlu pertimbangan privasi serta tujuan komunikasi, bukan mengikuti permintaan tanpa pemeriksaan.
+Beri tugas pola serupa dengan benda baru, lalu minta anak menunjukkan caranya. Sampaikan hasil kepada keluarga sebagai catatan tentang strategi pada tugas tertentu. Tinjau dasar, tujuan, dan akses sebelum data individual ditangani.
 
 ### Latihan terbimbing
 
-Analisis satu klaim promosi rekaan: “anak pasti kreatif setelah tiga permainan”. Tandai kata yang terlalu mutlak, konstruk yang tidak dijelaskan, serta bukti yang perlu diminta.
+Ubah klaim “aplikasi membuat semua anak lebih cerdas” menjadi pertanyaan yang bisa diuji pada satu kemampuan. Tentukan tugas pembanding dan bukti penerapan.
 
 ### Latihan mandiri
 
-Bandingkan media digital dan kegiatan benda nyata untuk satu tujuan. Tulis alasan pilihan, kebutuhan pendampingan, akses, bukti belajar, dan pengelolaan dokumentasi tanpa identitas anak.
+Bandingkan satu kegiatan digital dengan alternatif benda nyata untuk tujuan yang sama. Jelaskan peran guru, akses, bukti, dan cara menjaga data anak.
 
 ### Refleksi
 
-Apakah saya memilih teknologi karena membantu anak belajar atau karena terlihat mutakhir?
+Jika perangkat dihilangkan, bagian mana dari rancangan saya masih memberi pengalaman belajar yang sama?
 
 ### Referensi
 
-- Kementerian Pendidikan Dasar dan Menengah. (2026). Peraturan Menteri Pendidikan Dasar dan Menengah Nomor 6 Tahun 2026 tentang Budaya Sekolah Aman dan Nyaman. https://peraturan.go.id/id/permendikdasmen-no-6-tahun-2026
+- Hirsh-Pasek, K., Zosh, J. M., Golinkoff, R. M., Gray, J. H., Robb, M. B., & Kaufman, J. (2015). Putting education in “educational” apps: Lessons from the science of learning. Psychological Science in the Public Interest, 16(1), 3–34. https://doi.org/10.1177/1529100615569721
 
-- Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. (2022). Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Nomor 21 Tahun 2022 tentang Standar Penilaian Pendidikan pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://peraturan.bpk.go.id/Details/224425/permendikbudriset-no-21-tahun-2022
-
-- National Association for the Education of Young Children. (2022). Developmentally appropriate practice in early childhood programs serving children from birth through age 8 (4th ed.). https://www.naeyc.org/Resources/Pubs/Books/Dap-Fourth-Edition
+- Republik Indonesia. (2022). Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi. https://peraturan.bpk.go.id/Home/Download/224884/UU%20Nomor%2027%20Tahun%202022.pdf
 
 <a id="profesional"></a>
 
 ## 15. Profesionalisme dan analisis kasus integratif
 
-Menyatukan konsep, nilai, regulasi, dan bukti menjadi keputusan pendidik yang dapat ditinjau.
+Menggunakan pengetahuan profesi, pengamatan, dan refleksi untuk mengambil keputusan.
 
 ### Tujuan
 
-- Membedakan fakta, interpretasi, dan informasi yang belum tersedia.
+- Menjelaskan tanggung jawab dan batas kompetensi pendidik
 
-- Menyusun keputusan dengan alasan konseptual, normatif, dan yuridis.
+- Menganalisis fakta, interpretasi, dan informasi yang kurang
 
-- Menetapkan tindak lanjut serta batas kewenangan pendidik.
+- Menetapkan tindakan, bukti, dan waktu peninjauan
 
-### Pemantik
+### Profesionalisme sebagai pertanggungjawaban
 
-Bagaimana mengambil keputusan ketika kebutuhan anak, tuntutan orang tua, dan kebijakan lembaga bertentangan?
+UU No. 14 Tahun 2005 menempatkan guru pada PAUD jalur formal, pendidikan dasar, dan pendidikan menengah serta memuat kompetensi pedagogik, kepribadian, sosial, dan profesional. Kompetensi tersebut terlihat saat guru merancang pengalaman belajar, berkomunikasi dengan keluarga, memakai pengetahuan yang relevan, dan menjaga martabat anak. Tindakan profesional dapat ditinjau dari alasan, pelaksanaan, bukti, dan tindak lanjutnya.
+
+### Merumuskan persoalan yang bisa ditangani
+
+Mulai dari pengamatan. Kapan anak meninggalkan meja, apa tuntutan kegiatannya, apa yang dilakukan sebelum dan sesudahnya, serta kapan ia tetap bertahan? Catatan “meninggalkan meja setelah mencoba menyalin dua huruf” berbeda dari dugaan “malas menulis”. Hubungi keluarga untuk mengetahui apa yang biasa dilakukan anak di rumah. Guru dapat mempertimbangkan durasi, tuntutan gerak, bahan, pemahaman instruksi, dan minat sebelum memilih langkah awal.
+
+### Menimbang dan menguji respons
+
+Bandingkan respons yang mungkin. Guru dapat mempersingkat tugas, menyediakan alat yang mudah digunakan, atau memasukkan simbol dan coretan bermakna pada permainan. Jika memilih kartu nama bangunan, tentukan tujuan yang dipertahankan, misalnya menggunakan tanda untuk menyampaikan makna. Catat apakah anak mulai membuat atau menjelaskan tanda dengan dukungan yang realistis. Ketika informasi memerlukan kompetensi pihak lain, guru mengoordinasikan konsultasi sesuai prosedur satuan.
+
+### Refleksi selama dan setelah tindakan
+
+Schön (1983) membahas bagaimana praktisi dapat memikirkan dan menyesuaikan tindakan ketika menghadapi situasi yang sedang berlangsung. Guru dapat mengubah bantuan saat melihat anak tertahan pada instruksi, lalu meninjau catatan setelah kegiatan. Bila anak dapat memberi makna pada tanda di permainan, guru memperoleh petunjuk untuk merancang kesempatan berikutnya. Refleksi juga menuntut guru memeriksa keputusan awalnya sendiri dan menjelaskan dasar perubahan kepada keluarga.
+
+![Tindakan profesional disesuaikan saat pengamatan memberi informasi baru.](assets/profesional.svg)
 
 ### Kasus ilustratif
 
-Seorang anak sering meninggalkan kegiatan menulis. Orang tua meminta hukuman agar anak siap SD. Guru melihat anak bersemangat ketika bermain peran tetapi belum mencatat situasi secara sistematis. Kepala RA meminta solusi cepat dan laporan perkembangan.
+Bagaimana guru bertindak ketika keluarga, lembaga, dan anak memerlukan hal yang berbeda?
+
+Seorang anak beberapa kali meninggalkan meja pada kegiatan menulis, tetapi bertahan lama saat membangun dengan balok. Keluarga meminta hukuman agar ia terbiasa. Kepala RA meminta guru menyiapkan laporan dan langkah tindak lanjut.
 
 ![Anak meninggalkan meja menulis menuju balok sementara guru mengamati; pendidik dan orang tua membahas catatan serta karya saat anak menunjukkan bangunan.](assets/scenes/profesional.webp)
 
-Ilustrasi rekaan berbantuan AI; bukan dokumentasi atau bukti penelitian.
+### Pembahasan
 
-### Amati adegan
-
-- Mana yang benar-benar terlihat dan mana yang masih dugaan?
-
-- Bukti apa yang dapat dibahas bersama orang tua?
-
-![Hasil peninjauan dapat mengubah hipotesis dan tindakan; label awal tidak menggantikan pengamatan.](assets/profesional.svg)
-
-Penalaran profesional berputar dari pengamatan ke tindakan dan peninjauan. Diagram adalah alat bantu analisis, bukan prosedur diagnosis atau jaminan hasil.
-
-### Profesionalisme sebagai tanggung jawab
-
-Profesionalisme tidak hanya berarti mampu membuat kegiatan atau menguasai aplikasi. Pendidik bertanggung jawab atas alasan tindakan, kualitas hubungan, ketepatan informasi, dan kesediaan memperbaiki praktik. Ia bekerja bersama keluarga dan rekan, menjaga kerahasiaan, serta mengenali batas kompetensi.
-
-Mahasiswa perlu berlatih mengatakan belum cukup informasi ketika memang demikian. Ketidakpastian tidak menghentikan semua tindakan: guru tetap dapat menjaga keselamatan, memberi dukungan awal, dan mengumpulkan informasi yang relevan. Yang dihindari ialah keputusan berat berdasarkan label atau dugaan yang belum diperiksa.
-
-### Dari fakta menuju masalah
-
-Mulai dengan deskripsi: kapan anak meninggalkan kegiatan, apa yang terjadi sebelumnya, apa yang ia lakukan sesudahnya, dan situasi ketika ia bertahan. Pisahkan dari interpretasi seperti malas atau tidak siap sekolah. Tentukan masalah pendidikan yang dapat ditangani, misalnya kesesuaian tuntutan kegiatan dan kesempatan partisipasi.
-
-Jangan langsung menyusun penjelasan tunggal. Kesulitan dapat berkaitan dengan minat, tuntutan motorik, bahasa instruksi, durasi, atau relasi. Ini adalah kemungkinan untuk diperiksa, bukan diagnosis. Informasi keluarga dan pengamatan beberapa kesempatan membantu memperjelas kebutuhan.
-
-### Membandingkan alternatif
-
-Alternatif perlu dibandingkan berdasarkan tujuan, hak anak, kemungkinan manfaat, risiko, dan kelayakan. Mengurangi tuntutan sementara, menyediakan pilihan alat, menghubungkan kegiatan dengan bermain peran, atau memberi contoh singkat merupakan usulan yang perlu dicocokkan dengan informasi. Menolak hukuman yang merendahkan tidak berarti mengabaikan tujuan belajar.
-
-Gunakan teori untuk menjelaskan mekanisme yang diharapkan, regulasi untuk batas dan kewajiban, serta penelitian untuk klaim empiris yang sesuai. Jangan menumpuk sitasi yang tidak berhubungan. Satu alasan yang jelas lebih kuat daripada daftar tokoh tanpa penjelasan.
-
-### Tindak lanjut dan refleksi
-
-Keputusan yang baik memuat cara meninjau hasil. Tentukan perilaku atau pengalaman yang akan diamati, kapan dibicarakan kembali, dan siapa yang perlu terlibat. Jika dukungan belum membantu, tinjau asumsi dan pertimbangkan konsultasi sesuai prosedur lembaga. Guru tidak membuat diagnosis medis atau psikologis dari tugas kuliah.
-
-Refleksi profesional memeriksa tindakan pendidik: kesempatan apa yang telah diberikan, siapa yang masih terhambat, dan apa yang perlu diubah. Portofolio mahasiswa dapat memuat kasus, alasan keputusan, contoh bukti, serta revisi setelah menerima masukan. Perubahan keputusan karena bukti baru merupakan bagian dari tanggung jawab, bukan kegagalan otomatis.
-
-### Bandingkan tindakan
-
-**A: Label mendahului pengamatan**
-
-Menyebut anak malas lalu menambah hukuman atau latihan menulis.
-
-Penyebab, tuntutan tugas, dan pengalaman anak belum diketahui.
-
-**B: Keputusan berdasarkan telaah**
-
-Mengumpulkan pengamatan, berdialog dengan keluarga, mencoba dukungan, dan meninjau respons.
-
-Bukti: perubahan partisipasi, pengalaman anak, serta kelayakan dukungan.
-
-### Latihan visual
-
-Tulis satu fakta, satu hipotesis, dan satu rencana pengumpulan informasi dari ilustrasi.
-
-Contoh penalaran: Fakta adegan: anak berpindah dari meja ke balok. Hipotesis: tuntutan menulis mungkin belum sesuai kebutuhannya. Informasi: amati respons pada beberapa tugas dan dengarkan anak serta keluarga. Hipotesis tetap perlu diuji.
-
-### Analisis
-
-Langkah pertama ialah menolak pelabelan dan mengumpulkan pengamatan yang relevan sambil memberi dukungan awal. Jelaskan kepada keluarga bahwa kesiapan pendidikan lebih luas dari ketahanan menulis. Usulkan penyesuaian, tentukan bukti respons, dan jadwalkan peninjauan tanpa menjanjikan hasil seragam.
+Tentukan satu dukungan awal, misalnya membuat tanda untuk bangunan yang dipilih anak. Catat pilihan, bantuan, dan cara anak menggunakan tanda. Sepakati dengan keluarga kapan guru akan meninjau respons dan apa yang perlu didiskusikan kembali.
 
 ### Latihan terbimbing
 
-Gunakan urutan: fakta, masalah, dasar, alternatif, keputusan, peninjauan. Pada bagian dasar, bedakan satu konsep, satu nilai, dan satu regulasi. Sebutkan informasi yang masih kurang.
+Susun enam bagian memo: fakta, masalah, konsep dan aturan, dua pilihan, keputusan, peninjauan. Tulis satu data yang masih kurang pada bagian fakta.
 
 ### Latihan mandiri
 
-Susun memo keputusan 600–800 kata atas kasus pembuka. Gunakan minimal tiga sumber dengan fungsi berbeda. Sertakan dua alternatif, pilihan beralasan, rencana pengamatan, serta batas kewenangan. Identitas anak harus rekaan.
+Tulis memo keputusan 400–600 kata. Gunakan minimal dua sumber sesuai fungsi, jelaskan dua alternatif, dan tetapkan bukti, waktu peninjauan, serta pihak yang terlibat.
 
 ### Refleksi
 
-Pendapat saya mana yang berubah setelah memeriksa bukti, dan apa konsekuensinya bagi tindakan saya?
+Bagian mana dari kesimpulan saya yang akan berubah jika keluarga memberi informasi baru?
 
 ### Referensi
 
+- Republik Indonesia. (2005). Undang-Undang Nomor 14 Tahun 2005 tentang Guru dan Dosen. https://peraturan.bpk.go.id/Download/29906/UU_Nomor_14_Tahun_2005.pdf
+
+- Schön, D. A. (1983). The reflective practitioner: How professionals think in action. Basic Books. https://books.google.com/books?id=oYNHAAAAMAAJ
+
 - Republik Indonesia. (2014). Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak. https://peraturan.bpk.go.id/Details/38723/uu-no-35-tahun-2014
 
-- Kementerian Pendidikan Dasar dan Menengah. (2026). Peraturan Menteri Pendidikan Dasar dan Menengah Nomor 1 Tahun 2026 tentang Standar Proses pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://peraturan.bpk.go.id/Details/344196/permendikdasmen-no-1-tahun-2026
+- National Association for the Education of Young Children. (2020). Developmentally appropriate practice: A position statement. https://www.naeyc.org/resources/position-statements/dap/contents
 
 - Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi. (2022). Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi Nomor 21 Tahun 2022 tentang Standar Penilaian Pendidikan pada Pendidikan Anak Usia Dini, Jenjang Pendidikan Dasar, dan Jenjang Pendidikan Menengah. https://peraturan.bpk.go.id/Details/224425/permendikbudriset-no-21-tahun-2022
-
-- Kementerian Agama. (2025). Keputusan Menteri Agama Nomor 1503 Tahun 2025 tentang Perubahan atas Keputusan Menteri Agama Nomor 450 Tahun 2024 tentang Pedoman Implementasi Kurikulum pada Raudhatul Athfal, Madrasah Ibtidaiyah, Madrasah Tsanawiyah, Madrasah Aliyah, dan Madrasah Aliyah Kejuruan. https://jdih.kemenag.go.id/regulation/keputusan-menteri-agama-nomor-1503-tahun-2025-tentang-perubahan-atas-keputusan-menteri-agama-nomor-450-tahun-2024-tentang-pedoman-implementasi-kurikulum-kurikulum-pada-raudhatul-athfal-madrasah-ibtidaiyah-madrasah-tsanawiyah-madrasah-aliyah-dan-madrasah-aliyah-kejuruan
-
-- Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. Journal of Child Psychology and Psychiatry, 17(2), 89–100. https://doi.org/10.1111/j.1469-7610.1976.tb00381.x

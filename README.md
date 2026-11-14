@@ -2,7 +2,7 @@
 
 Portal materi kuliah S1 Pendidikan Islam Anak Usia Dini, UNISMAM Jambi. Pengampu: **Jules Nurhatmi, M.Pd.**
 
-**Edisi 1.1 · 24 Oktober 2026.** 14 unit bergambar, 28 visual utama (14 ilustrasi kasus + 14 diagram konsep), UTS/UAS, peta belajar, bank kasus, glosarium, dan referensi. Semua halaman dapat dibaca tanpa JavaScript. Fitur tambahan: pencarian isi, cek pemahaman, refleksi lokal, ekspor catatan, progres pribadi, dan tampilan cetak.
+**Edisi 2.0 · 14 November 2026.** Empat belas unit yang ditulis ulang, latihan UTS/UAS, peta RPS dan jadwal tatap muka, kumpulan kasus, glosarium, serta referensi. Fitur pencarian, kuis, catatan, progres, dan cetak tersedia di portal.
 
 ## Mulai dari sini
 
@@ -10,7 +10,7 @@ Portal materi kuliah S1 Pendidikan Islam Anak Usia Dini, UNISMAM Jambi. Pengampu
 
 ![Ilustrasi kasus: pengalaman belajar anak](assets/scenes/hakikat.webp)
 
-Adegan rekaan berbantuan AI. Setiap unit menghubungkan gambar dengan pertanyaan pengamatan, teori, perbandingan tindakan, dan latihan visual.
+Adegan rekaan berbantuan AI. Setiap unit menghubungkan teori, diagram, satu kasus bergambar, dan latihan.
 
 - [Daftar seluruh materi dalam satu dokumen](docs/MATERI-KOMPILASI.md)
 - [Peta kurikulum dan keputusan editorial](handbook/KALIBRASI.md)
@@ -23,9 +23,9 @@ Adegan rekaan berbantuan AI. Setiap unit menghubungkan gambar dengan pertanyaan 
 
 | Lokasi | Fungsi |
 |---|---|
-| `content/course.json` | Sumber tunggal teks 14 unit, tujuan, latihan, kunci, refleksi, intisari |
+| `content/course.json` | Sumber tunggal teks 14 unit, tujuan, latihan, kunci, dan refleksi |
 | `content/references.json` | Bibliografi, jenis sumber, URL, dan batas penggunaan |
-| `content/visuals.json` | Deskripsi gambar, pertanyaan pengamatan, diagram, perbandingan tindakan, dan latihan visual |
+| `content/visuals.json` | Deskripsi gambar, pertanyaan pengamatan, diagram dan latihan visual |
 | `assets/scenes/` | 14 ilustrasi kasus WebP yang digunakan portal |
 | `assets/` | CSS, JavaScript, dan diagram SVG |
 | `scripts/build.py` | Menghasilkan HTML dan kompilasi Markdown dari sumber |

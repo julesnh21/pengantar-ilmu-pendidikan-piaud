@@ -14,7 +14,7 @@ check(len({l['id'] for l in L})==len(L),'Duplicate unit identifiers')
 refids={r['id'] for r in R}; check(len(refids)==len(R),'Duplicate source identifiers')
 words=0
 for l in L:
- for field in ['title','summary','question','case','goals','sections','analysis','guided','independent','reflection','quiz','explanation','refs','diagram','takeaways']:check(bool(l.get(field)),l['id']+': missing '+field)
+ for field in ['title','summary','question','case','goals','sections','analysis','guided','independent','reflection','quiz','explanation','refs']:check(bool(l.get(field)),l['id']+': missing '+field)
  check(len(l['sections'])>=4,l['id']+': insufficient structured sections')
  check(len(l['quiz'])==4 and 0<=l['answer']<3,l['id']+': invalid quiz')
  check(set(l['refs'])<=refids,l['id']+': unknown citation')
@@ -47,15 +47,15 @@ check(len(pages)==23,'Expected 23 HTML pages')
 V=json.loads((root/'content/visuals.json').read_text())
 check(set(V)=={l['id'] for l in L},'Visual unit coverage mismatch')
 for id,v in V.items():
- for field in ['image','alt','observe','read','a','b','task','answer','concept','nodes','center','relation']:
+ for field in ['image','alt','observe','task','answer','concept','nodes','center','relation']:
   check(bool(v.get(field)),id+': missing visual '+field)
  asset=root/v['image'];check(asset.exists(),id+': missing source image')
  if asset.exists():
   raw=asset.read_bytes();check(len(raw)>1000 and raw[:4]==b'RIFF' and raw[8:12]==b'WEBP',id+': invalid WebP file')
  check((out/v['image']).exists(),id+': missing published image')
  check(len(v['observe'])==2,id+': observation prompts')
- check(len(v['a'])==3 and len(v['b'])==3,id+': action comparison')
  page=(out/(id+'.html')).read_text()
+ check(page.find('id="materi-1"') < page.find('id="kasus"'),id+': theory should precede case')
  check('class="scene-figure"' in page and 'class="concept-figure"' in page,id+': missing visual figure')
  check('Buka contoh penalaran setelah mencoba' in page,id+': missing visual exercise')
  check(v['image'] in (out/'MATERI-KOMPILASI.md').read_text(),id+': missing compiled image')

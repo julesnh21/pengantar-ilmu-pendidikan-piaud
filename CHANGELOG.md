@@ -1,5 +1,13 @@
 # Riwayat perubahan
 
+## 2.0 · 14 November 2026
+
+- Menulis ulang materi, kasus, latihan, dan kuis untuk seluruh 14 unit.
+- Menempatkan teori inti sebelum diagram, pembahasan kasus, dan kegiatan penerapan.
+- Memperbarui 14 diagram, latihan UTS/UAS, rubrik, glosarium, bibliografi, dan kompilasi.
+- Menampilkan peta 16 pertemuan RPS serta 13 sesi tatap muka.
+
+
 ## 1.1 · 24 Oktober 2026
 
 - Menambahkan ilustrasi kasus khusus pada seluruh 14 unit dan kartu pertemuan.
